@@ -1,0 +1,5102 @@
+[
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Supervised Learning, EDA, Control Systems, CMOS, VHDL, OSI Model, Classification",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "CNNs, Logic Gates, VHDL, Transistors (BJT, MOSFET), Natural Language Processing (NLP), Z-Transform, Modulation",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Microcontrollers, Scikit-learn, Boolean Algebra, Keras",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scalability, DynamoDB, C++, Multithreading",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Performance Optimization, Caching, Python, SQL, Data Structures, Load Balancing, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Docker, Multithreading, API Development, React",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Messaging Queues, Git, Linux, Java, Problem Solving, Jira, Big O Notation, Caching",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, Agile, Docker, MySQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Azure Machine Learning, Signals and Systems, Google Cloud AI Platform, Seaborn",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "React, Troubleshooting, System Design, RESTful APIs, Unit Testing, C++, Database Design, Jira",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "RNNs, AWS Sagemaker, ASIC Design, Data Preprocessing",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Power Electronics, Azure Machine Learning, Electronic Devices, SPICE, Semiconductor Physics, Statistical Analysis, Cadence Virtuoso",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "PostgreSQL, SQL, Scripting, Algorithms, Big O Notation",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "VHDL, Classification, Pandas, Digital Electronics, TensorFlow, Modulation, Cadence Virtuoso, Filters",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MySQL, React, Scalability, JavaScript, S3, Messaging Queues, Caching",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "RESTful APIs, Java, Lambda, System Design, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Guess these position nearly. Worked as a civil engineer using AutoCAD and project management tools.",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "EC2, Database Design, Security, Networking, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Debugging, Performance Optimization, NoSQL, AWS, Agile, Node.js, Troubleshooting, Messaging Queues",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "API Development, CI/CD, Algorithms, AWS, Troubleshooting, Debugging, Node.js, Multithreading",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Database Design, Scripting, Docker, NoSQL, Test-Driven Development (TDD)",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "CI/CD, Linux, Caching, Node.js, Python, Docker, Agile",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Numpy, Python, Jupyter Notebook, Computer Vision, FPGA, Transmission Lines, Statistical Analysis",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Data Structures, Cloud Computing, Jira, High Availability, DynamoDB",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Machine Learning, Waveguides, Mathematics, Signals and Systems, Antenna Theory, Keras, Python",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "EDA, Neural Networks, Bode Plots, RNNs, Analog Circuits",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, Analog Circuits, Laplace Transform, Data Cleaning, Cross-validation",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Node.js, SQL, Security, Unit Testing, MySQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Reinforcement Learning (RL), Circuit Analysis, Unsupervised Learning, Jupyter Notebook, Waveguides, Data Preprocessing",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SPICE, Google Cloud AI Platform, Model Evaluation, Power Electronics, Transistors (BJT, MOSFET), Control System Design, Data Cleaning, Pandas",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Networking, Git, Messaging Queues, Troubleshooting, Test-Driven Development (TDD), Concurrency",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Fourier Transform, Model Evaluation, Deep Learning, AWS Sagemaker",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Google Cloud AI Platform, Data Cleaning, SPICE, Unsupervised Learning, Op-Amps, Modulation",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "NoSQL, Load Balancing, Networking, Python",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Diodes, Feature Engineering, Neural Networks, Transmission Lines",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Git, Linux, MySQL, Kubernetes, High Availability, Multithreading, Agile, System Design",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "C++, Agile, Node.js, Networking, Test-Driven Development (TDD), Troubleshooting",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "C++, Test-Driven Development (TDD), Kubernetes, RESTful APIs, PostgreSQL, MySQL, Linux",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Waveguides, Op-Amps, Antenna Theory, Boolean Algebra, Pandas, Matplotlib, Sensors",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "API Development, Big O Notation, EC2, Debugging, Java",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Simulink, Jupyter Notebook, Mathematics, Transistors (BJT, MOSFET)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Signals and Systems, Filters, Fourier Transform, Noise Analysis",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Circuit Analysis, FPGA, Google Cloud AI Platform, Noise Analysis, Logic Gates",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Diodes, Sensors, Verilog, Bode Plots",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Linux, Data Structures, Problem Solving, JavaScript, SQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Agile, Performance Optimization, MySQL, S3, Multithreading, EC2, Debugging, Load Balancing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Performance Optimization, NoSQL, S3, Agile, High Availability, Python, Docker, Concurrency",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Data Preprocessing, Modulation, TensorFlow, Embedded Systems, Amplifiers, Keras, Seaborn, Regression",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Cloud Computing, CI/CD, MySQL, Docker, Networking",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Numpy, Verilog, Sensors, VLSI Design, Digital Signal Processing (DSP)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Azure Machine Learning, Feedback Systems, Machine Learning, Circuit Analysis, Model Evaluation, Deep Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Performance Optimization, PostgreSQL, Cloud Computing, NoSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SQL, Security, Debugging, Docker, Git, Multithreading",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Cloud Computing, AWS, C++, Lambda",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "EC2, Scalability, Multithreading, PostgreSQL, Networking, Debugging, Linux, NoSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Unit Testing, MySQL, Jira, Security, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "TensorFlow, Keras, CMOS, FPGA, Google Cloud AI Platform, Digital Electronics, Digital Signal Processing (DSP)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Electronic Devices, SQL, ASIC Design, Computer Vision, Feedback Systems, Mathematics",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Test-Driven Development (TDD), Unit Testing, JavaScript, RESTful APIs",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Java, MySQL, Jira, NoSQL, DynamoDB",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Jira, Security, C++, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Diodes, Seaborn, Mathematics, Statistical Analysis, Natural Language Processing (NLP), Sensors, Instrumentation, Feature Engineering",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "NoSQL, EC2, Load Balancing, PostgreSQL, Debugging, Scripting, Git",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "API Development, MySQL, Caching, DynamoDB, Load Balancing, Algorithms, PostgreSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Debugging, Data Structures, API Development, Performance Optimization",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Regression, Verilog, Google Cloud AI Platform, Diodes",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, Scripting, Unit Testing, API Development, RESTful APIs",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "RNNs, MATLAB, Mathematics, Jupyter Notebook, Power Electronics, CMOS, Git",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Deep Learning, Transmission Lines, Signals and Systems, Simulink, Digital Electronics, Sensors, Filters, Control Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Data Preprocessing, Natural Language Processing (NLP), Communication Systems, Laplace Transform, Z-Transform, SQL, Keras, MATLAB",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scikit-learn, Cross-validation, Git, TensorFlow",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Reinforcement Learning (RL), CMOS, CNNs, Jupyter Notebook, VHDL, Azure Machine Learning, SQL",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Lambda, Data Structures, Concurrency, Caching, Algorithms",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Waveguides, Keras, Google Cloud AI Platform, Machine Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MySQL, EC2, Agile, Kubernetes, Node.js, RESTful APIs, Messaging Queues, JavaScript",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Agile, AWS, React, Caching, Algorithms, Concurrency, Cloud Computing, Performance Optimization",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SPICE, Sensors, Jupyter Notebook, Matplotlib, Scikit-learn",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "High Availability, Docker, Node.js, MySQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Statistical Analysis, PyTorch, Scikit-learn, Xilinx ISE/Vivado, Supervised Learning, Control Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Data Structures, Security, C++, API Development, DynamoDB, Performance Optimization",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "React, CI/CD, Big O Notation, Python, Agile",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Security, Jira, Load Balancing, NoSQL, Scalability, Test-Driven Development (TDD), Algorithms, Big O Notation",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Agile, Networking, EC2, PostgreSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Fourier Transform, Natural Language Processing (NLP), Overfitting, Git, EDA, Pandas, Matplotlib, Laplace Transform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Algorithms, DynamoDB, Test-Driven Development (TDD), Node.js, Multithreading",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Pandas, Statistical Analysis, Cross-validation, Boolean Algebra, Overfitting, Matplotlib",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Docker, Git, Networking, Java, JavaScript, Scripting, SQL, Linux",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MATLAB, Seaborn, Data Cleaning, Unsupervised Learning, Computer Vision, Cross-validation, Scikit-learn, Feedback Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Google Cloud AI Platform, Unsupervised Learning, OSI Model, PyTorch, Supervised Learning, Z-Transform, Microcontrollers",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Regression, Overfitting, Waveguides, SQL, Signals and Systems, Boolean Algebra, Azure Machine Learning, CNNs",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, EC2, CI/CD, Jira, S3, Test-Driven Development (TDD)",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Kubernetes, Big O Notation, C++, Docker, Security, Problem Solving, SQL, API Development",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Transistors (BJT, MOSFET), ASIC Design, Analog Circuits, Azure Machine Learning, Statistical Analysis, Python, Noise Analysis",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "System Design, Kubernetes, Python, CI/CD, EC2, Jira",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Jira, SQL, Performance Optimization, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Agile, S3, Python, PostgreSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Caching, Linux, Security, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Stability, Matplotlib, Diodes, Seaborn, Electronic Devices",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Jira, Messaging Queues, Kubernetes, PostgreSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scikit-learn, Seaborn, Regression, Power Electronics, Stability, Numpy, Jupyter Notebook, MATLAB",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Big O Notation, Multithreading, EC2, Messaging Queues, Performance Optimization, PostgreSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Lambda, Python, Agile, Scalability, Scripting, Java",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "JavaScript, Performance Optimization, CI/CD, Data Structures, Agile, React, DynamoDB",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Node.js, Docker, System Design, Database Design, React, PostgreSQL, Lambda",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Jira, Kubernetes, Big O Notation, Data Structures",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Algorithms, Unit Testing, S3, Networking, Concurrency, Messaging Queues, React",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Java, Git, High Availability, EC2, Data Structures, Node.js",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Overfitting, Google Cloud AI Platform, Diodes, EDA, Noise Analysis, Control Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SQL, Load Balancing, RESTful APIs, Multithreading, Scripting, Linux, Problem Solving, Python",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "PyTorch, Python, Electronic Devices, OSI Model, SQL",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "EC2, Caching, Kubernetes, Security",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "OSI Model, Neural Networks, Logic Gates, Transmission Lines, Power Electronics, Scikit-learn, Seaborn, CMOS",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Messaging Queues, Jira, Debugging, Data Structures, Unit Testing, DynamoDB, Cloud Computing, API Development",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Microprocessors, OSI Model, Embedded Systems, Microcontrollers, Digital Signal Processing (DSP)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Kubernetes, NoSQL, Test-Driven Development (TDD), RESTful APIs, Messaging Queues, Lambda, Scripting",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Multithreading, RESTful APIs, Node.js, Concurrency, DynamoDB, AWS, PostgreSQL, Unit Testing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Verilog, Control System Design, Pandas, Microprocessors, Transmission Lines, Stability, Op-Amps, Data Preprocessing",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Unsupervised Learning, Xilinx ISE/Vivado, ASIC Design, Jupyter Notebook, Python, CMOS, Model Evaluation, RNNs",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Security, API Development, Python, Jira, Git, Linux, System Design, PostgreSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "OSI Model, Signals and Systems, ASIC Design, Scikit-learn",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "NoSQL, Multithreading, System Design, DynamoDB, Algorithms, AWS, Database Design, Big O Notation",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Statistical Analysis, Laplace Transform, Control System Design, Supervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Load Balancing, Scripting, NoSQL, Troubleshooting, Data Structures, Agile, React, Multithreading",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "System Design, Agile, Kubernetes, React, DynamoDB, C++",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "CI/CD, Node.js, JavaScript, React, Concurrency, Scalability, System Design",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Troubleshooting, Algorithms, Lambda, Docker, Load Balancing, Node.js, Test-Driven Development (TDD)",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scalability, CI/CD, Cloud Computing, Test-Driven Development (TDD), Docker, Networking, EC2, Debugging",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "AWS Sagemaker, Diodes, Verilog, VLSI Design, FPGA",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Docker, Networking, PostgreSQL, Agile, Load Balancing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scalability, Concurrency, Java, Database Design, Data Structures",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Networking, Database Design, Docker, API Development, JavaScript, Debugging, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Mathematics, Keras, ASIC Design, Scikit-learn, Pandas, Azure Machine Learning, Model Evaluation",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Troubleshooting, Messaging Queues, Docker, SQL, Networking, Node.js, EC2, Scalability",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Unit Testing, Docker, React, System Design, Big O Notation, Kubernetes, RESTful APIs, High Availability",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Instrumentation, Fourier Transform, Signals and Systems, Mathematics, Noise Analysis, RNNs",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "EDA, Instrumentation, Transistors (BJT, MOSFET), Communication Systems, Data Cleaning, Git, SQL",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Stability, Matplotlib, Communication Systems, Analog Circuits",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "FPGA, Laplace Transform, Cadence Virtuoso, Sensors, Regression",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "PyTorch, Amplifiers, Cross-validation, Sensors, Mathematics, SPICE",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Big O Notation, Algorithms, Git, Linux, CI/CD, Problem Solving, Agile",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "API Development, MySQL, System Design, Load Balancing, Cloud Computing, C++",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Underfitting, Google Cloud AI Platform, ASIC Design, Antenna Theory, Digital Signal Processing (DSP)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Boolean Algebra, Simulink, Regression, CNNs, Keras",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Concurrency, Linux, DynamoDB, Performance Optimization",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Test-Driven Development (TDD), SQL, Docker, Performance Optimization, JavaScript, Linux",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Classification, EDA, Machine Learning, Computer Vision",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Multithreading, Big O Notation, JavaScript, Docker, Caching, Data Structures",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MATLAB, Electronic Devices, Matplotlib, Cadence Virtuoso, Reinforcement Learning (RL), Digital Signal Processing (DSP), CMOS, Op-Amps",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Matplotlib, Classification, Cadence Virtuoso, RNNs, VHDL, Semiconductor Physics, Data Cleaning, Feature Engineering",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SQL, Data Structures, Scalability, React, Python",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "DynamoDB, Load Balancing, Scripting, MySQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Regression, Control System Design, AWS Sagemaker, FPGA, Microcontrollers",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Algorithms, Troubleshooting, C++, Unit Testing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Matplotlib, Noise Analysis, Modulation, Seaborn",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Reinforcement Learning (RL), Unsupervised Learning, Overfitting, Power Electronics, TensorFlow, Matplotlib",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Diodes, Boolean Algebra, Transistors (BJT, MOSFET), Digital Electronics, Mathematics, Sensors, Data Preprocessing",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "JavaScript, Big O Notation, Messaging Queues, High Availability, Test-Driven Development (TDD), Concurrency, EC2",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Seaborn, Waveguides, Microcontrollers, Machine Learning, TensorFlow",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "React, Git, Big O Notation, RESTful APIs, S3, Caching, High Availability, Python",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Concurrency, PostgreSQL, Java, Performance Optimization, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "C++, Debugging, MySQL, Concurrency",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Control System Design, Deep Learning, Scikit-learn, Git, Natural Language Processing (NLP), Fourier Transform, Amplifiers, Reinforcement Learning (RL)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "EC2, Jira, Git, High Availability, Test-Driven Development (TDD)",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "CMOS, Data Cleaning, Supervised Learning, MATLAB, Transmission Lines",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Debugging, Caching, NoSQL, EC2",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Pandas, Amplifiers, Google Cloud AI Platform, Deep Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Machine Learning, Mathematics, Modulation, Git, Regression, Fourier Transform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Electronic Devices, Analog Circuits, Underfitting, Natural Language Processing (NLP), Digital Signal Processing (DSP), AWS Sagemaker",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Git, Performance Optimization, API Development, Python, DynamoDB, SQL, Test-Driven Development (TDD), EC2",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Boolean Algebra, MATLAB, Matplotlib, Op-Amps, Microprocessors, Amplifiers, Python",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Machine Learning, Overfitting, Sensors, Seaborn, Mathematics, CMOS, Git, Unsupervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Linux, AWS, React, High Availability, Problem Solving, Test-Driven Development (TDD), API Development, Cloud Computing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "VLSI Design, Boolean Algebra, Statistical Analysis, Natural Language Processing (NLP), Signals and Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Regression, Natural Language Processing (NLP), Keras, Circuit Analysis",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Filters, Z-Transform, Supervised Learning, Simulink, PyTorch, Overfitting",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Test-Driven Development (TDD), Java, SQL, Data Structures, Networking, PostgreSQL, C++",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "VHDL, Cross-validation, Unsupervised Learning, Jupyter Notebook, Amplifiers",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Unsupervised Learning, Cross-validation, Laplace Transform, ASIC Design, Op-Amps, Python, Transmission Lines, Natural Language Processing (NLP)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, Boolean Algebra, Amplifiers, CMOS, RNNs",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Git, Java, Multithreading, Security, MySQL, Scripting, Python",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Antenna Theory, OSI Model, Jupyter Notebook, Communication Systems, Feature Engineering, FPGA, Google Cloud AI Platform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "API Development, Kubernetes, Database Design, JavaScript, RESTful APIs, Python",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Analog Circuits, VHDL, Control Systems, Signals and Systems, Azure Machine Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MySQL, NoSQL, Cloud Computing, RESTful APIs, PostgreSQL, React, High Availability, EC2",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "CI/CD, Lambda, System Design, Database Design, DynamoDB, Jira",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "CMOS, Waveguides, Electronic Devices, Data Cleaning, Deep Learning, Logic Gates, Reinforcement Learning (RL)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SPICE, Python, Waveguides, Microprocessors, Seaborn, Pandas",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Transistors (BJT, MOSFET), Analog Circuits, Seaborn, Data Cleaning, Reinforcement Learning (RL), Filters, Control Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "NoSQL, React, Cloud Computing, Database Design, Performance Optimization",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Pandas, RNNs, FPGA, Microprocessors, Embedded Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Linux, Networking, Scalability, Node.js, System Design, Messaging Queues, Debugging",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Z-Transform, EDA, FPGA, Neural Networks, Noise Analysis, Stability, Digital Electronics, Logic Gates",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Algorithms, Scripting, EC2, Security, System Design, Performance Optimization, Kubernetes, Test-Driven Development (TDD)",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "NoSQL, Python, Debugging, SQL, Troubleshooting, Jira",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "C++, Troubleshooting, PostgreSQL, Networking, JavaScript, Cloud Computing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Data Cleaning, Logic Gates, Feature Engineering, Google Cloud AI Platform, Power Electronics, Python",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "RESTful APIs, CI/CD, Big O Notation, Data Structures, Git, Unit Testing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Microcontrollers, Instrumentation, FPGA, ASIC Design, Stability, Communication Systems, Feedback Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Jira, S3, Database Design, React, C++, Unit Testing, NoSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "RESTful APIs, Security, Scalability, SQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SQL, Statistical Analysis, Xilinx ISE/Vivado, Data Preprocessing, Python, Control Systems, Feedback Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Cloud Computing, Performance Optimization, DynamoDB, JavaScript, Data Structures",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Op-Amps, Statistical Analysis, Regression, Fourier Transform, ASIC Design, MATLAB, Feature Engineering, Semiconductor Physics",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scalability, C++, Load Balancing, Git",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Kubernetes, Database Design, Load Balancing, CI/CD, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Lambda, Data Structures, Linux, Java, Messaging Queues, Load Balancing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Load Balancing, Concurrency, Troubleshooting, Docker, Networking, EC2, Performance Optimization",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Docker, Messaging Queues, Cloud Computing, Scalability, DynamoDB, Scripting, Big O Notation",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "System Design, Test-Driven Development (TDD), Troubleshooting, Algorithms, Kubernetes, Unit Testing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Computer Vision, Control Systems, Azure Machine Learning, Filters",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Digital Signal Processing (DSP), Pandas, Keras, Python, Communication Systems, Embedded Systems, Statistical Analysis, TensorFlow",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Data Preprocessing, Noise Analysis, Bode Plots, Reinforcement Learning (RL), Filters",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "AWS, Java, DynamoDB, Problem Solving",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Big O Notation, Unit Testing, Load Balancing, Performance Optimization, Docker, Cloud Computing, AWS, NoSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Database Design, Algorithms, C++, NoSQL, Security, Kubernetes, Networking, System Design",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Test-Driven Development (TDD), Debugging, CI/CD, S3",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Noise Analysis, EDA, Azure Machine Learning, Op-Amps, Computer Vision, Z-Transform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Supervised Learning, Mathematics, Laplace Transform, Microprocessors, Transmission Lines, Noise Analysis, OSI Model",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "API Development, PostgreSQL, RESTful APIs, DynamoDB, C++",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Git, AWS, Java, CI/CD, Load Balancing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Concurrency, Big O Notation, Networking, S3, AWS, Git",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Diodes, FPGA, Verilog, Electronic Devices, CMOS, Embedded Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Big O Notation, JavaScript, Linux, Docker, Messaging Queues, Security, Scripting",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Seaborn, Power Electronics, Overfitting, VHDL, Digital Signal Processing (DSP), Microprocessors, TensorFlow, Communication Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Jira, Test-Driven Development (TDD), Kubernetes, Data Structures, Algorithms, Scalability, Problem Solving",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Circuit Analysis, Cadence Virtuoso, AWS Sagemaker, VLSI Design, Boolean Algebra, Analog Circuits",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Model Evaluation, Instrumentation, Reinforcement Learning (RL), Python",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Security, System Design, Linux, Node.js, Jira, Lambda, Unit Testing, PostgreSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "JavaScript, Problem Solving, Kubernetes, API Development, Networking, Database Design, Java",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Caching, Scripting, System Design, Lambda, Load Balancing, PostgreSQL, Security",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Multithreading, Load Balancing, Git, Python, Unit Testing, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SPICE, Xilinx ISE/Vivado, Unsupervised Learning, Digital Electronics, Stability, Model Evaluation, Git, Microcontrollers",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Op-Amps, Matplotlib, Waveguides, Deep Learning, Modulation, Neural Networks, Feature Engineering",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Test-Driven Development (TDD), Troubleshooting, Messaging Queues, Jira, Agile, Debugging",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MATLAB, Laplace Transform, Python, Mathematics, PyTorch, Cross-validation, Transistors (BJT, MOSFET), Z-Transform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Azure Machine Learning, MATLAB, VLSI Design, Op-Amps, Computer Vision, Overfitting",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Azure Machine Learning, Data Cleaning, ASIC Design, MATLAB",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Diodes, AWS Sagemaker, Transistors (BJT, MOSFET), Antenna Theory, Python, EDA, VLSI Design, FPGA",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "VLSI Design, Amplifiers, Transistors (BJT, MOSFET), Signals and Systems, CMOS, Circuit Analysis, SQL, Electronic Devices",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "PyTorch, Microprocessors, Jupyter Notebook, EDA, Diodes, Model Evaluation, CNNs",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Lambda, Kubernetes, CI/CD, Scripting",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Security, Algorithms, AWS, MySQL, Lambda, Test-Driven Development (TDD), Cloud Computing, Node.js",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Antenna Theory, Stability, Fourier Transform, Waveguides, Analog Circuits, Cadence Virtuoso, Control System Design",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Op-Amps, Digital Signal Processing (DSP), Data Cleaning, Power Electronics, Classification, Mathematics, Stability",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "CNNs, VLSI Design, Laplace Transform, OSI Model",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "ASIC Design, Instrumentation, Analog Circuits, Machine Learning, CMOS",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "High Availability, Scalability, Caching, Multithreading, Cloud Computing, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Caching, CI/CD, Multithreading, Data Structures, Git, System Design",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "CMOS, Feature Engineering, Underfitting, Microprocessors",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "NoSQL, Linux, S3, Database Design, Test-Driven Development (TDD), Docker",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "JavaScript, C++, SQL, Git, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Regression, Feedback Systems, SPICE, Feature Engineering, Embedded Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Caching, System Design, Lambda, Problem Solving, CI/CD, Load Balancing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Regression, Laplace Transform, Feedback Systems, VLSI Design",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Filters, AWS Sagemaker, Antenna Theory, Scikit-learn, Diodes, Natural Language Processing (NLP), Jupyter Notebook",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Classification, Reinforcement Learning (RL), Feature Engineering, Simulink, Feedback Systems, Stability",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Problem Solving, Python, Scalability, Messaging Queues, Agile, PostgreSQL, Unit Testing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Cross-validation, Modulation, Neural Networks, RNNs, Embedded Systems, Amplifiers, MATLAB, Numpy",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "S3, Load Balancing, Linux, React",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Bode Plots, Control Systems, Diodes, MATLAB, OSI Model, Power Electronics, Op-Amps",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "FPGA, Transmission Lines, CNNs, Amplifiers, Embedded Systems, Underfitting",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Networking, Performance Optimization, NoSQL, Security, PostgreSQL, System Design, React, Big O Notation",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, Unsupervised Learning, Fourier Transform, Bode Plots, Semiconductor Physics, Instrumentation",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scikit-learn, Regression, Machine Learning, Unsupervised Learning, Numpy, SPICE, Circuit Analysis",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Unsupervised Learning, Overfitting, Microprocessors, Instrumentation, Sensors, Filters",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scalability, Concurrency, Multithreading, SQL, PostgreSQL, Test-Driven Development (TDD), Lambda",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Supervised Learning, Cadence Virtuoso, Microcontrollers, ASIC Design",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Reinforcement Learning (RL), VLSI Design, Laplace Transform, Bode Plots, Control Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Unit Testing, JavaScript, Messaging Queues, NoSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Microcontrollers, Jupyter Notebook, Feedback Systems, Diodes, SQL, Transistors (BJT, MOSFET)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "ASIC Design, FPGA, Transmission Lines, Electronic Devices, Data Preprocessing, Cross-validation",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Control System Design, FPGA, Modulation, Stability",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, MATLAB, Jupyter Notebook, Keras, Google Cloud AI Platform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Database Design, Agile, Jira, Debugging, Git",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Statistical Analysis, Numpy, MATLAB, Z-Transform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Deep Learning, Computer Vision, FPGA, Laplace Transform, Diodes",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Unit Testing, Lambda, Git, EC2",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Machine Learning, Control Systems, Stability, Power Electronics, Z-Transform, Statistical Analysis, ASIC Design",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, Caching, Problem Solving, Unit Testing, Scalability",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Load Balancing, System Design, Lambda, Debugging, Performance Optimization",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Microcontrollers, MATLAB, TensorFlow, OSI Model, Laplace Transform, Computer Vision, Supervised Learning, SPICE",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Multithreading, Troubleshooting, JavaScript, EC2",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Transistors (BJT, MOSFET), Semiconductor Physics, Data Cleaning, Seaborn",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Messaging Queues, React, High Availability, Lambda",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "NoSQL, Agile, SQL, Load Balancing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Node.js, Jira, Cloud Computing, Java",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "PyTorch, Python, Embedded Systems, Transmission Lines",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "CNNs, Instrumentation, Antenna Theory, SPICE, Natural Language Processing (NLP), Supervised Learning, Jupyter Notebook, Azure Machine Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Stability, Waveguides, ASIC Design, Classification, Keras, Model Evaluation",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Problem Solving, Security, Concurrency, Messaging Queues, Java",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "API Development, Agile, Data Structures, PostgreSQL, Troubleshooting, Cloud Computing, S3",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Cloud Computing, RESTful APIs, SQL, MySQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Pandas, Boolean Algebra, Google Cloud AI Platform, Microcontrollers, Simulink, Stability, Semiconductor Physics, Underfitting",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Security, Caching, Data Structures, EC2, Networking, Unit Testing, Agile, C++",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Data Structures, Algorithms, PostgreSQL, Lambda",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Lambda, Jira, Scripting, PostgreSQL, JavaScript, Problem Solving",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Jira, Security, Scalability, System Design",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "High Availability, Java, NoSQL, Docker, Performance Optimization, SQL, Messaging Queues, Algorithms",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Lambda, High Availability, Big O Notation, Unit Testing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Big O Notation, Networking, Node.js, AWS, Debugging, NoSQL, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Noise Analysis, Computer Vision, Google Cloud AI Platform, Simulink, Communication Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Agile, Problem Solving, AWS, Python, Linux, React, Messaging Queues, S3",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Analog Circuits, Scikit-learn, Boolean Algebra, CMOS, Signals and Systems, Circuit Analysis, Control Systems, Cadence Virtuoso",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Data Cleaning, Cadence Virtuoso, Azure Machine Learning, Control Systems, Matplotlib",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "System Design, Data Structures, Caching, Debugging, High Availability",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Lambda, Data Structures, Performance Optimization, Cloud Computing, RESTful APIs, JavaScript, API Development",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Jupyter Notebook, Feedback Systems, Cadence Virtuoso, Computer Vision, Cross-validation",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Multithreading, CI/CD, DynamoDB, MySQL, API Development, Database Design, Security",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Statistical Analysis, PyTorch, Microprocessors, Keras, Mathematics, Unsupervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "ASIC Design, VHDL, Transistors (BJT, MOSFET), Bode Plots, Feature Engineering",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Database Design, Node.js, NoSQL, Troubleshooting, Big O Notation, Docker, Caching",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Amplifiers, Digital Electronics, Feature Engineering, Antenna Theory",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "EC2, Test-Driven Development (TDD), JavaScript, CI/CD, S3, Linux, Algorithms, Java",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "VHDL, RNNs, Cross-validation, Power Electronics, Circuit Analysis",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Semiconductor Physics, Deep Learning, Waveguides, Azure Machine Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "C++, Troubleshooting, Docker, SQL, Java, Test-Driven Development (TDD), Jira",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Jira, React, Data Structures, Git, Load Balancing, S3, High Availability",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Data Structures, Kubernetes, API Development, AWS, Agile, Java, Scripting",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Circuit Analysis, SPICE, Stability, Filters, Signals and Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Java, Jira, Caching, Networking, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Database Design, Big O Notation, React, MySQL, Git, SQL, Caching",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Level affect perform treat box. Managed agricultural farm operations and crop planning.",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "System Design, Data Structures, React, Cloud Computing, Git, Java, Messaging Queues, NoSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "S3, Linux, Test-Driven Development (TDD), Cloud Computing, Java, Docker, Load Balancing, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Bode Plots, Communication Systems, EDA, Computer Vision",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, Scripting, RESTful APIs, Caching, Networking",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Microcontrollers, Underfitting, Unsupervised Learning, Verilog, Feature Engineering, Scikit-learn, Filters",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Cadence Virtuoso, SPICE, Natural Language Processing (NLP), Verilog",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, TensorFlow, Computer Vision, Stability, Reinforcement Learning (RL), Electronic Devices, Waveguides",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "VLSI Design, Classification, Digital Electronics, EDA, Microcontrollers",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "DynamoDB, Troubleshooting, RESTful APIs, Debugging, Algorithms, SQL, React",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Node.js, React, Database Design, SQL, Troubleshooting",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "PostgreSQL, Python, Git, Data Structures, Networking, Caching",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "C++, Jira, Data Structures, Algorithms, EC2, Agile",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Numpy, Signals and Systems, EDA, Google Cloud AI Platform, Op-Amps, SQL, Diodes, PyTorch",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Google Cloud AI Platform, SQL, Transmission Lines, Microcontrollers, Circuit Analysis, Fourier Transform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Feature Engineering, Machine Learning, Modulation, Op-Amps, Deep Learning, SQL, SPICE, Electronic Devices",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "JavaScript, Performance Optimization, High Availability, C++, Concurrency",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "CNNs, Stability, Transmission Lines, Underfitting",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Problem Solving, Lambda, Big O Notation, Data Structures, Load Balancing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Node.js, Messaging Queues, DynamoDB, Multithreading, Python",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "RESTful APIs, Algorithms, Security, Messaging Queues, Docker, High Availability",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "API Development, AWS, Multithreading, RESTful APIs, Debugging, JavaScript, Load Balancing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Troubleshooting, High Availability, Debugging, Data Structures, System Design, Kubernetes, Unit Testing, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Concurrency, AWS, API Development, Load Balancing, Jira",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Transmission Lines, CMOS, EDA, Bode Plots",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SQL, Google Cloud AI Platform, Filters, Cross-validation, Neural Networks, Logic Gates, Circuit Analysis, Boolean Algebra",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Git, Classification, CMOS, Modulation, Transistors (BJT, MOSFET), Circuit Analysis, RNNs, AWS Sagemaker",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, Troubleshooting, React, C++, Database Design, Big O Notation",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Database Design, Algorithms, EC2, Python, Git, API Development, Node.js, Networking",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Power Electronics, AWS Sagemaker, CNNs, Classification, Numpy, Antenna Theory, EDA",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Messaging Queues, Database Design, C++, RESTful APIs, Test-Driven Development (TDD), Git, JavaScript, NoSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Messaging Queues, Debugging, Docker, AWS, EC2, Multithreading, Kubernetes, SQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Troubleshooting, Caching, Data Structures, Node.js, High Availability, Security, Python",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "C++, PostgreSQL, Problem Solving, Multithreading, EC2, Agile, Jira, Security",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "JavaScript, Data Structures, Java, Agile, Database Design, Scalability, Python",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Instrumentation, Communication Systems, Modulation, Embedded Systems, VLSI Design",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Numpy, Deep Learning, Google Cloud AI Platform, CNNs, Analog Circuits, Keras, Xilinx ISE/Vivado",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Pandas, Simulink, TensorFlow, Regression, Git, Z-Transform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, Reinforcement Learning (RL), Laplace Transform, Cadence Virtuoso, Keras, FPGA",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Overfitting, Supervised Learning, Computer Vision, MATLAB, VLSI Design, Scikit-learn, Regression, Seaborn",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Agile, EC2, NoSQL, CI/CD, Scalability, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "High Availability, Troubleshooting, API Development, React",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Load Balancing, Multithreading, S3, C++, Security, Test-Driven Development (TDD)",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, Digital Electronics, Feedback Systems, PyTorch, Machine Learning, CMOS, Cross-validation, Signals and Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "System Design, React, RESTful APIs, S3, Data Structures",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Messaging Queues, Problem Solving, Git, C++, PostgreSQL, Lambda, AWS, Java",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "FPGA, CNNs, Git, Azure Machine Learning, Cadence Virtuoso, Waveguides, Circuit Analysis",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Lambda, Multithreading, Performance Optimization, Scripting, Troubleshooting",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Noise Analysis, Git, Verilog, Transmission Lines, Reinforcement Learning (RL), Overfitting",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Xilinx ISE/Vivado, Laplace Transform, ASIC Design, Scikit-learn, Semiconductor Physics, Amplifiers",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Filters, Data Cleaning, Z-Transform, Python, VLSI Design, Supervised Learning, Classification",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Cross-validation, Instrumentation, Analog Circuits, MATLAB, Amplifiers, Signals and Systems, Deep Learning, Seaborn",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Debugging, AWS, S3, Load Balancing, Troubleshooting, High Availability",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, Supervised Learning, Filters, Control Systems, Feature Engineering, Git",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Pandas, Underfitting, TensorFlow, Xilinx ISE/Vivado, Classification",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "DynamoDB, C++, Node.js, Jira, Python, Debugging, High Availability, PostgreSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Unsupervised Learning, Embedded Systems, Bode Plots, Google Cloud AI Platform, Antenna Theory, Statistical Analysis, Waveguides",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Data Preprocessing, Control Systems, Natural Language Processing (NLP), Noise Analysis",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Concurrency, System Design, Multithreading, JavaScript, SQL, Big O Notation, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "AWS, Data Structures, Big O Notation, Unit Testing, Lambda",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "React, CI/CD, Problem Solving, Security, AWS, Load Balancing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Digital Electronics, TensorFlow, Computer Vision, Feature Engineering, Sensors, Diodes",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Data Cleaning, Boolean Algebra, ASIC Design, Analog Circuits, Verilog, Transistors (BJT, MOSFET)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Git, API Development, Lambda, System Design, Problem Solving, Python",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "AWS, Data Structures, S3, NoSQL, Agile",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "ASIC Design, Instrumentation, Simulink, Supervised Learning, Fourier Transform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Laplace Transform, Xilinx ISE/Vivado, Noise Analysis, Antenna Theory, Circuit Analysis, Neural Networks, Bode Plots",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Verilog, Feedback Systems, Boolean Algebra, Transistors (BJT, MOSFET), OSI Model, Control Systems, Amplifiers",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MATLAB, Bode Plots, Supervised Learning, PyTorch",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MATLAB, SQL, Underfitting, FPGA, Deep Learning, Modulation, VHDL, Unsupervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "High Availability, Performance Optimization, S3, Troubleshooting, Linux, Multithreading, NoSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Communication Systems, Python, Scikit-learn, Power Electronics, Unsupervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "RESTful APIs, Networking, Scripting, Docker, Multithreading",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "PyTorch, Feature Engineering, Deep Learning, Jupyter Notebook, RNNs",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Linux, NoSQL, CI/CD, Docker, Concurrency, High Availability, Cloud Computing, Python",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "System Design, Unit Testing, React, Agile, Big O Notation, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Troubleshooting, Caching, EC2, Security",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Natural Language Processing (NLP), Machine Learning, Xilinx ISE/Vivado, Pandas, Simulink, Unsupervised Learning, Digital Electronics",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Z-Transform, Filters, Azure Machine Learning, Seaborn, OSI Model",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Kubernetes, MySQL, DynamoDB, Scalability, Database Design",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Security, Linux, Git, C++, React, Load Balancing, Algorithms, DynamoDB",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Problem Solving, High Availability, React, Messaging Queues, Node.js, Concurrency, Jira, Git",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Simulink, Feature Engineering, Waveguides, Seaborn, Natural Language Processing (NLP)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Analog Circuits, Transmission Lines, Google Cloud AI Platform, ASIC Design, Control System Design, Keras, Deep Learning, Diodes",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Neural Networks, Fourier Transform, Deep Learning, Control System Design, Transmission Lines, Supervised Learning, CNNs",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Deep Learning, Unsupervised Learning, Control Systems, PyTorch",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, System Design, DynamoDB, AWS, RESTful APIs, SQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Op-Amps, Communication Systems, Bode Plots, SPICE, Noise Analysis, Waveguides, RNNs",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "CNNs, Fourier Transform, Data Preprocessing, Communication Systems, Cadence Virtuoso, Cross-validation",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Microprocessors, Boolean Algebra, Transistors (BJT, MOSFET), Git, Sensors, CMOS",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "DynamoDB, EC2, Git, Scalability, C++, Kubernetes, Caching",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Linux, API Development, Database Design, Node.js, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Cadence Virtuoso, Google Cloud AI Platform, Diodes, Stability, TensorFlow, Logic Gates, Mathematics",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Underfitting, Pandas, Seaborn, Noise Analysis",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Statistical Analysis, Data Preprocessing, Transistors (BJT, MOSFET), Filters",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Circuit Analysis, Git, EDA, Semiconductor Physics, Modulation",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SQL, Troubleshooting, API Development, Scalability",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Transistors (BJT, MOSFET), Feature Engineering, Regression, CMOS, Noise Analysis, Power Electronics",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, Computer Vision, SPICE, Digital Signal Processing (DSP), Xilinx ISE/Vivado",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Linux, Big O Notation, Multithreading, MySQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Matplotlib, Analog Circuits, Bode Plots, Signals and Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Test-Driven Development (TDD), Python, Docker, System Design, Scalability, Big O Notation, Data Structures, API Development",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "TensorFlow, Digital Electronics, Control Systems, RNNs, Machine Learning, Boolean Algebra, Numpy, Jupyter Notebook",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "RESTful APIs, CI/CD, Algorithms, SQL, Unit Testing, Debugging, Java",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Load Balancing, Troubleshooting, PostgreSQL, Lambda, React, Concurrency",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "PostgreSQL, Security, AWS, Caching, Load Balancing, Java, C++, Performance Optimization",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Verilog, Bode Plots, Control System Design, Feedback Systems, ASIC Design, Seaborn, Pandas, Filters",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Digital Electronics, Neural Networks, Matplotlib, Bode Plots, Mathematics, Z-Transform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Transmission Lines, Z-Transform, Laplace Transform, Digital Signal Processing (DSP), Analog Circuits, Overfitting, Semiconductor Physics",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "NoSQL, Kubernetes, Scalability, SQL, Python, Troubleshooting",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Neural Networks, Git, Logic Gates, SQL, Digital Signal Processing (DSP), Amplifiers, Model Evaluation",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Neural Networks, Bode Plots, Statistical Analysis, Xilinx ISE/Vivado, Deep Learning, Computer Vision, Digital Electronics, Feature Engineering",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Stability, Unsupervised Learning, Sensors, Data Cleaning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Waveguides, Computer Vision, Deep Learning, CMOS, Filters, Machine Learning, Digital Electronics",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Supervised Learning, AWS Sagemaker, Boolean Algebra, MATLAB, Embedded Systems, Python, Underfitting, Git",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SPICE, TensorFlow, MATLAB, Control Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Java, Messaging Queues, Git, JavaScript",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Google Cloud AI Platform, Scikit-learn, Azure Machine Learning, Python, Verilog",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Instrumentation, Transistors (BJT, MOSFET), Modulation, Signals and Systems, Xilinx ISE/Vivado",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "CI/CD, Troubleshooting, AWS, Performance Optimization, High Availability, Test-Driven Development (TDD), Load Balancing, MySQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Transistors (BJT, MOSFET), Git, TensorFlow, Noise Analysis, Deep Learning, Diodes, Embedded Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Transmission Lines, Amplifiers, Stability, TensorFlow, Deep Learning, Microprocessors, Reinforcement Learning (RL)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Algorithms, Test-Driven Development (TDD), API Development, Performance Optimization, Git, Load Balancing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Data Structures, EC2, Scripting, Jira, Java, Networking, System Design",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Cross-validation, Feedback Systems, Antenna Theory, Semiconductor Physics, Analog Circuits, VHDL",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Debugging, NoSQL, Unit Testing, Messaging Queues, API Development",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Jira, Security, Problem Solving, Debugging, JavaScript, S3, High Availability, Caching",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Problem Solving, Troubleshooting, Git, CI/CD, SQL, Cloud Computing, Agile, MySQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Load Balancing, S3, Algorithms, Performance Optimization, Lambda",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Data Structures, Multithreading, Cloud Computing, Unit Testing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Multithreading, Linux, Debugging, Problem Solving, EC2",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Mathematics, Amplifiers, Simulink, Microprocessors, Control System Design",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "CI/CD, Big O Notation, C++, EC2, DynamoDB, Linux, RESTful APIs, PostgreSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Problem Solving, Scripting, EC2, NoSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "React, Kubernetes, Agile, S3, Docker, Troubleshooting, Lambda",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Regression, Fourier Transform, Mathematics, Scikit-learn, Digital Signal Processing (DSP)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Embedded Systems, Z-Transform, Sensors, Pandas, Numpy, TensorFlow, MATLAB, EDA",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Node.js, Python, Data Structures, C++",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Reinforcement Learning (RL), Data Preprocessing, Supervised Learning, Logic Gates, Numpy, Mathematics, Cross-validation",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Algorithms, Node.js, Cloud Computing, Test-Driven Development (TDD)",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Cloud Computing, Performance Optimization, Algorithms, RESTful APIs",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Power Electronics, Python, Filters, Boolean Algebra, Computer Vision, Classification, Digital Electronics, Jupyter Notebook",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Classification, Keras, VLSI Design, Feedback Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Problem Solving, Docker, Networking, Caching, Troubleshooting, Jira, Multithreading",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MySQL, RESTful APIs, Scalability, Concurrency",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Modulation, Control Systems, Digital Signal Processing (DSP), Logic Gates",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Jupyter Notebook, Boolean Algebra, Microcontrollers, Git, Fourier Transform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "DynamoDB, C++, Data Structures, MySQL, Troubleshooting, Concurrency",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Cloud Computing, Big O Notation, Unit Testing, Linux, RESTful APIs, Caching, Java, Multithreading",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "React, System Design, Messaging Queues, Networking, Python, DynamoDB, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Problem Solving, SQL, Algorithms, System Design, Unit Testing, EC2",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "CI/CD, Kubernetes, Algorithms, C++, S3, Security, Concurrency",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Java, React, DynamoDB, Jira, S3, High Availability",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "JavaScript, Docker, Big O Notation, RESTful APIs, Cloud Computing, Agile, Debugging, Concurrency",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Unsupervised Learning, Data Cleaning, Supervised Learning, Neural Networks",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "East learn discover onto activity area whole but. Skilled in classical music, event planning, and stage performance.",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Overfitting, CNNs, MATLAB, Scikit-learn, Regression, Cadence Virtuoso, Z-Transform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Overfitting, Computer Vision, Waveguides, Xilinx ISE/Vivado, ASIC Design, Semiconductor Physics, Laplace Transform, Analog Circuits",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Modulation, Classification, Pandas, Machine Learning, Feedback Systems, Amplifiers",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Big O Notation, Cloud Computing, AWS, Security, EC2, System Design, High Availability",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Filters, Python, Machine Learning, ASIC Design",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Messaging Queues, JavaScript, DynamoDB, Debugging",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Amplifiers, Simulink, Azure Machine Learning, Bode Plots, Jupyter Notebook, Deep Learning, PyTorch",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Networking, Multithreading, Lambda, Unit Testing, Database Design, S3",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Bode Plots, Signals and Systems, Power Electronics, Mathematics, SQL, CNNs, Verilog, Neural Networks",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "ASIC Design, Regression, MATLAB, Semiconductor Physics",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Lambda, EC2, Debugging, Unit Testing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "DynamoDB, RESTful APIs, Data Structures, Big O Notation, Troubleshooting",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scripting, Scalability, S3, JavaScript, Agile, Load Balancing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "C++, Cloud Computing, Data Structures, API Development, AWS, System Design, Scalability",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "EDA, Jupyter Notebook, Scikit-learn, CMOS, Stability",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "React, NoSQL, System Design, High Availability, Security, Scalability, Performance Optimization, JavaScript",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Electronic Devices, Supervised Learning, Jupyter Notebook, Underfitting, SPICE, Z-Transform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Develop staff treatment art character response despite. Worked as a civil engineer using AutoCAD and project management tools.",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "System Design, Debugging, Problem Solving, Networking",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "CMOS, Python, Waveguides, Boolean Algebra, Control System Design, Noise Analysis, Op-Amps, Neural Networks",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Seaborn, Google Cloud AI Platform, Numpy, CMOS, FPGA, Keras, Matplotlib, Transmission Lines",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Communication Systems, EDA, Reinforcement Learning (RL), Transmission Lines, Git, Azure Machine Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "OSI Model, Logic Gates, Communication Systems, Model Evaluation, Azure Machine Learning, Stability, Keras",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Fourier Transform, Machine Learning, Overfitting, Signals and Systems, Op-Amps, Numpy, Filters",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "RNNs, Classification, Electronic Devices, Analog Circuits",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Unsupervised Learning, Control System Design, Diodes, Fourier Transform, Laplace Transform, Noise Analysis, Seaborn, Bode Plots",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Signals and Systems, Underfitting, ASIC Design, Bode Plots, Data Preprocessing",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MATLAB, Seaborn, Supervised Learning, Mathematics, Amplifiers, Data Cleaning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Control System Design, Seaborn, Logic Gates, Underfitting, VLSI Design, SPICE",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scalability, RESTful APIs, DynamoDB, SQL, Load Balancing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Security, Debugging, C++, Linux, Concurrency",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Docker, API Development, NoSQL, AWS, Security, Data Structures, DynamoDB, High Availability",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Caching, NoSQL, Messaging Queues, Algorithms, EC2",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Diodes, Instrumentation, Antenna Theory, Semiconductor Physics, Transistors (BJT, MOSFET), RNNs",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Natural Language Processing (NLP), Microcontrollers, Transmission Lines, Model Evaluation, OSI Model",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, Agile, API Development, S3",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Mathematics, Reinforcement Learning (RL), Regression, Digital Electronics, Python",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "PyTorch, Op-Amps, Numpy, Sensors, Communication Systems, Logic Gates",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Load Balancing, Troubleshooting, Security, High Availability, Unit Testing, Scripting, Java",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Transmission Lines, Mathematics, Cross-validation, Keras, VLSI Design, Microprocessors, Classification",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Node.js, RESTful APIs, Kubernetes, JavaScript, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "EDA, RNNs, Numpy, Google Cloud AI Platform, Cross-validation, PyTorch, Digital Signal Processing (DSP)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "C++, Caching, Kubernetes, React",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Machine Learning, Computer Vision, Laplace Transform, Statistical Analysis",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Git, AWS, System Design, Caching, MySQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "ASIC Design, Computer Vision, AWS Sagemaker, Instrumentation, Bode Plots, Antenna Theory, Feature Engineering, Statistical Analysis",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Data Preprocessing, Model Evaluation, Electronic Devices, Semiconductor Physics, Digital Electronics, Regression, Waveguides, Antenna Theory",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Multithreading, C++, Debugging, Cloud Computing, Concurrency, JavaScript, NoSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MATLAB, Antenna Theory, SPICE, CNNs",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Data Cleaning, Overfitting, Electronic Devices, Mathematics, SQL, OSI Model, Waveguides",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Kubernetes, AWS, NoSQL, MySQL, Data Structures, SQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Docker, Cloud Computing, High Availability, Git, Kubernetes, System Design, Caching, Java",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Classification, Instrumentation, Statistical Analysis, Overfitting, Power Electronics, Scikit-learn",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Transistors (BJT, MOSFET), TensorFlow, FPGA, Laplace Transform, Regression, VHDL, Statistical Analysis, Overfitting",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Boolean Algebra, Pandas, Digital Electronics, Microprocessors",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MySQL, NoSQL, PostgreSQL, Node.js, Test-Driven Development (TDD), Networking, Multithreading, Java",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MySQL, Linux, Unit Testing, Java, Jira, Multithreading, Performance Optimization, Problem Solving",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Reinforcement Learning (RL), SQL, Bode Plots, Modulation, MATLAB, Semiconductor Physics, Python",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "System Design, Agile, SQL, JavaScript",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Boolean Algebra, Overfitting, Scikit-learn, Data Cleaning, Noise Analysis, Analog Circuits",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "EC2, Kubernetes, C++, Networking, JavaScript",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "PostgreSQL, Scalability, Messaging Queues, React, Git, AWS, Unit Testing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "API Development, Problem Solving, Big O Notation, CI/CD, Concurrency, Debugging, Data Structures",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Debugging, Messaging Queues, DynamoDB, Troubleshooting, Database Design",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Java, Unit Testing, C++, Security, NoSQL, Multithreading",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Cross-validation, Fourier Transform, Unsupervised Learning, Python, Numpy",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Feature Engineering, Seaborn, Azure Machine Learning, Microprocessors, Deep Learning, Digital Signal Processing (DSP)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Database Design, Algorithms, Scalability, Unit Testing, Data Structures",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Verilog, Python, Git, Feature Engineering, Model Evaluation, Reinforcement Learning (RL), Power Electronics, PyTorch",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "EC2, Performance Optimization, Scalability, Node.js, Jira",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Power Electronics, Noise Analysis, Underfitting, SQL, Digital Signal Processing (DSP)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Amplifiers, TensorFlow, Model Evaluation, AWS Sagemaker, Microcontrollers, Waveguides, Computer Vision",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MySQL, Cloud Computing, Unit Testing, System Design",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Overfitting, Git, Mathematics, Google Cloud AI Platform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Z-Transform, TensorFlow, Machine Learning, CNNs, Microprocessors",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Problem Solving, API Development, Networking, Multithreading, NoSQL, Caching",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Feedback Systems, Fourier Transform, Pandas, Seaborn",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Sensors, Embedded Systems, PyTorch, Verilog, Machine Learning, ASIC Design, Numpy",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Electronic Devices, Supervised Learning, Diodes, Z-Transform, CNNs",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Lambda, C++, Debugging, CI/CD, SQL, Cloud Computing, Python",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "FPGA, Scikit-learn, TensorFlow, Numpy, Computer Vision, Communication Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Instrumentation, Computer Vision, Control Systems, Circuit Analysis",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Supervised Learning, Feedback Systems, Logic Gates, Verilog, Filters, Feature Engineering, Digital Signal Processing (DSP), Xilinx ISE/Vivado",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Diodes, Bode Plots, Data Preprocessing, OSI Model",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Antenna Theory, VLSI Design, Noise Analysis, Pandas, Python, Data Preprocessing, EDA",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Circuit Analysis, SQL, AWS Sagemaker, Jupyter Notebook",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Instrumentation, Python, Supervised Learning, Z-Transform, FPGA, SQL, Jupyter Notebook",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "JavaScript, AWS, API Development, RESTful APIs, Performance Optimization, React, Scalability, Big O Notation",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scikit-learn, PyTorch, Transmission Lines, Xilinx ISE/Vivado, Data Preprocessing, Underfitting, Feedback Systems, Digital Electronics",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MySQL, Problem Solving, Test-Driven Development (TDD), Git, Algorithms, Unit Testing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Simulink, Classification, Matplotlib, Computer Vision",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Xilinx ISE/Vivado, Machine Learning, Signals and Systems, Underfitting, Unsupervised Learning, Simulink",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Algorithms, Problem Solving, Big O Notation, Agile, System Design, Load Balancing, Networking, SQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "High Availability, Load Balancing, React, Jira, API Development, JavaScript, Caching, Scalability",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Amplifiers, Analog Circuits, Fourier Transform, Z-Transform, Supervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Matplotlib, Noise Analysis, VHDL, Pandas, RNNs, Mathematics",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Concurrency, High Availability, AWS, C++, PostgreSQL, JavaScript, DynamoDB, MySQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scripting, Problem Solving, Troubleshooting, NoSQL, Docker, Security",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "System Design, Scalability, Git, API Development, PostgreSQL, S3",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Machine Learning, Amplifiers, Sensors, OSI Model, FPGA",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Pandas, Transmission Lines, Matplotlib, Supervised Learning, VHDL, Analog Circuits, Simulink",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Big O Notation, API Development, Scalability, Kubernetes, JavaScript, Test-Driven Development (TDD), Networking, PostgreSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Caching, Scripting, Jira, Linux, MySQL, Git, Agile",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Power Electronics, Git, Microcontrollers, Digital Signal Processing (DSP)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Digital Electronics, Keras, Amplifiers, Microprocessors, Laplace Transform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Analog Circuits, Semiconductor Physics, Filters, Cross-validation, CNNs, FPGA, Xilinx ISE/Vivado, Simulink",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MySQL, Problem Solving, SQL, Unit Testing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "NoSQL, Node.js, Messaging Queues, Security, Problem Solving, Big O Notation, Python",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "JavaScript, CI/CD, Jira, RESTful APIs, Scalability",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "CI/CD, Java, Kubernetes, Jira, Performance Optimization, JavaScript, React",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Analog Circuits, Communication Systems, Transmission Lines, Supervised Learning, Amplifiers",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "High Availability, Multithreading, NoSQL, RESTful APIs, Concurrency, System Design, Networking, MySQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Azure Machine Learning, ASIC Design, Computer Vision, Stability, Matplotlib, SQL, CNNs, Diodes",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "C++, Node.js, CI/CD, Agile, Multithreading",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Jira, DynamoDB, S3, Java, CI/CD, Troubleshooting",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Unsupervised Learning, Communication Systems, Supervised Learning, Signals and Systems, Transmission Lines",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MySQL, Messaging Queues, Node.js, JavaScript, Networking, Agile, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Java, Big O Notation, Concurrency, Linux",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Regression, Transistors (BJT, MOSFET), Supervised Learning, MATLAB, AWS Sagemaker, Underfitting",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Big O Notation, S3, Lambda, React, RESTful APIs, Node.js, DynamoDB",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Java, Concurrency, Agile, DynamoDB, RESTful APIs, React, Big O Notation",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, RNNs, Fourier Transform, Reinforcement Learning (RL), Xilinx ISE/Vivado, Analog Circuits, Simulink",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Embedded Systems, AWS Sagemaker, Xilinx ISE/Vivado, Seaborn, Cross-validation",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "C++, Troubleshooting, High Availability, Kubernetes, CI/CD, Agile",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Security, PostgreSQL, AWS, Linux, Git",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Control System Design, Microprocessors, Feature Engineering, Simulink, Cadence Virtuoso",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Embedded Systems, SQL, Digital Electronics, Op-Amps, Jupyter Notebook, AWS Sagemaker",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Unsupervised Learning, Keras, Embedded Systems, Cadence Virtuoso, SPICE, Control System Design, Diodes",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "API Development, RESTful APIs, S3, Messaging Queues, Load Balancing, Lambda, System Design",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Azure Machine Learning, Python, Verilog, CNNs",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "React, DynamoDB, CI/CD, Java, Linux",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Test-Driven Development (TDD), C++, Algorithms, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Security, Performance Optimization, React, Big O Notation, Agile, PostgreSQL, Python, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "NoSQL, Security, SQL, Lambda, Problem Solving, MySQL, Performance Optimization",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SPICE, Overfitting, EDA, Python",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Statistical Analysis, Git, Data Preprocessing, Neural Networks, Control Systems, VHDL",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Numpy, CMOS, RNNs, Git, Keras, Stability, AWS Sagemaker, ASIC Design",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Database Design, Lambda, Java, Caching, AWS, Cloud Computing, Linux",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "NoSQL, Scalability, JavaScript, High Availability, MySQL, RESTful APIs, SQL, React",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "S3, Security, Kubernetes, Networking, Git, Unit Testing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "CNNs, Verilog, Data Preprocessing, Mathematics, Numpy",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Neural Networks, Analog Circuits, Transmission Lines, MATLAB, Underfitting, Semiconductor Physics, Microcontrollers",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "API Development, NoSQL, JavaScript, Problem Solving, PostgreSQL, Cloud Computing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MySQL, S3, High Availability, Messaging Queues, API Development, Java, EC2, RESTful APIs",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Underfitting, Analog Circuits, CMOS, Statistical Analysis, Cadence Virtuoso",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Big O Notation, S3, Security, Debugging, EC2, PostgreSQL, Unit Testing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Mathematics, VLSI Design, MATLAB, Python",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Google Cloud AI Platform, Circuit Analysis, Model Evaluation, Matplotlib, Reinforcement Learning (RL), TensorFlow, Electronic Devices",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Caching, PostgreSQL, Scalability, Agile, Python, SQL, Load Balancing, Algorithms",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Git, VHDL, Computer Vision, Feedback Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Performance Optimization, Concurrency, Security, Load Balancing, Messaging Queues",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Debugging, Jira, React, Big O Notation, CI/CD, Caching",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "System Design, Data Structures, Load Balancing, Algorithms, DynamoDB",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SQL, Logic Gates, Embedded Systems, FPGA, Signals and Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Analog Circuits, Keras, Python, Deep Learning, Scikit-learn, Sensors, Digital Signal Processing (DSP)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Full wish station anything boy. Skilled in classical music, event planning, and stage performance.",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "EC2, Cloud Computing, Linux, React, Problem Solving, System Design",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scalability, PostgreSQL, DynamoDB, Java",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scripting, Docker, Multithreading, Caching, Concurrency",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Filters, Communication Systems, Diodes, PyTorch",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Feedback Systems, Semiconductor Physics, TensorFlow, Computer Vision, Diodes",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MySQL, Algorithms, AWS, PostgreSQL, Networking",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "AWS, Concurrency, Jira, Big O Notation, S3, Problem Solving",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Z-Transform, Instrumentation, Semiconductor Physics, CMOS, Python, Circuit Analysis",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Test-Driven Development (TDD), SQL, Caching, Algorithms, High Availability, EC2, Messaging Queues",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MySQL, SQL, Security, Load Balancing, Agile, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "S3, Big O Notation, NoSQL, Messaging Queues, Problem Solving, Java, Node.js",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "RESTful APIs, Database Design, PostgreSQL, Node.js, C++",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "VLSI Design, Xilinx ISE/Vivado, Control Systems, FPGA, Instrumentation, Classification, SPICE, OSI Model",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Problem Solving, NoSQL, Database Design, Security",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "C++, Security, MySQL, Data Structures, React, Load Balancing, Agile",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Load Balancing, Concurrency, AWS, Big O Notation, Kubernetes, Algorithms, SQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "JavaScript, Java, PostgreSQL, High Availability, Data Structures, AWS, Linux",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Deep Learning, Python, Fourier Transform, VHDL, Feature Engineering, Embedded Systems, Regression",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Performance Optimization, CI/CD, Docker, Test-Driven Development (TDD), Unit Testing, Debugging",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Transmission Lines, Deep Learning, Laplace Transform, Statistical Analysis, Microcontrollers",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "System Design, SQL, Load Balancing, Lambda, Networking, MySQL, Git, S3",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Problem Solving, EC2, AWS, PostgreSQL, Node.js, Algorithms, Data Structures",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Overfitting, Transmission Lines, Xilinx ISE/Vivado, SQL, Git, Control Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Concurrency, Networking, Test-Driven Development (TDD), Security, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "ASIC Design, MATLAB, VHDL, Data Cleaning, Pandas, Amplifiers, Xilinx ISE/Vivado",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "AWS, Troubleshooting, Caching, Algorithms",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Cloud Computing, Git, DynamoDB, Multithreading",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Unit Testing, Algorithms, System Design, Cloud Computing, React, Jira, Docker, EC2",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Performance Optimization, Git, S3, Python, Big O Notation, Data Structures, Algorithms, JavaScript",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SPICE, Natural Language Processing (NLP), Fourier Transform, Digital Electronics, Underfitting",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Networking, Multithreading, Kubernetes, CI/CD, Linux",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Pandas, Power Electronics, SQL, Model Evaluation, Deep Learning, Reinforcement Learning (RL)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "NoSQL, API Development, Load Balancing, Multithreading",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Java, React, Scalability, SQL, Algorithms, Problem Solving",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "API Development, Jira, Multithreading, Algorithms, C++",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Agile, Big O Notation, Data Structures, Unit Testing, JavaScript, EC2, Python, Problem Solving",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Verilog, Reinforcement Learning (RL), Amplifiers, FPGA, Jupyter Notebook, Deep Learning, Fourier Transform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Networking, Concurrency, JavaScript, NoSQL, Multithreading",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Messaging Queues, Performance Optimization, Node.js, Concurrency, API Development",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Lambda, MySQL, EC2, Test-Driven Development (TDD), PostgreSQL, Scalability",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Filters, Boolean Algebra, VLSI Design, OSI Model, SQL",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Reinforcement Learning (RL), Op-Amps, ASIC Design, Boolean Algebra, Unsupervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Caching, Scalability, API Development, Multithreading, Lambda, Database Design, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "DynamoDB, Scripting, System Design, Docker, Test-Driven Development (TDD), SQL, Problem Solving, Big O Notation",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Classification, SQL, Z-Transform, Supervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Algorithms, Cloud Computing, Security, Multithreading, Data Structures, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "PostgreSQL, CI/CD, AWS, Node.js, API Development, NoSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Node.js, Git, Data Structures, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "NoSQL, Data Structures, Big O Notation, Messaging Queues, Agile",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Feature Engineering, Jupyter Notebook, Pandas, Circuit Analysis",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "CI/CD, Node.js, MySQL, Cloud Computing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SQL, Debugging, Jira, Lambda, Node.js, RESTful APIs, Unit Testing, JavaScript",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, Communication Systems, Power Electronics, Unsupervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Data Structures, Kubernetes, Performance Optimization, RESTful APIs, System Design, Caching, Load Balancing, EC2",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Z-Transform, Data Cleaning, Keras, Instrumentation, Waveguides, Statistical Analysis",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Git, Test-Driven Development (TDD), Load Balancing, Java, EC2",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Jira, Scripting, Debugging, Caching, PostgreSQL, C++, System Design, Database Design",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Control Systems, Diodes, Data Preprocessing, Verilog",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Seaborn, Circuit Analysis, CNNs, Amplifiers",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "EC2, Load Balancing, Linux, Git, Troubleshooting",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Instrumentation, Overfitting, Control Systems, Power Electronics, Modulation, Git, Bode Plots, Keras",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Antenna Theory, Control System Design, Reinforcement Learning (RL), MATLAB",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Feedback Systems, Bode Plots, Boolean Algebra, SPICE, OSI Model, SQL, Classification, Data Preprocessing",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Messaging Queues, Docker, SQL, Agile",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Natural Language Processing (NLP), Feedback Systems, Transistors (BJT, MOSFET), AWS Sagemaker, VHDL, Z-Transform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scikit-learn, Instrumentation, Simulink, Reinforcement Learning (RL)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Git, DynamoDB, Test-Driven Development (TDD), Cloud Computing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Messaging Queues, Caching, Troubleshooting, Linux, Java",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Circuit Analysis, Python, Keras, EDA, CMOS, Control Systems, Electronic Devices",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "PostgreSQL, High Availability, Algorithms, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Agile, Test-Driven Development (TDD), Networking, React, Python",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Networking, MySQL, Security, Data Structures, Java, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Classification, Regression, Mathematics, Jupyter Notebook, Amplifiers, Git, Model Evaluation",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Modulation, Electronic Devices, Data Cleaning, AWS Sagemaker, Logic Gates, Cadence Virtuoso, Noise Analysis",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scikit-learn, Logic Gates, Op-Amps, Google Cloud AI Platform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Mathematics, Boolean Algebra, Pandas, Underfitting, Control System Design, Communication Systems, Python",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Messaging Queues, Troubleshooting, Docker, Data Structures, React, Linux, Debugging, Lambda",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Natural Language Processing (NLP), Data Preprocessing, Deep Learning, Seaborn, VHDL",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "JavaScript, Big O Notation, API Development, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Xilinx ISE/Vivado, Reinforcement Learning (RL), Cross-validation, PyTorch, Scikit-learn, VHDL",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Caching, Performance Optimization, CI/CD, Security",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "EDA, Transmission Lines, Op-Amps, Matplotlib",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "DynamoDB, Database Design, CI/CD, Node.js, Agile, Multithreading, Caching, Linux",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Underfitting, Model Evaluation, Google Cloud AI Platform, Analog Circuits, Machine Learning, Cadence Virtuoso, Keras, Git",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "VLSI Design, Machine Learning, Analog Circuits, Xilinx ISE/Vivado, Z-Transform, EDA, Electronic Devices",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "C++, Problem Solving, Multithreading, Test-Driven Development (TDD), Big O Notation",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Data Cleaning, Boolean Algebra, Underfitting, Digital Electronics",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "DynamoDB, SQL, PostgreSQL, Load Balancing, MySQL, Python",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "CI/CD, Concurrency, Linux, Agile, Scripting",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Communication Systems, Data Cleaning, Machine Learning, CNNs, Noise Analysis, Regression, SQL, Azure Machine Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "OSI Model, Mathematics, Azure Machine Learning, Antenna Theory, Simulink, Op-Amps, Keras",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, Troubleshooting, CI/CD, Unit Testing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Supervised Learning, Analog Circuits, Embedded Systems, Instrumentation, Mathematics, Classification, Jupyter Notebook",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, NoSQL, Jira, Docker",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MySQL, Python, React, DynamoDB, API Development, PostgreSQL, Test-Driven Development (TDD)",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SPICE, Power Electronics, Jupyter Notebook, Mathematics, Cadence Virtuoso, Bode Plots, Python",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "High Availability, Big O Notation, Agile, Unit Testing, DynamoDB",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Jira, JavaScript, API Development, C++, Messaging Queues, Scalability, Scripting",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Verilog, Azure Machine Learning, Python, Unsupervised Learning, Digital Signal Processing (DSP), Numpy, Fourier Transform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Kubernetes, Unit Testing, Algorithms, Security, AWS, JavaScript, Jira",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "VLSI Design, Bode Plots, Microprocessors, Filters, SQL",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "VHDL, Noise Analysis, Mathematics, Data Cleaning, Natural Language Processing (NLP), Seaborn, Machine Learning, Git",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Production health determine pretty upon Mrs simple. Expert in oil painting and sculpture. Managed art exhibitions and curated galleries.",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Digital Signal Processing (DSP), Seaborn, Transmission Lines, CMOS",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Statistical Analysis, Transmission Lines, Xilinx ISE/Vivado, Regression",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "EDA, Control System Design, ASIC Design, Stability, Control Systems, Data Cleaning, Jupyter Notebook, Digital Signal Processing (DSP)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Model Evaluation, Waveguides, VHDL, Laplace Transform, Matplotlib, Amplifiers",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "React, Unit Testing, Python, API Development, Algorithms, Troubleshooting, Jira",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Boolean Algebra, Model Evaluation, Reinforcement Learning (RL), Feedback Systems, Digital Signal Processing (DSP), Semiconductor Physics, Laplace Transform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "OSI Model, Computer Vision, Boolean Algebra, TensorFlow",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Stability, VLSI Design, Matplotlib, Cadence Virtuoso",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Simulink, Signals and Systems, Jupyter Notebook, Electronic Devices, Matplotlib, EDA, Model Evaluation",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Digital Signal Processing (DSP), Machine Learning, Fourier Transform, Control System Design",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Op-Amps, Bode Plots, Deep Learning, Google Cloud AI Platform, Statistical Analysis, Communication Systems, Model Evaluation",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Node.js, React, High Availability, PostgreSQL, RESTful APIs, Git, CI/CD, Cloud Computing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Feedback Systems, AWS Sagemaker, Git, Transistors (BJT, MOSFET), Data Cleaning, VHDL, Filters, Microcontrollers",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "C++, Troubleshooting, Node.js, Load Balancing, Networking, API Development",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "VLSI Design, Data Preprocessing, Modulation, SQL, FPGA, OSI Model",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Keras, Feature Engineering, Amplifiers, Deep Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Signals and Systems, OSI Model, Azure Machine Learning, Mathematics",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Computer Vision, Bode Plots, Signals and Systems, Fourier Transform, Deep Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Load Balancing, Multithreading, C++, Security",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "API Development, Unit Testing, EC2, System Design, Debugging",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SQL, Google Cloud AI Platform, Verilog, Matplotlib, Cross-validation",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "ASIC Design, Diodes, CNNs, Mathematics, Reinforcement Learning (RL)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Analog Circuits, TensorFlow, Google Cloud AI Platform, VLSI Design, Keras, Boolean Algebra, Digital Signal Processing (DSP)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "System Design, Messaging Queues, Problem Solving, Jira, Multithreading, NoSQL, API Development, Unit Testing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "FPGA, Semiconductor Physics, Power Electronics, Unsupervised Learning, ASIC Design",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Statistical Analysis, Neural Networks, Deep Learning, Azure Machine Learning, Mathematics",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Messaging Queues, Cloud Computing, Git, S3, Database Design",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "PyTorch, MATLAB, Data Preprocessing, Matplotlib, Filters, Amplifiers, Stability, SPICE",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Git, EC2, Caching, SQL, CI/CD, Big O Notation, System Design, Load Balancing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "TensorFlow, Microcontrollers, Supervised Learning, EDA, CMOS, Matplotlib",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Networking, Big O Notation, Debugging, Performance Optimization",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Xilinx ISE/Vivado, Data Preprocessing, Feedback Systems, Natural Language Processing (NLP), Laplace Transform, Verilog, Deep Learning, Simulink",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "NoSQL, Scalability, AWS, Scripting, Git, Jira, Data Structures",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Model Evaluation, Git, Feedback Systems, Power Electronics, Op-Amps, Noise Analysis, CMOS",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MySQL, JavaScript, Node.js, Big O Notation, API Development, Test-Driven Development (TDD)",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Load Balancing, S3, C++, System Design",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "DynamoDB, Docker, RESTful APIs, Multithreading, Agile, S3, PostgreSQL, Troubleshooting",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Smile response explain key rock whole. Managed agricultural farm operations and crop planning.",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "FPGA, VHDL, Antenna Theory, EDA",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Concurrency, Performance Optimization, CI/CD, Unit Testing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Node.js, Data Structures, API Development, Troubleshooting, Performance Optimization",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Neural Networks, Sensors, Reinforcement Learning (RL), Classification, Filters, CNNs, Matplotlib",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Git, Machine Learning, Logic Gates, Simulink, Model Evaluation, Modulation, Waveguides, Signals and Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SQL, Git, API Development, EC2, Java, JavaScript, Jira",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Semiconductor Physics, Power Electronics, FPGA, Python, Scikit-learn, Statistical Analysis, Deep Learning, Git",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Sensors, Communication Systems, Digital Signal Processing (DSP), Reinforcement Learning (RL), Microcontrollers, Model Evaluation, Matplotlib",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Linux, PostgreSQL, JavaScript, Messaging Queues, Scripting, React, Concurrency",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Numpy, EDA, SPICE, Python, RNNs, Laplace Transform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Caching, Docker, Test-Driven Development (TDD), Jira",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Deep Learning, Regression, Control Systems, Cadence Virtuoso, Verilog, Microcontrollers",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Test-Driven Development (TDD), Node.js, Python, C++, Concurrency, JavaScript, Caching, Security",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Noise Analysis, Digital Electronics, Modulation, Numpy, Control Systems, Electronic Devices, Neural Networks",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Short or life including. Basic MS Office, no programming experience, interested in sales.",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scripting, Kubernetes, Lambda, EC2, Node.js, S3",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Debugging, Performance Optimization, Agile, Big O Notation, Cloud Computing, AWS, Scripting",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Load Balancing, MySQL, S3, CI/CD, SQL, Database Design, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Messaging Queues, Agile, React, S3, Scripting, EC2, Database Design",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Stability, Reinforcement Learning (RL), Op-Amps, Statistical Analysis, Azure Machine Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Machine Learning, FPGA, EDA, Modulation, Google Cloud AI Platform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Cloud Computing, Test-Driven Development (TDD), EC2, Linux, Performance Optimization",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Transmission Lines, Cadence Virtuoso, Google Cloud AI Platform, Keras, Overfitting, Op-Amps, SQL",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Networking, C++, Data Structures, Big O Notation, Java",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Linux, JavaScript, React, DynamoDB, Networking",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Noise Analysis, Unsupervised Learning, Signals and Systems, Logic Gates, Data Cleaning, CMOS, TensorFlow",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Control System Design, Supervised Learning, Cross-validation, Neural Networks, Feature Engineering, Sensors, Z-Transform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "TensorFlow, AWS Sagemaker, Digital Signal Processing (DSP), Reinforcement Learning (RL)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Matplotlib, Python, Statistical Analysis, Computer Vision, Communication Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Amplifiers, Microcontrollers, Semiconductor Physics, Logic Gates, Cross-validation, Cadence Virtuoso, Simulink",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "System Design, Database Design, MySQL, Docker, NoSQL, Performance Optimization, Networking",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "S3, Node.js, System Design, PostgreSQL, API Development",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MySQL, System Design, Kubernetes, Node.js, Problem Solving, Scripting",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Microcontrollers, Git, Python, Statistical Analysis",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MySQL, Database Design, Git, JavaScript, Messaging Queues, SQL, CI/CD, Kubernetes",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Supervised Learning, Semiconductor Physics, Logic Gates, Analog Circuits",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SPICE, Sensors, EDA, Statistical Analysis, VHDL, Classification, Google Cloud AI Platform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Lambda, Git, MySQL, Data Structures, Troubleshooting",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Networking, Linux, Load Balancing, MySQL, Test-Driven Development (TDD), Scalability, Cloud Computing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Algorithms, Debugging, C++, Data Structures, CI/CD, Scripting, Git",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scalability, NoSQL, Database Design, Unit Testing, Git, Jira",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Op-Amps, Statistical Analysis, Digital Signal Processing (DSP), Machine Learning, Supervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Numpy, Matplotlib, Feedback Systems, Classification, Keras",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Z-Transform, Instrumentation, Microcontrollers, Power Electronics, Amplifiers, Filters",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Antenna Theory, Amplifiers, Azure Machine Learning, Regression, Jupyter Notebook, FPGA, Data Preprocessing, Seaborn",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Noise Analysis, Statistical Analysis, Data Cleaning, Supervised Learning, Jupyter Notebook, VLSI Design, Electronic Devices, Logic Gates",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Debugging, AWS, Security, Lambda, System Design, Python, React",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "CI/CD, Performance Optimization, Caching, DynamoDB, SQL, Multithreading, Database Design, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Git, System Design, Load Balancing, Troubleshooting",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Problem Solving, Agile, Load Balancing, C++, JavaScript",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "EDA, Amplifiers, Pandas, Embedded Systems, VHDL, Boolean Algebra",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Docker, Node.js, CI/CD, C++",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "C++, Messaging Queues, Debugging, Lambda, Java, S3, Caching, High Availability",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Logic Gates, FPGA, Classification, Transmission Lines, Git, Transistors (BJT, MOSFET)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Simulink, Op-Amps, MATLAB, Electronic Devices, Git, Classification",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Linux, Unit Testing, SQL, Caching, Database Design, Node.js, Performance Optimization, S3",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Git, Numpy, Circuit Analysis, CMOS, ASIC Design, CNNs, Filters",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scripting, SQL, Git, DynamoDB, CI/CD, JavaScript, Load Balancing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "AWS, Problem Solving, Test-Driven Development (TDD), S3",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "NoSQL, Unit Testing, S3, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Regression, Model Evaluation, Digital Signal Processing (DSP), Statistical Analysis",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "API Development, Security, Linux, Data Structures",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Cloud Computing, Git, Test-Driven Development (TDD), API Development",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, Data Structures, MySQL, Unit Testing, Agile, Debugging, RESTful APIs",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Unit Testing, Debugging, JavaScript, CI/CD, Problem Solving, Concurrency, Test-Driven Development (TDD), Messaging Queues",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "AWS Sagemaker, Reinforcement Learning (RL), Natural Language Processing (NLP), Sensors",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "EC2, Problem Solving, Load Balancing, High Availability, Multithreading, PostgreSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Networking, Linux, React, Unit Testing, Debugging, Caching, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Transistors (BJT, MOSFET), Verilog, Logic Gates, Boolean Algebra, Matplotlib",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scalability, DynamoDB, Git, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MySQL, Java, NoSQL, AWS, Unit Testing, Test-Driven Development (TDD), Cloud Computing, PostgreSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Big O Notation, Test-Driven Development (TDD), Docker, High Availability",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Digital Signal Processing (DSP), Classification, Supervised Learning, Computer Vision",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, Stability, Filters, Z-Transform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Cloud Computing, EC2, Performance Optimization, Git, MySQL, Multithreading",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Lambda, Performance Optimization, High Availability, Algorithms, NoSQL, React, EC2",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "EDA, Feature Engineering, VLSI Design, Seaborn, CNNs, Xilinx ISE/Vivado, Git",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "DynamoDB, Cloud Computing, Database Design, Agile, PostgreSQL, Security, Debugging",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Reinforcement Learning (RL), Digital Signal Processing (DSP), Semiconductor Physics, Op-Amps, Simulink",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Op-Amps, Statistical Analysis, Data Preprocessing, Amplifiers, Deep Learning, Laplace Transform, CMOS",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Natural Language Processing (NLP), Noise Analysis, CNNs, Feature Engineering",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Laplace Transform, Unsupervised Learning, Filters, Numpy, Sensors, Z-Transform, Reinforcement Learning (RL), Machine Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Waveguides, VLSI Design, Neural Networks, Numpy, SQL",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "High Availability, NoSQL, Node.js, Performance Optimization, Big O Notation, Troubleshooting",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Statistical Analysis, Digital Signal Processing (DSP), Signals and Systems, Pandas, Power Electronics, Cross-validation, Sensors",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "React, Scalability, Caching, Test-Driven Development (TDD), S3",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Overfitting, Mathematics, Classification, Computer Vision, Circuit Analysis, Communication Systems, Keras",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Sensors, Classification, FPGA, Amplifiers, Circuit Analysis, Scikit-learn, Feedback Systems, Digital Electronics",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "OSI Model, Feature Engineering, MATLAB, Model Evaluation, Machine Learning",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Bode Plots, Digital Electronics, Z-Transform, Model Evaluation, SPICE",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Mathematics, Data Preprocessing, Overfitting, Regression, Matplotlib, SQL",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Cloud Computing, Lambda, AWS, Performance Optimization, System Design, Algorithms, Database Design, Scalability",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Cadence Virtuoso, Regression, Control System Design, Circuit Analysis, Communication Systems, Verilog",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "FPGA, Digital Signal Processing (DSP), Sensors, Control System Design",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Control Systems, Jupyter Notebook, Waveguides, Digital Electronics, Semiconductor Physics, Seaborn",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "RNNs, Noise Analysis, CNNs, Feedback Systems, Mathematics, Underfitting, VLSI Design, Modulation",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "EDA, Azure Machine Learning, Deep Learning, ASIC Design, Microcontrollers",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Node.js, Performance Optimization, Problem Solving, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, Troubleshooting, MySQL, Docker, DynamoDB, Linux",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Java, Kubernetes, Data Structures, Performance Optimization, React, RESTful APIs",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, Power Electronics, Feedback Systems, ASIC Design, Bode Plots, Control System Design, Microcontrollers",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "MySQL, C++, Kubernetes, Linux, Load Balancing, Unit Testing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Lambda, Docker, Java, NoSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Feedback Systems, Communication Systems, Machine Learning, Noise Analysis, Control System Design, AWS Sagemaker, VLSI Design, FPGA",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Data Cleaning, Bode Plots, Transistors (BJT, MOSFET), FPGA, Statistical Analysis, Keras, Z-Transform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "RESTful APIs, Caching, Troubleshooting, DynamoDB",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Load Balancing, Concurrency, System Design, Big O Notation, Unit Testing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SQL, Database Design, Agile, Data Structures, Security, Jira, AWS, S3",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "EC2, Data Structures, RESTful APIs, Java, Test-Driven Development (TDD), Troubleshooting, MySQL, Scripting",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Supervised Learning, Cadence Virtuoso, Data Preprocessing, Machine Learning, Unsupervised Learning, Keras, Digital Signal Processing (DSP)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Lambda, Problem Solving, Jira, Git, Unit Testing, Data Structures, API Development, PostgreSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "AWS, DynamoDB, S3, Git, Security",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Matplotlib, OSI Model, Scikit-learn, SQL, Unsupervised Learning, Digital Signal Processing (DSP), Machine Learning, Feedback Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Z-Transform, Natural Language Processing (NLP), TensorFlow, Statistical Analysis, FPGA",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Caching, Agile, PostgreSQL, RESTful APIs, Database Design, Data Structures, Networking",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Control Systems, Transmission Lines, Op-Amps, Cross-validation, Git, Semiconductor Physics",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scripting, DynamoDB, Linux, Unit Testing, EC2, NoSQL, Concurrency",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Semiconductor Physics, Statistical Analysis, PyTorch, Diodes",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Caching, Lambda, Java, EC2, Multithreading",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Jira, Security, Kubernetes, Caching, EC2, Docker, PostgreSQL, Messaging Queues",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "AWS Sagemaker, Sensors, Seaborn, Overfitting, PyTorch",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scikit-learn, Mathematics, Overfitting, Model Evaluation, ASIC Design, Statistical Analysis, Electronic Devices, Signals and Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Keras, Filters, Analog Circuits, Control System Design, Git, Control Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Reinforcement Learning (RL), Logic Gates, Overfitting, Feature Engineering",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SPICE, MATLAB, Waveguides, PyTorch, Matplotlib",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Op-Amps, Bode Plots, Signals and Systems, CNNs, Semiconductor Physics",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "High Availability, Scripting, CI/CD, Load Balancing, Debugging, Database Design, EC2, Jira",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "FPGA, Regression, Mathematics, Keras, Classification, VLSI Design",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Concurrency, Kubernetes, RESTful APIs, EC2, PostgreSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Azure Machine Learning, PyTorch, Jupyter Notebook, Seaborn, VLSI Design, FPGA",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Instrumentation, Xilinx ISE/Vivado, EDA, Model Evaluation, Analog Circuits, Natural Language Processing (NLP), PyTorch",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Docker, Scalability, EC2, PostgreSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Seaborn, MATLAB, Underfitting, Waveguides, Transistors (BJT, MOSFET), Digital Electronics, Scikit-learn",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Linux, Database Design, React, Multithreading, Big O Notation",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Z-Transform, Communication Systems, CMOS, Op-Amps, ASIC Design",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "High Availability, Jira, Java, Linux, Debugging, Performance Optimization, Networking",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Database Design, CI/CD, SQL, JavaScript, React, PostgreSQL, Docker, Agile",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "ASIC Design, Natural Language Processing (NLP), Transistors (BJT, MOSFET), Mathematics, Digital Signal Processing (DSP)",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Troubleshooting, Unit Testing, C++, SQL, Algorithms, Python, S3, System Design",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "React, Load Balancing, RESTful APIs, Algorithms, MySQL, NoSQL, Performance Optimization, SQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scalability, Algorithms, Test-Driven Development (TDD), Kubernetes, CI/CD, Networking, High Availability",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Circuit Analysis, Mathematics, Control System Design, Modulation, Classification",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "S3, Java, React, Performance Optimization, NoSQL, C++, System Design, Security",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Cadence Virtuoso, Control Systems, Digital Electronics, Supervised Learning, Data Preprocessing, Z-Transform, Regression, Feedback Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Reinforcement Learning (RL), Matplotlib, Cross-validation, SQL",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Git, Networking, Agile, Debugging, EC2",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Problem Solving, Docker, Node.js, Java, Big O Notation, Linux",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "West without opportunity whole happy bar. Skilled in classical music, event planning, and stage performance.",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Mathematics, Git, Jupyter Notebook, Semiconductor Physics, Seaborn, Instrumentation, AWS Sagemaker, Underfitting",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Java, Caching, System Design, Load Balancing, Problem Solving, RESTful APIs, Data Structures, DynamoDB",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Jupyter Notebook, CMOS, Underfitting, Laplace Transform, Overfitting, SPICE, Google Cloud AI Platform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Python, Big O Notation, Performance Optimization, Scripting, AWS, System Design, CI/CD, PostgreSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Amplifiers, Laplace Transform, Cadence Virtuoso, Regression, Embedded Systems, VHDL, Deep Learning, AWS Sagemaker",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Mathematics, Statistical Analysis, Microcontrollers, Model Evaluation",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Troubleshooting, Messaging Queues, S3, Caching, CI/CD, Algorithms",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Electronic Devices, Cadence Virtuoso, Digital Electronics, Model Evaluation, VHDL, Regression, Antenna Theory",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Microcontrollers, Scikit-learn, Transmission Lines, Electronic Devices, Data Preprocessing, CNNs",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Electronic Devices, Cadence Virtuoso, SPICE, Matplotlib, Semiconductor Physics, Circuit Analysis",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Transmission Lines, Verilog, Feature Engineering, Control System Design, Natural Language Processing (NLP), Electronic Devices, Seaborn, Z-Transform",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "PostgreSQL, React, CI/CD, High Availability, Linux, System Design, Scalability",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Data Structures, JavaScript, Problem Solving, System Design, Test-Driven Development (TDD), S3, PostgreSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Newspaper everybody important pressure. Experience in retail store management, inventory control, and customer service.",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Communication Systems, Modulation, Git, Supervised Learning, Google Cloud AI Platform, Electronic Devices",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Docker, Performance Optimization, Algorithms, Git, EC2, S3, Concurrency",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SQL, EDA, RNNs, VHDL, Mathematics, Data Cleaning, Seaborn",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scalability, PostgreSQL, Algorithms, Multithreading, Load Balancing, Python, Security, Linux",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "AWS, Performance Optimization, Lambda, Agile, Security, System Design",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "React, Database Design, Security, Python, Multithreading",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "OSI Model, Computer Vision, Circuit Analysis, PyTorch, Control Systems, Feature Engineering, CMOS",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scalability, Data Structures, Messaging Queues, Caching",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Messaging Queues, C++, AWS, Unit Testing, Jira, Git, Test-Driven Development (TDD), JavaScript",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scikit-learn, Power Electronics, Embedded Systems, Analog Circuits, Model Evaluation, Bode Plots",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Circuit Analysis, Overfitting, Control Systems, Transmission Lines, Regression, FPGA",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Z-Transform, Pandas, Boolean Algebra, ASIC Design",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Jupyter Notebook, Signals and Systems, MATLAB, Analog Circuits",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Performance Optimization, MySQL, DynamoDB, Data Structures",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Sensors, Op-Amps, Microprocessors, Logic Gates, Communication Systems, Model Evaluation, Control System Design, Pandas",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "PostgreSQL, Agile, Git, Database Design, Lambda, Linux",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Numpy, Mathematics, VHDL, Stability",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Messaging Queues, Agile, Load Balancing, Linux",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Xilinx ISE/Vivado, Circuit Analysis, Fourier Transform, VLSI Design, Machine Learning, Amplifiers",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "VLSI Design, Microcontrollers, VHDL, Statistical Analysis, Semiconductor Physics",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "System Design, API Development, Big O Notation, Linux",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Seaborn, Pandas, Transistors (BJT, MOSFET), Fourier Transform, Feature Engineering, Electronic Devices, Circuit Analysis, Digital Electronics",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Data Structures, Problem Solving, Agile, Scalability",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Waveguides, Cadence Virtuoso, AWS Sagemaker, Data Preprocessing, Machine Learning, Jupyter Notebook, SQL",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "S3, Security, SQL, Unit Testing, Caching",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Bode Plots, CMOS, Cadence Virtuoso, Jupyter Notebook",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Linux, Networking, Caching, MySQL, Database Design, System Design",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Logic Gates, Cadence Virtuoso, Laplace Transform, SPICE, Control System Design",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "RNNs, Data Cleaning, Jupyter Notebook, Modulation",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Big O Notation, Data Structures, Agile, API Development, Lambda, Jira, CI/CD",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Troubleshooting, AWS, Lambda, Node.js, JavaScript, Multithreading, Scripting, Networking",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scalability, EC2, Debugging, Big O Notation, AWS, Load Balancing",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Xilinx ISE/Vivado, Cadence Virtuoso, Reinforcement Learning (RL), Azure Machine Learning, Instrumentation",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "React, CI/CD, Algorithms, Concurrency, DynamoDB, RESTful APIs",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Problem Solving, Security, Load Balancing, MySQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "EDA, Cross-validation, Verilog, Logic Gates, Control Systems, AWS Sagemaker, Neural Networks, OSI Model",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Debugging, Cloud Computing, Scripting, AWS, EC2, C++, Load Balancing, Multithreading",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Transistors (BJT, MOSFET), Digital Signal Processing (DSP), Deep Learning, Digital Electronics, Mathematics",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Multithreading, Concurrency, Algorithms, MySQL, Docker, DynamoDB, S3",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Control Systems, Diodes, Modulation, SPICE, Classification, Logic Gates",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Power Electronics, ASIC Design, Machine Learning, Statistical Analysis, Diodes",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "S3, Caching, CI/CD, Concurrency, Debugging, MySQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Troubleshooting, Unit Testing, Networking, MySQL, Database Design, Kubernetes, Python, Java",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Signals and Systems, Boolean Algebra, Verilog, Matplotlib",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Matplotlib, ASIC Design, Feature Engineering, Sensors",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Messaging Queues, System Design, Node.js, NoSQL",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "DynamoDB, MySQL, System Design, CI/CD, Jira, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Analog Circuits, Scikit-learn, Semiconductor Physics, Numpy",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Kubernetes, High Availability, Docker, Python, Scripting, Debugging",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Big O Notation, AWS, Problem Solving, Node.js, S3, NoSQL, Jira, C++",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Mathematics, ASIC Design, VLSI Design, AWS Sagemaker, Microcontrollers",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Feedback Systems, Machine Learning, Unsupervised Learning, Control System Design, Diodes, Supervised Learning, Git, Analog Circuits",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scripting, RESTful APIs, NoSQL, Cloud Computing, Big O Notation, Node.js, API Development, AWS",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Performance Optimization, API Development, Networking, System Design, Linux",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Simulink, RNNs, Matplotlib, PyTorch, Neural Networks, Modulation",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Big O Notation, MySQL, Git, Multithreading, Networking",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Jira, Node.js, Performance Optimization, Troubleshooting, Database Design, API Development, Data Structures",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Embedded Systems, Antenna Theory, Feedback Systems, VHDL, SQL, Underfitting",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Scalability, CI/CD, RESTful APIs, Caching, Concurrency",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "SQL, Logic Gates, Unsupervised Learning, Jupyter Notebook",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Azure Machine Learning, Unsupervised Learning, AWS Sagemaker, Amplifiers, Model Evaluation, Embedded Systems, Feedback Systems",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Op-Amps, Z-Transform, Signals and Systems, Data Preprocessing",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Analog Circuits, Electronic Devices, Scikit-learn, Digital Electronics",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Transmission Lines, Computer Vision, Sensors, Azure Machine Learning, Feature Engineering",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Software Engineer with 3 years of experience at Google, specializing in Java and distributed systems. Developed a scalable search engine component used by millions of users. BS in Computer Science from MIT.",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Recent graduate with a MS in Computer Science from Stanford University. Completed thesis on machine learning algorithms for natural language processing. Interned at Microsoft as a software engineering intern, working on cloud services.",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Software Developer with 4 years at Facebook, proficient in Python and full-stack development. Led the development of a new feature that increased user engagement by 25%. BS in Computer Engineering from UC Berkeley.",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "AWS Certified Solutions Architect with 2 years of experience in cloud computing. Worked on migrating on-premises applications to AWS, optimizing costs and performance. BS in Information Technology from Georgia Tech.",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Data Engineer with 3 years of experience at LinkedIn, specializing in big data technologies like Hadoop and Spark. Developed data pipelines for real-time analytics. MS in Data Science from Carnegie Mellon University.",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Full Stack Developer with 5 years of experience at Uber, experienced in JavaScript, React, and Node.js. Built and maintained web applications for rider and driver experiences. BS in Computer Science from University of Waterloo.",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Software Engineer with 2 years at Amazon, working on Alexa skills and voice services. Contributed to the development of new features for smart home integration. BS in Electrical Engineering from Caltech.",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Machine Learning Engineer with 3 years of experience at Tesla, focusing on autonomous driving systems. Developed algorithms for object detection and path planning. PhD in Robotics from University of Michigan.",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "DevOps Engineer with 4 years of experience at Netflix, specializing in CI/CD pipelines and infrastructure as code. Automated deployment processes, reducing release times by 50%. BS in Computer Science from University of Texas at Austin.",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Recent graduate with a BS in Computer Science from Harvard University, GPA 3.9. Completed senior project on building a recommendation system using machine learning. Participated in hackathons and won awards for innovative projects.",
+    "label": 1
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Marketing Specialist with 5 years of experience in digital marketing. Expert in SEO, PPC, and social media campaigns. MBA from Northwestern University. No technical skills.",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "High School Teacher with 10 years of experience in teaching mathematics and science. Skilled in curriculum development and student assessment. MA in Education from Teachers College, Columbia University. No programming experience.",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Financial Analyst with 4 years of experience in investment banking. Proficient in financial modeling, valuation, and risk analysis. CFA Level II. BS in Finance from Wharton School. No software development experience.",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Nurse with 6 years of experience in critical care. Skilled in patient care, medical procedures, and teamwork. BSN from University of Pennsylvania. No technical background.",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Lawyer with 7 years of experience in corporate law. Specializes in mergers and acquisitions, contract negotiation, and legal research. JD from Yale Law School. No programming skills.",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Graphic Designer with 3 years of experience in branding and UI/UX design. Proficient in Adobe Creative Suite. BFA in Graphic Design from Rhode Island School of Design. No software engineering experience.",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Accountant with 5 years of experience in public accounting. Expert in auditing, taxation, and financial reporting. CPA certified. BS in Accounting from University of Chicago. No technical skills.",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Human Resources Manager with 8 years of experience in talent acquisition and employee relations. Skilled in recruitment strategies and organizational development. MHRM from Cornell University. No programming experience.",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Journalist with 4 years of experience in print and online media. Specializes in technology reporting and feature writing. BA in Journalism from University of Southern California. Basic knowledge of HTML and CSS.",
+    "label": 0
+  },
+  {
+    "goal": "Amazon SDE",
+    "resume_text": "Mechanical Engineer with 3 years of experience in aerospace industry. Worked on design and simulation of aircraft components. BS in Mechanical Engineering from MIT. No software development experience.",
+    "label": 0
+  }
+]

@@ -1,0 +1,5102 @@
+[
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Machine Learning, Networking, MySQL, Google Cloud AI Platform, C++",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Problem Solving, Google Cloud AI Platform, Python, Security",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Classification, Jira, Numpy, Supervised Learning, Node.js, EC2, Python, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Data Structures, Scikit-learn, Pandas, C++",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Agile, Numpy, Unsupervised Learning, Supervised Learning, Python, Git",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Azure Machine Learning, Concurrency, SQL, AWS Sagemaker, Pandas, Cross-validation, Load Balancing, Troubleshooting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "RESTful APIs, C++, Node.js, React, Scripting, Data Cleaning, PyTorch",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Z-Transform, Bode Plots, Transistors (BJT, MOSFET), Verilog, Filters, Logic Gates, FPGA",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "MySQL, Data Preprocessing, Data Cleaning, Pandas, SQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Power Electronics, FPGA, Antenna Theory, Cadence Virtuoso",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Feedback Systems, VHDL, Stability, Amplifiers, Z-Transform, Logic Gates",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "AWS Sagemaker, Matplotlib, Cloud Computing, Azure Machine Learning, EC2",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Security, RESTful APIs, Lambda, Load Balancing, Jira, CNNs, S3",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Signals and Systems, Simulink, Feedback Systems, Logic Gates, Diodes, SPICE, Antenna Theory",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Unsupervised Learning, Cross-validation, AWS Sagemaker, Python, Pandas, Numpy",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Scripting, Keras, Concurrency, CNNs",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Mathematics, Digital Signal Processing (DSP), Semiconductor Physics, Power Electronics, Stability, Instrumentation, Digital Electronics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Scikit-learn, Performance Optimization, Deep Learning, NoSQL, Computer Vision",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Laplace Transform, Bode Plots, SPICE, Waveguides",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Stability, Verilog, Digital Electronics, Bode Plots",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "MATLAB, Control System Design, SPICE, Digital Electronics, Instrumentation, ASIC Design, Sensors, Electronic Devices",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "VLSI Design, Diodes, Transistors (BJT, MOSFET), Communication Systems, Fourier Transform, Verilog, Semiconductor Physics, Analog Circuits",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Statistical Analysis, AWS Sagemaker, Natural Language Processing (NLP), JavaScript, Load Balancing, Computer Vision",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Waveguides, Fourier Transform, Digital Signal Processing (DSP), Mathematics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Underfitting, Java, Statistical Analysis, Natural Language Processing (NLP), Python, High Availability, Cloud Computing, CNNs",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Matplotlib, SQL, Deep Learning, Lambda",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transmission Lines, Diodes, Xilinx ISE/Vivado, Simulink, Circuit Analysis, Amplifiers, Instrumentation, Fourier Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Reinforcement Learning (RL), System Design, Agile, CNNs, Statistical Analysis, EC2, Google Cloud AI Platform",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Logic Gates, Verilog, Diodes, Instrumentation, Embedded Systems, Electronic Devices",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "High Availability, React, Scikit-learn, C++, Natural Language Processing (NLP), Concurrency, Algorithms",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Instrumentation, Microprocessors, Circuit Analysis, Signals and Systems, OSI Model, CMOS, Transmission Lines",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Linux, Keras, Deep Learning, Load Balancing, Problem Solving, SQL, Security, Performance Optimization",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Feedback Systems, Filters, Noise Analysis, Modulation",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Waveguides, Boolean Algebra, Filters, Op-Amps, VLSI Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Neural Networks, Natural Language Processing (NLP), Python, Scripting, AWS Sagemaker, Multithreading",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Op-Amps, Transistors (BJT, MOSFET), Embedded Systems, Semiconductor Physics, SPICE, VLSI Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Python, Troubleshooting, Natural Language Processing (NLP), Git, Database Design",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "SQL, Linux, AWS, Jira, Security, Messaging Queues",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Classification, Git, RNNs, Reinforcement Learning (RL)",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Statistical Analysis, Classification, Model Evaluation, C++, Computer Vision",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cadence Virtuoso, ASIC Design, Verilog, Antenna Theory, Mathematics, Filters, CMOS",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Git, Neural Networks, Overfitting, Seaborn, Networking, Unsupervised Learning, Troubleshooting, CNNs",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Load Balancing, Natural Language Processing (NLP), Feature Engineering, SQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Diodes, Transmission Lines, Semiconductor Physics, Microprocessors, Z-Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Op-Amps, Control System Design, Z-Transform, FPGA, Embedded Systems, Power Electronics, Analog Circuits",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Test-Driven Development (TDD), Kubernetes, API Development, Jira, Azure Machine Learning, Networking",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control Systems, Boolean Algebra, Diodes, Signals and Systems, VLSI Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Electronics, Antenna Theory, VHDL, Z-Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Data Cleaning, Scikit-learn, AWS, Reinforcement Learning (RL), Problem Solving, Agile, Overfitting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Scikit-learn, Machine Learning, System Design, Statistical Analysis",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Sensors, OSI Model, SPICE, Transmission Lines, Signals and Systems, FPGA",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Python, Debugging, Test-Driven Development (TDD), AWS Sagemaker, Computer Vision, Big O Notation, PostgreSQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "TensorFlow, Git, Node.js, Underfitting, NoSQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "VHDL, SPICE, Xilinx ISE/Vivado, Microcontrollers, Verilog, Signals and Systems, Noise Analysis, Filters",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Troubleshooting, Reinforcement Learning (RL), Statistical Analysis, TensorFlow, NoSQL, Computer Vision",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Git, Natural Language Processing (NLP), Java, Unit Testing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CMOS, OSI Model, Mathematics, Digital Signal Processing (DSP), FPGA, Microcontrollers, Noise Analysis",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "PyTorch, Deep Learning, Statistical Analysis, RESTful APIs",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Scripting, Unsupervised Learning, Model Evaluation, Node.js, Pandas",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microcontrollers, Mathematics, Noise Analysis, Amplifiers, Transistors (BJT, MOSFET), VHDL",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cross-validation, Python, Load Balancing, Data Structures, NoSQL, Algorithms, Statistical Analysis, Caching",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CNNs, PyTorch, Model Evaluation, DynamoDB, API Development",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Concurrency, PyTorch, SQL, Security, API Development, EC2, React",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Signals and Systems, OSI Model, Feedback Systems, Z-Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Python, Big O Notation, Matplotlib, Scikit-learn, System Design",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Race as save though owner. Worked as a civil engineer using AutoCAD and project management tools.",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "FPGA, Verilog, Semiconductor Physics, Electronic Devices, Waveguides, Op-Amps",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Fourier Transform, Instrumentation, Control System Design, Semiconductor Physics, Microcontrollers, Embedded Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Verilog, Embedded Systems, Waveguides, Sensors, VHDL",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Pandas, Debugging, Underfitting, Machine Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Electronics, Z-Transform, Instrumentation, Filters, Embedded Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Feedback Systems, MATLAB, Laplace Transform, ASIC Design, Modulation",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Lambda, RESTful APIs, Unsupervised Learning, Regression, Deep Learning, Google Cloud AI Platform, Neural Networks",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cloud Computing, Classification, DynamoDB, RNNs, Big O Notation, C++",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "EDA, DynamoDB, Linux, Algorithms, Database Design, Underfitting, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Google Cloud AI Platform, Node.js, AWS, React, Big O Notation, Neural Networks, Feature Engineering",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "AWS Sagemaker, Database Design, Data Preprocessing, SQL, Azure Machine Learning, Multithreading, Matplotlib",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "MySQL, Deep Learning, Multithreading, Security, Underfitting, Matplotlib, Kubernetes, C++",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "React, AWS Sagemaker, Problem Solving, Pandas",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Stability, Transmission Lines, Amplifiers, Z-Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Logic Gates, Communication Systems, Instrumentation, Cadence Virtuoso, Embedded Systems, Laplace Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Signal Processing (DSP), VHDL, Cadence Virtuoso, Transmission Lines",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CNNs, Feature Engineering, Problem Solving, Pandas, Cross-validation, Matplotlib, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Data Cleaning, Agile, Load Balancing, Problem Solving, Neural Networks, Docker, High Availability",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Performance Optimization, Computer Vision, React, Data Cleaning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Data Preprocessing, Docker, AWS, Linux, TensorFlow, Python",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Amplifiers, Stability, Analog Circuits, Waveguides, Control System Design, MATLAB",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Feature Engineering, Neural Networks, EC2, Natural Language Processing (NLP), Scripting, Load Balancing, Caching, Model Evaluation",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Noise Analysis, FPGA, Bode Plots, Transistors (BJT, MOSFET), Cadence Virtuoso, Control System Design, SPICE, Control Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Test-Driven Development (TDD), Networking, Data Structures, Scikit-learn, Linux, Cross-validation, PostgreSQL, Statistical Analysis",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "S3, Underfitting, Google Cloud AI Platform, Supervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "OSI Model, Noise Analysis, Transistors (BJT, MOSFET), Digital Electronics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Multithreading, Data Structures, Caching, Deep Learning, High Availability, S3, Statistical Analysis, Node.js",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Medical standard bad between respond any. Expert in oil painting and sculpture. Managed art exhibitions and curated galleries.",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Unit Testing, Database Design, Troubleshooting, Deep Learning, Unsupervised Learning, SQL, React, API Development",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "OSI Model, Control Systems, Sensors, Microcontrollers, Communication Systems, VHDL",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control Systems, Antenna Theory, Control System Design, Noise Analysis",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control System Design, Transistors (BJT, MOSFET), Filters, Laplace Transform, Digital Signal Processing (DSP), Microprocessors, Semiconductor Physics, Embedded Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Electronic Devices, Cadence Virtuoso, Z-Transform, Modulation, Antenna Theory, SPICE, FPGA, Embedded Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Waveguides, VLSI Design, Stability, Antenna Theory",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "System Design, React, Cloud Computing, Feature Engineering",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Logic Gates, ASIC Design, OSI Model, Power Electronics, Feedback Systems, Filters",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Mathematics, Modulation, Cadence Virtuoso, FPGA, Laplace Transform, Digital Signal Processing (DSP), Analog Circuits",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CI/CD, Messaging Queues, TensorFlow, PyTorch, S3, SQL, Linux, Docker",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Signals and Systems, Mathematics, Simulink, Embedded Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "VLSI Design, Fourier Transform, Noise Analysis, Waveguides, Filters, Diodes",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "RESTful APIs, Node.js, NoSQL, Multithreading, Machine Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Modulation, Microprocessors, Analog Circuits, Digital Signal Processing (DSP), Bode Plots",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cadence Virtuoso, Xilinx ISE/Vivado, Modulation, Circuit Analysis, Sensors",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "VHDL, Xilinx ISE/Vivado, MATLAB, Semiconductor Physics, Transistors (BJT, MOSFET)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Stability, Communication Systems, Simulink, Filters, Antenna Theory, Op-Amps",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "S3, Java, Security, Performance Optimization, Natural Language Processing (NLP), RESTful APIs, SQL, PostgreSQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Laplace Transform, Power Electronics, Digital Signal Processing (DSP), Communication Systems, Boolean Algebra, Control System Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Model Evaluation, Problem Solving, TensorFlow, PostgreSQL, DynamoDB, Unit Testing, Underfitting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Pandas, Docker, Deep Learning, Networking",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CI/CD, Reinforcement Learning (RL), JavaScript, Neural Networks, Agile, PyTorch, Underfitting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "VHDL, Modulation, Transmission Lines, Xilinx ISE/Vivado",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "VHDL, Noise Analysis, Digital Electronics, Power Electronics, Laplace Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Machine Learning, Cloud Computing, TensorFlow, Cross-validation, Git, Messaging Queues, Node.js, PostgreSQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Docker, Reinforcement Learning (RL), Computer Vision, Problem Solving",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Op-Amps, Semiconductor Physics, Diodes, Power Electronics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cross-validation, Reinforcement Learning (RL), Cloud Computing, Troubleshooting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "API Development, Messaging Queues, Java, Caching",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Concurrency, Python, SQL, React, Underfitting, TensorFlow",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Signal Processing (DSP), Sensors, Bode Plots, Simulink, Analog Circuits",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Feedback Systems, Sensors, Bode Plots, Semiconductor Physics, Embedded Systems, Control Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Analog Circuits, Noise Analysis, Modulation, Z-Transform, Microprocessors, Xilinx ISE/Vivado, Feedback Systems, Logic Gates",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Underfitting, Messaging Queues, PyTorch, Concurrency, Lambda, AWS Sagemaker",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control Systems, Electronic Devices, Circuit Analysis, Fourier Transform, MATLAB, Waveguides, VHDL",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Instrumentation, VLSI Design, SPICE, Verilog, Communication Systems, Laplace Transform, Diodes, Cadence Virtuoso",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cloud Computing, Overfitting, Multithreading, DynamoDB, MySQL, Messaging Queues, PostgreSQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "SQL, Data Cleaning, Unit Testing, CNNs, MySQL, Google Cloud AI Platform, PyTorch, Reinforcement Learning (RL)",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Java, Computer Vision, Scalability, Data Cleaning, Regression, Concurrency, Python, JavaScript",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Natural Language Processing (NLP), Debugging, Agile, AWS Sagemaker, SQL, Java",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Seaborn, CI/CD, JavaScript, Multithreading, Matplotlib",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Regression, Supervised Learning, Seaborn, Pandas, Computer Vision, Machine Learning, Problem Solving",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Difficult husband TV professor option total international. Experience in retail store management, inventory control, and customer service.",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "FPGA, Modulation, Verilog, Digital Electronics, Antenna Theory",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transistors (BJT, MOSFET), Embedded Systems, Control System Design, Xilinx ISE/Vivado, Laplace Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "API Development, CI/CD, PostgreSQL, Scalability, Cloud Computing, Load Balancing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Noise Analysis, Microcontrollers, Op-Amps, Transistors (BJT, MOSFET), Verilog, VLSI Design, OSI Model, Digital Signal Processing (DSP)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transmission Lines, Modulation, Logic Gates, Digital Signal Processing (DSP)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Op-Amps, Fourier Transform, ASIC Design, Feedback Systems, Electronic Devices, Embedded Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "SQL, Supervised Learning, Java, API Development, Troubleshooting, SQL, Python, Agile",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Algorithms, Node.js, Scalability, Google Cloud AI Platform",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Feedback Systems, Semiconductor Physics, Electronic Devices, ASIC Design, Xilinx ISE/Vivado, Antenna Theory, Bode Plots",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Python, High Availability, DynamoDB, Data Cleaning, Google Cloud AI Platform, Jira, Git, AWS",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Underfitting, React, Agile, PostgreSQL, SQL, EDA",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Performance Optimization, Lambda, Concurrency, Data Preprocessing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "VLSI Design, Logic Gates, Amplifiers, Boolean Algebra, CMOS, Digital Electronics, Feedback Systems, VHDL",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Git, High Availability, Scripting, Unit Testing, Data Structures",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transistors (BJT, MOSFET), Boolean Algebra, Diodes, Cadence Virtuoso, Transmission Lines",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Node.js, Linux, Deep Learning, Docker, Database Design, API Development, CNNs, SQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Scikit-learn, CNNs, Jira, SQL, Seaborn, Networking, NoSQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Signal Processing (DSP), Microcontrollers, Xilinx ISE/Vivado, Diodes, Verilog, Cadence Virtuoso",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cloud Computing, Machine Learning, S3, Java, Multithreading, Scripting, Matplotlib",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microprocessors, Diodes, Op-Amps, Logic Gates, OSI Model, Feedback Systems, Microcontrollers",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Regression, Computer Vision, Agile, Supervised Learning, S3, Classification, Data Structures, Python",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Docker, Debugging, Security, CNNs, Numpy",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Security, Natural Language Processing (NLP), Concurrency, Lambda, MySQL, Underfitting, Problem Solving, Machine Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Mathematics, Op-Amps, Instrumentation, Microcontrollers, VHDL",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Problem Solving, Computer Vision, MySQL, Unsupervised Learning, Azure Machine Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transmission Lines, Logic Gates, Control System Design, Boolean Algebra, VHDL",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Lose reduce prepare seat pretty sense inside. Skilled in classical music, event planning, and stage performance.",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cross-validation, Performance Optimization, Pandas, Security, DynamoDB, Big O Notation, Natural Language Processing (NLP), Git",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control System Design, Transistors (BJT, MOSFET), Digital Electronics, Sensors, Signals and Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Analog Circuits, Xilinx ISE/Vivado, CMOS, Semiconductor Physics, OSI Model, Simulink, Laplace Transform, Fourier Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Unsupervised Learning, AWS Sagemaker, Unit Testing, EC2, JavaScript, PyTorch",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Verilog, Noise Analysis, Diodes, Modulation, Waveguides",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Sense reveal produce cell much design. Experience in hotel front desk operations and hospitality management.",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Noise Analysis, Cadence Virtuoso, OSI Model, Diodes, Feedback Systems, Xilinx ISE/Vivado, Logic Gates",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "NoSQL, Matplotlib, Scalability, Machine Learning, Load Balancing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "SQL, Multithreading, System Design, Concurrency, Big O Notation, Model Evaluation, React, Matplotlib",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CMOS, Fourier Transform, Simulink, Waveguides, FPGA, OSI Model",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Troubleshooting, Git, Concurrency, Problem Solving, System Design, PostgreSQL, CI/CD, Matplotlib",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Communication Systems, Microprocessors, Simulink, Power Electronics, Analog Circuits, Sensors, OSI Model",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Concurrency, Scripting, Matplotlib, CNNs, Agile, S3",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Keras, Troubleshooting, High Availability, Statistical Analysis",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "React, Database Design, Data Cleaning, PyTorch, Concurrency, EC2, Node.js, Cross-validation",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Signal Processing (DSP), Logic Gates, Amplifiers, Mathematics, Control System Design, Circuit Analysis, VLSI Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Stability, Embedded Systems, Antenna Theory, Sensors, Fourier Transform, Control Systems, Op-Amps, Noise Analysis",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Google Cloud AI Platform, Scripting, Performance Optimization, Linux",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Java, Big O Notation, Classification, Azure Machine Learning, Git, Kubernetes, TensorFlow, Underfitting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "SPICE, Z-Transform, CMOS, Verilog",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Amplifiers, Waveguides, Mathematics, CMOS",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Noise Analysis, OSI Model, Antenna Theory, Laplace Transform, Instrumentation, ASIC Design, Modulation, Verilog",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Data Cleaning, Concurrency, React, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "VHDL, Logic Gates, Transmission Lines, Power Electronics, Signals and Systems, Electronic Devices, Filters",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Computer Vision, Cloud Computing, Concurrency, CI/CD, EC2, Security, PostgreSQL, Unsupervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Antenna Theory, Diodes, Mathematics, Digital Electronics, Amplifiers, FPGA, Microprocessors",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cadence Virtuoso, Verilog, Embedded Systems, Modulation",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Computer Vision, Unsupervised Learning, DynamoDB, EDA, Seaborn",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Supervised Learning, Big O Notation, Numpy, Multithreading, Load Balancing, Google Cloud AI Platform, Lambda",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Antenna Theory, OSI Model, Boolean Algebra, Filters, Bode Plots",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Modulation, Signals and Systems, Electronic Devices, Antenna Theory, SPICE",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Database Design, Problem Solving, Caching, Lambda, NoSQL, Python",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Stability, Waveguides, OSI Model, Filters, Microcontrollers, VLSI Design, Analog Circuits",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "EDA, Data Preprocessing, Regression, Numpy, Classification, Git, Docker",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Test-Driven Development (TDD), High Availability, System Design, Python",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Filters, VLSI Design, FPGA, Z-Transform, Laplace Transform, SPICE, CMOS, Electronic Devices",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Data Preprocessing, Scalability, Statistical Analysis, Cross-validation, Docker, Linux, Classification, Messaging Queues",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "VLSI Design, Noise Analysis, Xilinx ISE/Vivado, OSI Model",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Data Structures, Load Balancing, Algorithms, C++, Data Cleaning, Regression",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "System Design, CI/CD, Linux, Reinforcement Learning (RL)",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Supervised Learning, Scripting, Classification, Algorithms, Problem Solving",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Keras, Messaging Queues, Python, Seaborn, Load Balancing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Noise Analysis, Power Electronics, Digital Signal Processing (DSP), Amplifiers, VLSI Design, Analog Circuits, Electronic Devices, Diodes",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Z-Transform, Waveguides, Boolean Algebra, Bode Plots, Mathematics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Git, System Design, S3, Messaging Queues, Python",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control Systems, Waveguides, ASIC Design, Digital Electronics, Verilog, CMOS, SPICE",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "API Development, Git, Node.js, React, MySQL, SQL, Agile",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Natural Language Processing (NLP), Computer Vision, Kubernetes, Caching, Python, RNNs, C++, Overfitting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Embedded Systems, Control Systems, Circuit Analysis, VHDL, Diodes, Control System Design, Waveguides",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Supervised Learning, Deep Learning, Lambda, Classification, React, EC2, Cross-validation, Natural Language Processing (NLP)",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Xilinx ISE/Vivado, Waveguides, Fourier Transform, Instrumentation, Microprocessors, Microcontrollers",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Electronics, Stability, Sensors, Antenna Theory, SPICE, Z-Transform, Microcontrollers, Mathematics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Overfitting, Data Preprocessing, Keras, Concurrency",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Z-Transform, Transistors (BJT, MOSFET), Waveguides, Boolean Algebra, Sensors, Control System Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Machine Learning, Underfitting, Algorithms, Scikit-learn, SQL, Concurrency, EC2, Cloud Computing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "API Development, Regression, PyTorch, SQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "High Availability, Azure Machine Learning, Cloud Computing, Seaborn, System Design",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Z-Transform, Verilog, Boolean Algebra, ASIC Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Data Structures, Jira, C++, Unit Testing, RNNs, Load Balancing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "TensorFlow, C++, Algorithms, PostgreSQL, Cross-validation",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Stability, Circuit Analysis, Filters, Simulink, Z-Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Google Cloud AI Platform, Security, Underfitting, Git",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Semiconductor Physics, Diodes, VHDL, CMOS, Amplifiers, Antenna Theory, OSI Model",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Mathematics, Verilog, Semiconductor Physics, Simulink, VHDL, Fourier Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "PostgreSQL, Data Cleaning, Jira, High Availability, Model Evaluation, Multithreading",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "React, Database Design, PostgreSQL, Java",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Kubernetes, Google Cloud AI Platform, CI/CD, Numpy, React, Unit Testing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Feedback Systems, Communication Systems, MATLAB, Semiconductor Physics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CMOS, Laplace Transform, Feedback Systems, Logic Gates, Z-Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Fourier Transform, OSI Model, VHDL, Modulation, Control System Design, Transmission Lines",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Power Electronics, ASIC Design, Fourier Transform, Stability",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "AWS, Agile, Scripting, RNNs, PostgreSQL, Networking, Linux, PyTorch",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Troubleshooting, NoSQL, Jupyter Notebook, Data Cleaning, Agile, Messaging Queues",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Numpy, React, Git, Problem Solving",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "OSI Model, FPGA, Cadence Virtuoso, Noise Analysis, Stability, Z-Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Numpy, EDA, SQL, AWS Sagemaker",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Numpy, Database Design, Google Cloud AI Platform, SQL, Scikit-learn",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Supervised Learning, CNNs, Messaging Queues, API Development, AWS Sagemaker, Kubernetes, RESTful APIs",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Sing great appear end. Managed agricultural farm operations and crop planning.",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Stability, Embedded Systems, FPGA, Bode Plots, Signals and Systems, MATLAB, Laplace Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Google Cloud AI Platform, Scalability, Node.js, Algorithms, Kubernetes, Classification, PostgreSQL, Feature Engineering",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Signal Processing (DSP), VLSI Design, FPGA, OSI Model, Mathematics, Control System Design, Transistors (BJT, MOSFET)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Semiconductor Physics, Z-Transform, Mathematics, Modulation, MATLAB, Power Electronics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Simulink, Embedded Systems, Noise Analysis, Antenna Theory, Microprocessors, Transmission Lines, Amplifiers, Laplace Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Circuit Analysis, FPGA, Power Electronics, Semiconductor Physics, Digital Signal Processing (DSP)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Feedback Systems, FPGA, MATLAB, Transistors (BJT, MOSFET), Bode Plots",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transmission Lines, Embedded Systems, Laplace Transform, Feedback Systems, Modulation",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Mathematics, Bode Plots, Xilinx ISE/Vivado, Modulation, Instrumentation, Amplifiers",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Google Cloud AI Platform, Seaborn, PostgreSQL, Performance Optimization, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Supervised Learning, Seaborn, Python, Data Cleaning, Docker, Python, CI/CD",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Concurrency, Machine Learning, Scikit-learn, Computer Vision",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Algorithms, Unit Testing, EC2, AWS Sagemaker, Computer Vision, Node.js, Big O Notation, RNNs",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Electronic Devices, Transistors (BJT, MOSFET), Mathematics, Power Electronics, Waveguides",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "High Availability, C++, Computer Vision, Matplotlib, Concurrency, Cross-validation, Scikit-learn, Cloud Computing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Jupyter Notebook, Multithreading, Feature Engineering, Data Cleaning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Embedded Systems, Transmission Lines, Modulation, FPGA, Sensors, Power Electronics, Electronic Devices, Simulink",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Noise Analysis, Embedded Systems, Power Electronics, CMOS, Control Systems, Amplifiers",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Modulation, Bode Plots, Signals and Systems, Feedback Systems, Mathematics, Communication Systems, Diodes",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Data Structures, Scalability, Agile, High Availability, Unsupervised Learning, API Development, Cross-validation",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "EC2, RNNs, Azure Machine Learning, Keras, CI/CD, System Design",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Data Preprocessing, RESTful APIs, Unit Testing, TensorFlow, CNNs, RNNs",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Mathematics, Boolean Algebra, OSI Model, Op-Amps, Modulation",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "RESTful APIs, React, PyTorch, Supervised Learning, TensorFlow, Algorithms",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transmission Lines, Digital Signal Processing (DSP), Signals and Systems, Waveguides, Microcontrollers, Verilog, CMOS, Stability",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Power Electronics, Communication Systems, Boolean Algebra, Filters, OSI Model, Circuit Analysis, Control System Design, Microprocessors",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Z-Transform, Logic Gates, OSI Model, Transistors (BJT, MOSFET), Mathematics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transmission Lines, Mathematics, Circuit Analysis, Communication Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Load Balancing, API Development, PostgreSQL, Jira",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Power Electronics, Embedded Systems, Communication Systems, Microcontrollers, Digital Signal Processing (DSP)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Z-Transform, Communication Systems, Signals and Systems, Digital Signal Processing (DSP), Microprocessors, Waveguides, Digital Electronics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Bode Plots, Digital Electronics, MATLAB, Stability, Microcontrollers",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Antenna Theory, Communication Systems, Instrumentation, ASIC Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Load Balancing, Big O Notation, React, Feature Engineering",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Numpy, Model Evaluation, React, Underfitting, Concurrency, Algorithms, Jupyter Notebook, Pandas",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Feedback Systems, Microcontrollers, Digital Signal Processing (DSP), Fourier Transform, Diodes",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "JavaScript, Caching, Matplotlib, Numpy, TensorFlow, Troubleshooting, Scikit-learn, Multithreading",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Scripting, Troubleshooting, Seaborn, Lambda, DynamoDB, React",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Messaging Queues, Statistical Analysis, Matplotlib, System Design, AWS, Load Balancing, Natural Language Processing (NLP)",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Embedded Systems, Logic Gates, Diodes, Laplace Transform, CMOS, Xilinx ISE/Vivado",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Data Structures, Performance Optimization, Overfitting, Keras, Model Evaluation, Node.js, Linux, NoSQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CNNs, Scikit-learn, Cross-validation, TensorFlow, CI/CD, NoSQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Scalability, Supervised Learning, CI/CD, Regression, Debugging",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Keras, CI/CD, Git, API Development, React, S3, Database Design, Multithreading",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transistors (BJT, MOSFET), Mathematics, Cadence Virtuoso, Electronic Devices",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "EC2, Supervised Learning, Messaging Queues, Test-Driven Development (TDD), CI/CD",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Z-Transform, Microprocessors, Power Electronics, Amplifiers, MATLAB",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Power Electronics, Control Systems, Simulink, Z-Transform, Microprocessors, Logic Gates, Op-Amps",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Xilinx ISE/Vivado, Antenna Theory, Z-Transform, MATLAB",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Python, Data Structures, Feature Engineering, Azure Machine Learning, Performance Optimization",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Sensors, Embedded Systems, Modulation, Filters, Bode Plots, Control Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Communication Systems, Signals and Systems, Op-Amps, Boolean Algebra, Transmission Lines",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Boolean Algebra, Amplifiers, Instrumentation, Waveguides, Embedded Systems, Filters",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Debugging, NoSQL, System Design, Load Balancing, Pandas",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transmission Lines, Electronic Devices, Semiconductor Physics, Cadence Virtuoso, Transistors (BJT, MOSFET), VHDL, Stability, Fourier Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transistors (BJT, MOSFET), Control Systems, Power Electronics, VLSI Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "VLSI Design, Power Electronics, Laplace Transform, OSI Model, Circuit Analysis",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microcontrollers, Analog Circuits, Diodes, ASIC Design, Xilinx ISE/Vivado, Electronic Devices",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Caching, Git, AWS Sagemaker, SQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Modulation, Logic Gates, SPICE, Amplifiers",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Jira, Azure Machine Learning, Model Evaluation, Debugging",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "EDA, Statistical Analysis, Troubleshooting, Azure Machine Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "MySQL, EC2, Node.js, Kubernetes, Jupyter Notebook",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Amplifiers, Modulation, Bode Plots, ASIC Design, Cadence Virtuoso",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Underfitting, Node.js, RESTful APIs, Matplotlib, Classification, C++, Python, Seaborn",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "SQL, C++, PostgreSQL, Underfitting, Security",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Power Electronics, Stability, VHDL, Control Systems, Mathematics, Verilog, Microprocessors",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "SQL, Data Preprocessing, JavaScript, Classification",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Amplifiers, Digital Signal Processing (DSP), Logic Gates, Mathematics, Analog Circuits, FPGA",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Networking, AWS, Unit Testing, Data Cleaning, Big O Notation, Azure Machine Learning, Google Cloud AI Platform, API Development",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transistors (BJT, MOSFET), Bode Plots, Boolean Algebra, VHDL, Control Systems, Mathematics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Power Electronics, Feedback Systems, Mathematics, Logic Gates, Antenna Theory",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Amplifiers, Communication Systems, Waveguides, Microprocessors, Boolean Algebra, Embedded Systems, Filters",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Modulation, Z-Transform, Laplace Transform, ASIC Design, Electronic Devices",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Z-Transform, Modulation, Noise Analysis, Signals and Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transmission Lines, Transistors (BJT, MOSFET), Bode Plots, Z-Transform, Modulation, Electronic Devices, Verilog, Mathematics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Power Electronics, Transistors (BJT, MOSFET), Logic Gates, Fourier Transform, FPGA",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Op-Amps, Z-Transform, FPGA, Waveguides, OSI Model, Fourier Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Python, PostgreSQL, Overfitting, Multithreading, Git",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cadence Virtuoso, VHDL, Microcontrollers, Transmission Lines",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Power Electronics, VHDL, Bode Plots, Communication Systems, CMOS, Electronic Devices",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Big O Notation, AWS, NoSQL, Jupyter Notebook, API Development, JavaScript, Security, Lambda",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Analog Circuits, Fourier Transform, Modulation, Embedded Systems, Electronic Devices, Stability, Microprocessors, Diodes",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Jira, Git, Linux, Data Cleaning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "OSI Model, Xilinx ISE/Vivado, Verilog, Communication Systems, Waveguides, Signals and Systems, Sensors, SPICE",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Jupyter Notebook, NoSQL, Python, Debugging, Regression, Networking, JavaScript, RNNs",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "OSI Model, Transistors (BJT, MOSFET), Power Electronics, Logic Gates, Verilog, Stability",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Data Cleaning, Computer Vision, Overfitting, Scikit-learn, PyTorch, AWS, Agile",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Filters, Control Systems, Digital Signal Processing (DSP), Amplifiers",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Op-Amps, SPICE, Diodes, Communication Systems, Sensors, Instrumentation, Fourier Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Deep Learning, Unsupervised Learning, Networking, Scikit-learn, Troubleshooting, DynamoDB, CI/CD",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Overfitting, Linux, React, Unsupervised Learning, Underfitting, Jira, Feature Engineering",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Mathematics, Cadence Virtuoso, VHDL, Microcontrollers, Signals and Systems, FPGA",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Classification, SQL, Deep Learning, Python, Multithreading, AWS Sagemaker, Messaging Queues, Cross-validation",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "TensorFlow, Messaging Queues, Kubernetes, Deep Learning, SQL, Problem Solving",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "OSI Model, MATLAB, Communication Systems, Diodes, Bode Plots, SPICE, Circuit Analysis, Transmission Lines",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Electronics, Transmission Lines, Control System Design, Modulation, Amplifiers, Microprocessors",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Boolean Algebra, Microprocessors, Stability, Op-Amps, Circuit Analysis, Diodes",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Antenna Theory, Noise Analysis, Digital Signal Processing (DSP), Z-Transform, Semiconductor Physics, Cadence Virtuoso",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Kubernetes, Feature Engineering, Classification, SQL, Data Cleaning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Caching, Scripting, High Availability, Big O Notation, Algorithms, Jupyter Notebook, Reinforcement Learning (RL)",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "JavaScript, Supervised Learning, Neural Networks, Model Evaluation, Jira, Lambda, RESTful APIs",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Matplotlib, Scalability, Python, NoSQL, Keras",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "OSI Model, Laplace Transform, Fourier Transform, Control Systems, Mathematics, Transmission Lines, Modulation, Z-Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Reinforcement Learning (RL), Performance Optimization, Jira, Caching, Azure Machine Learning, Load Balancing, Unit Testing, Linux",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Logic Gates, Instrumentation, Analog Circuits, Power Electronics, SPICE, Bode Plots, Xilinx ISE/Vivado",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Load Balancing, Troubleshooting, PyTorch, Azure Machine Learning, Scikit-learn, Python, React, Problem Solving",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Linux, Computer Vision, RNNs, Underfitting, SQL, DynamoDB, Caching",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Verilog, Semiconductor Physics, Digital Electronics, Embedded Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Debugging, Database Design, Cross-validation, Caching, Feature Engineering, SQL, Supervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Electronic Devices, OSI Model, Antenna Theory, Power Electronics, Filters",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "VLSI Design, Signals and Systems, Noise Analysis, Mathematics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Electronics, Control Systems, Antenna Theory, VLSI Design, Op-Amps, Fourier Transform, Bode Plots",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Op-Amps, Filters, Sensors, Microprocessors, Digital Electronics, Diodes, Z-Transform, Microcontrollers",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Semiconductor Physics, Diodes, Communication Systems, SPICE, Waveguides, Verilog, VLSI Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Power Electronics, Boolean Algebra, Transistors (BJT, MOSFET), Noise Analysis",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microprocessors, Feedback Systems, Stability, Transmission Lines, Z-Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Signal Processing (DSP), Waveguides, SPICE, Laplace Transform, Boolean Algebra",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Supervised Learning, Performance Optimization, Security, Data Cleaning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Stability, ASIC Design, Bode Plots, Diodes, Sensors, Simulink, Feedback Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Kubernetes, Numpy, Keras, EDA",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "ASIC Design, Filters, Electronic Devices, VHDL, Laplace Transform, Op-Amps, Sensors, Logic Gates",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Simulink, Z-Transform, Xilinx ISE/Vivado, Mathematics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Concurrency, Neural Networks, SQL, Debugging, Underfitting, Model Evaluation, RNNs",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Verilog, OSI Model, Z-Transform, Instrumentation, Simulink",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Bode Plots, Cadence Virtuoso, Transmission Lines, Feedback Systems, Transistors (BJT, MOSFET), FPGA, Stability",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "C++, SQL, Python, NoSQL, Java, AWS Sagemaker, Regression, AWS",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Statistical Analysis, Model Evaluation, Big O Notation, Machine Learning, CNNs, Regression, Git",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microcontrollers, Waveguides, CMOS, Power Electronics, SPICE, Logic Gates",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Amplifiers, Verilog, Digital Electronics, Op-Amps, VHDL, Logic Gates, Noise Analysis",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Electronics, Digital Signal Processing (DSP), Signals and Systems, CMOS, Cadence Virtuoso, Op-Amps, Waveguides",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control System Design, Diodes, Logic Gates, Control Systems, Xilinx ISE/Vivado",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Sensors, Noise Analysis, Op-Amps, Antenna Theory",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "RNNs, Matplotlib, Keras, Git, Pandas",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "JavaScript, SQL, Classification, Regression, API Development",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Seaborn, Jira, JavaScript, Performance Optimization, RESTful APIs, CNNs, Messaging Queues",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transmission Lines, Fourier Transform, Circuit Analysis, Cadence Virtuoso, Analog Circuits, Filters, Noise Analysis",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "NoSQL, PyTorch, Feature Engineering, Google Cloud AI Platform, Networking, Scripting, MySQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Z-Transform, Filters, Diodes, Sensors, Communication Systems, CMOS, Cadence Virtuoso, Noise Analysis",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Classification, Natural Language Processing (NLP), Reinforcement Learning (RL), RNNs, Numpy, Test-Driven Development (TDD), CNNs",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Waveguides, Communication Systems, CMOS, Diodes, Transmission Lines, Bode Plots, Sensors",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microprocessors, VHDL, Diodes, Sensors, Xilinx ISE/Vivado, Modulation, Bode Plots, Digital Signal Processing (DSP)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "SQL, Scalability, Jupyter Notebook, SQL, Supervised Learning, Git, Data Cleaning, API Development",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Unsupervised Learning, EC2, API Development, Git, SQL, MySQL, Cross-validation, SQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microprocessors, Stability, Transistors (BJT, MOSFET), MATLAB, Filters, Digital Signal Processing (DSP)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Instrumentation, Embedded Systems, Feedback Systems, VHDL, Microcontrollers, Op-Amps",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Boolean Algebra, Signals and Systems, FPGA, Verilog, Feedback Systems, Digital Signal Processing (DSP), Semiconductor Physics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Verilog, Mathematics, Communication Systems, Waveguides, Semiconductor Physics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Debugging, C++, Big O Notation, AWS, Test-Driven Development (TDD), Numpy, Multithreading, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Power Electronics, CMOS, VLSI Design, Noise Analysis, Laplace Transform, Microprocessors, FPGA",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "TensorFlow, Classification, System Design, Pandas, Linux, Docker",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microcontrollers, Control System Design, FPGA, MATLAB, Analog Circuits, Power Electronics, ASIC Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control Systems, Instrumentation, Cadence Virtuoso, Simulink",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Big O Notation, Numpy, Networking, Algorithms, API Development, Computer Vision, RESTful APIs",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Python, Classification, NoSQL, TensorFlow, Test-Driven Development (TDD), Git, CNNs, DynamoDB",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microcontrollers, Semiconductor Physics, Modulation, Fourier Transform, Xilinx ISE/Vivado",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Neural Networks, Performance Optimization, Linux, Test-Driven Development (TDD), TensorFlow, AWS Sagemaker, Concurrency, Load Balancing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Stability, Logic Gates, Simulink, Mathematics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Concurrency, Statistical Analysis, PostgreSQL, Underfitting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Noise Analysis, VHDL, Control Systems, Embedded Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Modulation, Waveguides, Diodes, CMOS, Instrumentation, Laplace Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "EDA, Networking, Lambda, React, Overfitting, Unit Testing, Numpy, Jira",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Communication Systems, Op-Amps, Logic Gates, Filters, Instrumentation, Bode Plots, Sensors",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "React, Data Cleaning, Numpy, Data Structures, Problem Solving, Unit Testing, Reinforcement Learning (RL)",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "C++, PostgreSQL, Classification, Kubernetes, Seaborn, Machine Learning, Feature Engineering",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Seaborn, Big O Notation, Keras, Security",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Xilinx ISE/Vivado, Microcontrollers, Instrumentation, Mathematics, Microprocessors, Digital Electronics, Filters",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Python, Data Cleaning, CI/CD, RNNs, Seaborn, Classification",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Database Design, Machine Learning, Computer Vision, EC2",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "VHDL, OSI Model, Boolean Algebra, Filters, FPGA, Antenna Theory, Microcontrollers",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "OSI Model, Boolean Algebra, Instrumentation, Power Electronics, Digital Electronics, Control System Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "TensorFlow, Linux, Security, Regression",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "SPICE, OSI Model, Power Electronics, Communication Systems, Fourier Transform, VLSI Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "PyTorch, SQL, Debugging, Unsupervised Learning, Python, MySQL, Regression",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "RESTful APIs, High Availability, Python, Supervised Learning, Data Preprocessing, MySQL, React",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Natural Language Processing (NLP), Overfitting, Messaging Queues, Test-Driven Development (TDD), EDA",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Unsupervised Learning, Networking, Cloud Computing, Algorithms",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Seaborn, Neural Networks, Underfitting, Deep Learning, Model Evaluation, Debugging, Troubleshooting, Natural Language Processing (NLP)",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CNNs, SQL, RNNs, SQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Machine Learning, Networking, PostgreSQL, Statistical Analysis, Git, Natural Language Processing (NLP)",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "OSI Model, Electronic Devices, CMOS, Modulation, Fourier Transform, Digital Electronics, VLSI Design, Signals and Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Circuit Analysis, Feedback Systems, Transmission Lines, Cadence Virtuoso, Simulink, Z-Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Overfitting, C++, Scikit-learn, PyTorch, CNNs, System Design, Node.js, Messaging Queues",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "VLSI Design, SPICE, Sensors, Microprocessors, OSI Model, Boolean Algebra, Microcontrollers, Analog Circuits",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Caching, C++, PyTorch, PostgreSQL, Computer Vision",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Java, Machine Learning, Data Cleaning, Database Design",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Electronic Devices, Mathematics, Simulink, Noise Analysis, OSI Model",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Modulation, Transistors (BJT, MOSFET), Bode Plots, Op-Amps, Embedded Systems, SPICE, MATLAB",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Mathematics, Circuit Analysis, Analog Circuits, Diodes, Noise Analysis, Power Electronics, VLSI Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "FPGA, Op-Amps, Transistors (BJT, MOSFET), Communication Systems, Cadence Virtuoso, Digital Signal Processing (DSP), Filters, Waveguides",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "VHDL, SPICE, Transistors (BJT, MOSFET), OSI Model, Digital Signal Processing (DSP), ASIC Design, Power Electronics, Diodes",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "EC2, Matplotlib, NoSQL, Security, CI/CD",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "System Design, Load Balancing, Networking, SQL, Agile, JavaScript, Jupyter Notebook, Neural Networks",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transmission Lines, Control Systems, Power Electronics, Signals and Systems, Communication Systems, Circuit Analysis",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transistors (BJT, MOSFET), Boolean Algebra, Feedback Systems, Stability, Instrumentation, Laplace Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Noise Analysis, Laplace Transform, Communication Systems, SPICE, Microprocessors, ASIC Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Noise Analysis, Analog Circuits, Digital Electronics, CMOS, Laplace Transform, Stability, Xilinx ISE/Vivado, Digital Signal Processing (DSP)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cross-validation, Underfitting, RESTful APIs, Computer Vision",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microcontrollers, Logic Gates, Embedded Systems, Fourier Transform, FPGA, Verilog",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "JavaScript, Jira, Docker, Messaging Queues, Lambda, EC2, Data Cleaning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Filters, Control Systems, Waveguides, Signals and Systems, Sensors, Diodes, Logic Gates",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Test-Driven Development (TDD), EC2, Caching, Python, Underfitting, Deep Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Problem Solving, Algorithms, Jupyter Notebook, EC2",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Z-Transform, Control Systems, Noise Analysis, SPICE, Mathematics, Waveguides",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "SPICE, Electronic Devices, Communication Systems, Cadence Virtuoso, Noise Analysis, Logic Gates, Microprocessors",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "RESTful APIs, Machine Learning, SQL, Matplotlib, High Availability, CNNs, Data Structures, Multithreading",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Filters, Power Electronics, FPGA, Z-Transform, Noise Analysis, Transmission Lines, ASIC Design, Control Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Xilinx ISE/Vivado, Feedback Systems, VLSI Design, Simulink",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transmission Lines, Amplifiers, Circuit Analysis, Simulink, Digital Electronics, Feedback Systems, Verilog",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control System Design, Signals and Systems, Digital Signal Processing (DSP), Semiconductor Physics, SPICE, Modulation, Stability, Logic Gates",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Xilinx ISE/Vivado, Bode Plots, Diodes, Circuit Analysis",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Electronics, Simulink, SPICE, Bode Plots",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Signal Processing (DSP), Electronic Devices, Simulink, OSI Model, Op-Amps, Filters, Laplace Transform, Diodes",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Data Cleaning, Numpy, High Availability, DynamoDB",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Overfitting, Unit Testing, Unsupervised Learning, Concurrency",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Waveguides, Feedback Systems, Fourier Transform, Mathematics, OSI Model, FPGA",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microcontrollers, CMOS, Filters, Simulink, Feedback Systems, Digital Signal Processing (DSP)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "EC2, Algorithms, S3, Big O Notation, Load Balancing, Concurrency",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Jupyter Notebook, Matplotlib, Problem Solving, Big O Notation",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "MATLAB, Cadence Virtuoso, Electronic Devices, ASIC Design, FPGA, OSI Model, Control System Design, CMOS",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "API Development, Lambda, Matplotlib, Networking, Agile, SQL, Debugging, Performance Optimization",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transistors (BJT, MOSFET), Cadence Virtuoso, Verilog, Mathematics, VLSI Design, Instrumentation",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "FPGA, Op-Amps, Signals and Systems, Sensors, CMOS, Feedback Systems, Xilinx ISE/Vivado",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "SQL, CI/CD, Natural Language Processing (NLP), Lambda, Multithreading",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Diodes, Z-Transform, Simulink, Logic Gates, Antenna Theory, Verilog, Power Electronics, Transmission Lines",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "AWS, Load Balancing, Deep Learning, Git, DynamoDB, Messaging Queues, SQL, Classification",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "S3, SQL, Node.js, Azure Machine Learning, Algorithms, Scalability, Scripting, EDA",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Python, JavaScript, NoSQL, EC2, Cross-validation, RESTful APIs, AWS",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Unit Testing, API Development, SQL, Machine Learning, Kubernetes, SQL, Scalability",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Lambda, Azure Machine Learning, Regression, Python, Google Cloud AI Platform",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "OSI Model, Control System Design, Modulation, VHDL",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CMOS, Power Electronics, Antenna Theory, ASIC Design, Digital Electronics, Control Systems, Noise Analysis",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "API Development, Debugging, Kubernetes, High Availability",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Electronic Devices, Filters, FPGA, Xilinx ISE/Vivado, Mathematics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Natural Language Processing (NLP), Node.js, Model Evaluation, System Design, Data Cleaning, S3, Jira, Database Design",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Data Preprocessing, Feature Engineering, Agile, Overfitting, Pandas",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Neural Networks, Multithreading, Big O Notation, Test-Driven Development (TDD), Natural Language Processing (NLP), SQL, Git",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Sensors, Modulation, Digital Signal Processing (DSP), Transistors (BJT, MOSFET)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Signal Processing (DSP), CMOS, Electronic Devices, Logic Gates",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Stability, Antenna Theory, Xilinx ISE/Vivado, Electronic Devices, Amplifiers, Embedded Systems, Circuit Analysis",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Python, Jupyter Notebook, Reinforcement Learning (RL), Node.js",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "S3, Scalability, Performance Optimization, PyTorch, Load Balancing, Numpy",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Semiconductor Physics, Logic Gates, Digital Electronics, Transistors (BJT, MOSFET)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "VHDL, Cadence Virtuoso, ASIC Design, Control Systems, Noise Analysis, Transistors (BJT, MOSFET), Mathematics, Modulation",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Problem Solving, DynamoDB, Load Balancing, Data Structures, Python",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Reinforcement Learning (RL), Linux, Cloud Computing, Classification, Python, Keras",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Electronics, Logic Gates, FPGA, Sensors",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Unit Testing, PostgreSQL, Git, RNNs, Debugging, JavaScript",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Data Preprocessing, NoSQL, System Design, RESTful APIs, Jupyter Notebook, Supervised Learning, Keras, React",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Performance Optimization, AWS Sagemaker, DynamoDB, NoSQL, Problem Solving, Node.js, Messaging Queues",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "React, Load Balancing, PostgreSQL, EC2",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Signal Processing (DSP), Laplace Transform, Transmission Lines, Circuit Analysis, Power Electronics, Instrumentation, Control Systems, Simulink",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "MATLAB, Control System Design, CMOS, Diodes, Control Systems, Logic Gates",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CMOS, ASIC Design, MATLAB, Stability",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Feature Engineering, React, SQL, S3, DynamoDB",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Power Electronics, CMOS, Semiconductor Physics, Z-Transform, Microprocessors, Mathematics, Embedded Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Numpy, Computer Vision, RNNs, Seaborn, Kubernetes, AWS, C++",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Amplifiers, Power Electronics, ASIC Design, Microprocessors, Logic Gates, Analog Circuits",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "TensorFlow, Agile, Big O Notation, Concurrency, DynamoDB",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Something whatever market message throughout maintain computer policy. Expert in oil painting and sculpture. Managed art exhibitions and curated galleries.",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Git, TensorFlow, Agile, Pandas, Unit Testing, Messaging Queues",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Scikit-learn, Classification, Keras, Git, System Design, PyTorch, JavaScript, Data Cleaning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microcontrollers, Stability, Amplifiers, Microprocessors, OSI Model",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Feedback Systems, Modulation, Logic Gates, Sensors, SPICE, Communication Systems, VLSI Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Scripting, Concurrency, Pandas, Neural Networks, AWS Sagemaker, CNNs, Load Balancing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Fourier Transform, Digital Electronics, Control Systems, OSI Model, VLSI Design, FPGA",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "DynamoDB, EC2, React, Java, Numpy, Lambda, S3, Cross-validation",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Networking, AWS Sagemaker, S3, Data Cleaning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Concurrency, SQL, Multithreading, Azure Machine Learning, Data Preprocessing, Git, Overfitting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Node.js, Networking, Data Cleaning, Python, Regression, C++, MySQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Op-Amps, Antenna Theory, Digital Signal Processing (DSP), VHDL, FPGA, Laplace Transform, Stability, Microprocessors",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Data Preprocessing, Pandas, Python, Cloud Computing, Docker, Agile, Test-Driven Development (TDD), Python",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microcontrollers, Digital Signal Processing (DSP), Waveguides, Electronic Devices, Stability",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Circuit Analysis, Cadence Virtuoso, Noise Analysis, Instrumentation, Filters",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Feature Engineering, Algorithms, Big O Notation, Data Preprocessing, Messaging Queues, Git, High Availability",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microprocessors, ASIC Design, Instrumentation, Xilinx ISE/Vivado",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Stability, Analog Circuits, MATLAB, Noise Analysis, Electronic Devices, Transmission Lines, Communication Systems, Embedded Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Signals and Systems, CMOS, VHDL, VLSI Design, Microcontrollers, Microprocessors, Bode Plots",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Debugging, Test-Driven Development (TDD), Python, Machine Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Data Structures, Neural Networks, Classification, Big O Notation, Supervised Learning, Database Design, Caching, Concurrency",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "RNNs, Cross-validation, JavaScript, Unit Testing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Letter everybody style least fill. Skilled in classical music, event planning, and stage performance.",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "High Availability, CI/CD, API Development, Caching, Deep Learning, Data Cleaning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Python, Matplotlib, AWS Sagemaker, SQL, Google Cloud AI Platform, Scalability, Computer Vision, JavaScript",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "NoSQL, Reinforcement Learning (RL), React, Security, Scalability, Big O Notation, Algorithms",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Scikit-learn, EC2, API Development, Java, NoSQL, Jira",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Scalability, C++, Regression, Seaborn, Azure Machine Learning, Test-Driven Development (TDD), CNNs, Underfitting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Instrumentation, Communication Systems, Filters, Xilinx ISE/Vivado, VLSI Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "System Design, Matplotlib, Agile, SQL, Docker, Regression, Debugging, Caching",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Caching, Machine Learning, Azure Machine Learning, Classification, DynamoDB, Model Evaluation, Cloud Computing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Kubernetes, Model Evaluation, Supervised Learning, High Availability, Performance Optimization",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "TensorFlow, API Development, Neural Networks, Test-Driven Development (TDD), Linux, PostgreSQL, Scikit-learn, Overfitting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Analog Circuits, Amplifiers, Transistors (BJT, MOSFET), OSI Model, Laplace Transform, Semiconductor Physics, Antenna Theory, Noise Analysis",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Circuit Analysis, Instrumentation, VHDL, Control System Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "FPGA, Embedded Systems, Boolean Algebra, Op-Amps",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Seaborn, Jira, Performance Optimization, Matplotlib",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Signal Processing (DSP), Microcontrollers, ASIC Design, Feedback Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Semiconductor Physics, Control Systems, Transmission Lines, Signals and Systems, Circuit Analysis, Z-Transform, Logic Gates, Instrumentation",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Security, Test-Driven Development (TDD), C++, Regression",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Instrumentation, Verilog, Analog Circuits, Power Electronics, Z-Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Feedback Systems, Boolean Algebra, Mathematics, Power Electronics, Verilog, Transistors (BJT, MOSFET), Embedded Systems, Electronic Devices",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "FPGA, Verilog, MATLAB, Logic Gates, Stability",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Performance Optimization, Model Evaluation, Python, SQL, Node.js, S3, Scripting, Algorithms",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Mathematics, Laplace Transform, Semiconductor Physics, VLSI Design, Modulation, Simulink, Sensors",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Electronics, Boolean Algebra, Instrumentation, Digital Signal Processing (DSP)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Linux, Python, C++, Cross-validation, Lambda",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Google Cloud AI Platform, Pandas, CI/CD, Azure Machine Learning, NoSQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Sensors, Control Systems, Stability, Electronic Devices, VHDL, Feedback Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Mathematics, Digital Signal Processing (DSP), Z-Transform, Simulink, Electronic Devices, Power Electronics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Lambda, Concurrency, Natural Language Processing (NLP), Scripting, Computer Vision, Underfitting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Electronics, Diodes, Sensors, Feedback Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Xilinx ISE/Vivado, Instrumentation, Simulink, FPGA, Signals and Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Problem Solving, RESTful APIs, Networking, High Availability, Statistical Analysis, NoSQL, Overfitting, Lambda",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Diodes, Antenna Theory, Semiconductor Physics, Xilinx ISE/Vivado, Instrumentation, Control System Design, Feedback Systems, Digital Signal Processing (DSP)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Mathematics, CMOS, Stability, FPGA",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Numpy, Python, System Design, Docker, Linux, Scikit-learn, Neural Networks, EC2",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cadence Virtuoso, Control System Design, Transmission Lines, VHDL",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "OSI Model, Diodes, Transmission Lines, Control Systems, Z-Transform, Embedded Systems, Power Electronics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Feedback Systems, Communication Systems, Waveguides, Circuit Analysis, Embedded Systems, Z-Transform, ASIC Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Statistical Analysis, Machine Learning, Regression, Jupyter Notebook, Data Structures, Cloud Computing, EC2, Azure Machine Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Docker, Supervised Learning, System Design, Classification, Test-Driven Development (TDD), Concurrency, Seaborn, Linux",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "VHDL, Antenna Theory, Analog Circuits, Feedback Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Boolean Algebra, Op-Amps, Feedback Systems, Z-Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Model Evaluation, Problem Solving, Data Cleaning, Underfitting, Unsupervised Learning, Seaborn, Supervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Multithreading, Concurrency, System Design, Matplotlib, Pandas, Scalability",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "VHDL, Semiconductor Physics, Microprocessors, Waveguides, Analog Circuits, Communication Systems, Digital Electronics, Instrumentation",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cadence Virtuoso, Signals and Systems, Boolean Algebra, Antenna Theory, Op-Amps, Logic Gates, Instrumentation, Circuit Analysis",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Keras, System Design, Scripting, Azure Machine Learning, SQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Semiconductor Physics, OSI Model, Sensors, Waveguides, Microprocessors",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "System Design, Classification, Lambda, React, Big O Notation",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CNNs, Keras, Git, RNNs, CI/CD",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control Systems, Logic Gates, Digital Signal Processing (DSP), Antenna Theory, SPICE, CMOS, Amplifiers, Transistors (BJT, MOSFET)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microprocessors, Cadence Virtuoso, MATLAB, VHDL",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Instrumentation, Digital Signal Processing (DSP), Z-Transform, Embedded Systems, OSI Model, Communication Systems, Feedback Systems, Fourier Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Database Design, Machine Learning, Data Structures, JavaScript, Unit Testing, Linux, Classification",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Simulink, MATLAB, Microcontrollers, Analog Circuits, Z-Transform, Mathematics, Cadence Virtuoso, Digital Signal Processing (DSP)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "OSI Model, Microprocessors, Electronic Devices, Xilinx ISE/Vivado",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Big O Notation, High Availability, Security, Unit Testing, Debugging, Problem Solving, Load Balancing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "SPICE, Transmission Lines, Noise Analysis, Instrumentation, FPGA",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Multithreading, Pandas, C++, Azure Machine Learning, Caching, Python",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "High Availability, Algorithms, Debugging, Scripting, Feature Engineering, Computer Vision, MySQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Neural Networks, Agile, Scripting, C++, Natural Language Processing (NLP), S3",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "TensorFlow, RESTful APIs, Model Evaluation, Docker, SQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Matplotlib, Scikit-learn, Node.js, Regression, Seaborn",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Keras, AWS, Algorithms, Unsupervised Learning, EDA",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Amplifiers, Semiconductor Physics, Simulink, Xilinx ISE/Vivado, Cadence Virtuoso, Op-Amps, Boolean Algebra",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microprocessors, MATLAB, Logic Gates, Sensors, Microcontrollers, Cadence Virtuoso, ASIC Design, Analog Circuits",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "DynamoDB, Neural Networks, Git, Database Design, CNNs, Natural Language Processing (NLP)",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Waveguides, Analog Circuits, Control System Design, Filters, ASIC Design, Amplifiers, Logic Gates",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control Systems, Amplifiers, Mathematics, Cadence Virtuoso, Transmission Lines, Fourier Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Security, RESTful APIs, Reinforcement Learning (RL), RNNs, TensorFlow, High Availability, Caching, Unsupervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Amplifiers, Communication Systems, Control System Design, OSI Model, MATLAB",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Amplifiers, Logic Gates, Control System Design, Xilinx ISE/Vivado, Analog Circuits, FPGA",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Logic Gates, Digital Electronics, Signals and Systems, Diodes, FPGA",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Semiconductor Physics, Microprocessors, Logic Gates, OSI Model, Noise Analysis, Boolean Algebra",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Mathematics, Microprocessors, Amplifiers, Digital Electronics, Communication Systems, Filters, Control System Design, Waveguides",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Algorithms, Load Balancing, Unsupervised Learning, Networking, Keras, CNNs",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microprocessors, Stability, Amplifiers, Communication Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Sensors, Embedded Systems, Signals and Systems, Digital Electronics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Noise Analysis, Transistors (BJT, MOSFET), VHDL, Waveguides, CMOS, Fourier Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Bode Plots, VHDL, Transistors (BJT, MOSFET), FPGA",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Signals and Systems, SPICE, ASIC Design, Filters, Feedback Systems, OSI Model, VLSI Design, FPGA",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Natural Language Processing (NLP), MySQL, Scripting, Pandas, Load Balancing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Semiconductor Physics, Cadence Virtuoso, Noise Analysis, Power Electronics, Op-Amps, Filters, MATLAB",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Networking, React, Java, Python, S3, EDA, Supervised Learning, Deep Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "VLSI Design, FPGA, Analog Circuits, CMOS, Semiconductor Physics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Electronic Devices, Diodes, Microcontrollers, MATLAB, VLSI Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Jira, Scripting, Computer Vision, NoSQL, Cloud Computing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control System Design, FPGA, Op-Amps, Bode Plots",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CNNs, AWS, Scikit-learn, Scalability, Docker, Python, Data Structures, Cross-validation",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Seaborn, Numpy, CNNs, Multithreading, DynamoDB",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "EDA, Python, Unit Testing, Big O Notation, CNNs, Pandas, Classification",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "EDA, PostgreSQL, Numpy, Problem Solving, React, Caching, Machine Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "DynamoDB, Caching, Cloud Computing, Cross-validation",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control System Design, MATLAB, FPGA, ASIC Design, Transmission Lines, Waveguides, Electronic Devices, Logic Gates",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "SQL, TensorFlow, Python, Node.js, Messaging Queues, AWS Sagemaker, Performance Optimization",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cross-validation, Kubernetes, Node.js, Git",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Classification, Debugging, C++, Git, RNNs",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Filters, Transistors (BJT, MOSFET), Feedback Systems, Waveguides, OSI Model, Xilinx ISE/Vivado",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "DynamoDB, Numpy, C++, Performance Optimization, Jupyter Notebook, React",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "C++, Database Design, AWS Sagemaker, Node.js, Statistical Analysis, Neural Networks",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Fourier Transform, Laplace Transform, MATLAB, ASIC Design, VLSI Design, Analog Circuits, Semiconductor Physics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "PyTorch, Problem Solving, DynamoDB, Big O Notation, CI/CD, Neural Networks, MySQL, TensorFlow",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control Systems, Stability, Cadence Virtuoso, Z-Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Scikit-learn, Data Structures, Google Cloud AI Platform, JavaScript, Lambda",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Lambda, Numpy, Overfitting, Python, High Availability, Messaging Queues, PyTorch, NoSQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Machine Learning, Test-Driven Development (TDD), TensorFlow, Load Balancing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CMOS, Digital Electronics, Antenna Theory, OSI Model, VLSI Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Electronics, VHDL, Microcontrollers, Digital Signal Processing (DSP), Power Electronics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transmission Lines, Sensors, Z-Transform, Op-Amps, Filters, Analog Circuits, Control Systems, Circuit Analysis",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Communication Systems, FPGA, Fourier Transform, Bode Plots, OSI Model, Instrumentation, Analog Circuits, Transmission Lines",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Azure Machine Learning, Feature Engineering, Numpy, Scripting, Neural Networks, Node.js, Networking, Jupyter Notebook",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cadence Virtuoso, ASIC Design, Mathematics, Transistors (BJT, MOSFET), Semiconductor Physics, Stability, Laplace Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Signal Processing (DSP), VLSI Design, Transmission Lines, CMOS, Mathematics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Analog Circuits, Cadence Virtuoso, Filters, Embedded Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Logic Gates, Transmission Lines, Boolean Algebra, Modulation, Amplifiers",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Signal Processing (DSP), Cadence Virtuoso, Z-Transform, Waveguides, Embedded Systems, MATLAB",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Waveguides, Control System Design, Stability, Electronic Devices, Filters",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Unit Testing, Scripting, Neural Networks, Matplotlib, Linux, Cross-validation",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Diodes, Communication Systems, Transistors (BJT, MOSFET), Bode Plots",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Unsupervised Learning, Data Structures, Python, RESTful APIs, C++",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "React, Pandas, Scalability, Natural Language Processing (NLP)",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Antenna Theory, OSI Model, Bode Plots, Modulation, Waveguides, Embedded Systems, SPICE, Control Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Laplace Transform, VLSI Design, Verilog, Simulink, Feedback Systems, Sensors, Communication Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Embedded Systems, Transistors (BJT, MOSFET), ASIC Design, Fourier Transform, Transmission Lines, Boolean Algebra",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cross-validation, CNNs, Computer Vision, Lambda, AWS, RESTful APIs",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Unit Testing, Unsupervised Learning, Debugging, System Design, Supervised Learning, Data Preprocessing, Scripting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CMOS, VLSI Design, Stability, Digital Signal Processing (DSP), Circuit Analysis, Logic Gates, Control Systems, Waveguides",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Machine Learning, Messaging Queues, Git, Feature Engineering",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Test-Driven Development (TDD), Cloud Computing, Algorithms, Unsupervised Learning, Git, Data Cleaning, Docker",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Seaborn, API Development, RESTful APIs, Keras, Git, SQL, Reinforcement Learning (RL)",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Diodes, Digital Electronics, Cadence Virtuoso, Z-Transform, Bode Plots, Antenna Theory",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "RESTful APIs, AWS, RNNs, Networking, Regression, Machine Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Simulink, ASIC Design, Digital Electronics, Microcontrollers, Control System Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Neural Networks, API Development, Load Balancing, Google Cloud AI Platform, Matplotlib",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Problem Solving, C++, Concurrency, Scalability, Git, Caching, Cross-validation",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "VHDL, Communication Systems, Microcontrollers, MATLAB, ASIC Design, Signals and Systems, Stability, Op-Amps",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Boolean Algebra, Z-Transform, Waveguides, Instrumentation",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Feature Engineering, Cross-validation, EC2, PostgreSQL, CNNs, SQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Verilog, FPGA, Modulation, Laplace Transform, CMOS, Waveguides, Filters, Sensors",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Python, Problem Solving, DynamoDB, System Design",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Model Evaluation, SQL, Machine Learning, Unit Testing, RNNs, Lambda",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Verilog, Z-Transform, Analog Circuits, Logic Gates, Amplifiers",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Amplifiers, Cadence Virtuoso, Feedback Systems, VLSI Design, Analog Circuits, Control System Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "FPGA, Op-Amps, Transmission Lines, Digital Electronics, Modulation, CMOS, Semiconductor Physics, OSI Model",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Feedback Systems, Digital Electronics, Fourier Transform, Diodes, Sensors, Z-Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "System Design, Algorithms, Messaging Queues, NoSQL, Cross-validation, Classification, SQL, Numpy",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Troubleshooting, Docker, AWS, Statistical Analysis, Cloud Computing, Classification, React, Load Balancing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Bode Plots, Circuit Analysis, Electronic Devices, Modulation",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "AWS, Jira, Networking, Reinforcement Learning (RL), EC2, Matplotlib, Security, DynamoDB",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Jira, Messaging Queues, Multithreading, Underfitting, Data Structures, Linux, Google Cloud AI Platform",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Bode Plots, FPGA, Circuit Analysis, MATLAB, Communication Systems, VLSI Design, Simulink, Fourier Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Machine Learning, Natural Language Processing (NLP), PyTorch, Matplotlib, Lambda, PostgreSQL, Reinforcement Learning (RL)",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Signal Processing (DSP), Embedded Systems, Modulation, Microprocessors",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Model Evaluation, NoSQL, Classification, CNNs, Jupyter Notebook, Python, EDA, Debugging",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Load Balancing, Database Design, SQL, Machine Learning, Multithreading, EDA, System Design",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Statistical Analysis, Git, Unsupervised Learning, MySQL, RESTful APIs, PostgreSQL, SQL, Multithreading",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Big O Notation, CI/CD, Jupyter Notebook, AWS, Feature Engineering, PyTorch",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Bode Plots, FPGA, MATLAB, CMOS, Electronic Devices",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Multithreading, API Development, DynamoDB, Networking, S3, Scikit-learn",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Troubleshooting, Algorithms, Natural Language Processing (NLP), Git, Deep Learning, C++, Overfitting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Amplifiers, Signals and Systems, Circuit Analysis, Boolean Algebra",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Verilog, Modulation, Microcontrollers, Semiconductor Physics, Communication Systems, Antenna Theory",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Laplace Transform, FPGA, Electronic Devices, Microprocessors, Amplifiers",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Supervised Learning, Load Balancing, Underfitting, Java, Caching, RNNs",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Electronics, Electronic Devices, Embedded Systems, Fourier Transform, ASIC Design, CMOS, Mathematics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Electronics, VLSI Design, Z-Transform, Amplifiers, CMOS",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Diodes, Sensors, Microcontrollers, Op-Amps, Boolean Algebra, Power Electronics, Microprocessors",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Data Cleaning, Load Balancing, Underfitting, PyTorch, API Development, Machine Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control System Design, ASIC Design, Power Electronics, Signals and Systems, MATLAB",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Deep Learning, Natural Language Processing (NLP), TensorFlow, Algorithms, Reinforcement Learning (RL), C++",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "NoSQL, S3, Overfitting, Keras, Linux, Pandas",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "VHDL, Microprocessors, Xilinx ISE/Vivado, Boolean Algebra",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Stability, ASIC Design, SPICE, Laplace Transform, Instrumentation, Bode Plots",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "RNNs, Performance Optimization, Security, Model Evaluation, Scripting, Java, Lambda",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "High Availability, System Design, Test-Driven Development (TDD), Seaborn, Google Cloud AI Platform, Computer Vision, Troubleshooting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Kubernetes, Big O Notation, Troubleshooting, Networking",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Electronics, FPGA, Embedded Systems, Signals and Systems, Amplifiers, Cadence Virtuoso, Control System Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Circuit Analysis, Mathematics, Logic Gates, CMOS",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Multithreading, NoSQL, SQL, Python, Debugging, API Development",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Modulation, Laplace Transform, Stability, Mathematics, Circuit Analysis, Instrumentation, Simulink, Diodes",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Numpy, Kubernetes, Scalability, Underfitting, Cross-validation, Multithreading, Java, Docker",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Scripting, API Development, System Design, Pandas, Security",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Caching, Google Cloud AI Platform, Data Cleaning, Networking, Scripting, Java",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "MATLAB, Filters, Transistors (BJT, MOSFET), Z-Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Communication Systems, Cadence Virtuoso, VHDL, SPICE, Waveguides, Xilinx ISE/Vivado, Signals and Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CMOS, MATLAB, Sensors, ASIC Design, Analog Circuits",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Signals and Systems, Diodes, Power Electronics, Communication Systems, Xilinx ISE/Vivado, SPICE, Feedback Systems, ASIC Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CMOS, Sensors, Noise Analysis, Power Electronics, Fourier Transform, Semiconductor Physics, FPGA",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Python, EDA, Cross-validation, PyTorch, Google Cloud AI Platform, Jira",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Statistical Analysis, Machine Learning, Algorithms, Keras, Troubleshooting, Messaging Queues, Database Design",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Data Preprocessing, Caching, Scripting, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Power Electronics, Op-Amps, Embedded Systems, Stability, VHDL, Circuit Analysis, Filters",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Mathematics, Xilinx ISE/Vivado, Circuit Analysis, Transistors (BJT, MOSFET), VHDL, Microcontrollers, Filters, Bode Plots",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Embedded Systems, FPGA, Filters, Microprocessors, Stability, Power Electronics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CNNs, Algorithms, Scripting, Matplotlib, Big O Notation",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Communication Systems, Verilog, MATLAB, VLSI Design, Cadence Virtuoso",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Instrumentation, Z-Transform, Power Electronics, VLSI Design, Simulink, Laplace Transform, Semiconductor Physics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microprocessors, CMOS, Embedded Systems, Bode Plots",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Circuit Analysis, Filters, Microcontrollers, Antenna Theory",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Git, Natural Language Processing (NLP), PyTorch, CI/CD, Python, Caching",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "EC2, Kubernetes, Data Structures, System Design, Google Cloud AI Platform, Feature Engineering, API Development, Python",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Concurrency, RESTful APIs, AWS Sagemaker, Pandas, JavaScript, C++",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Classification, Debugging, Overfitting, Java, Cross-validation",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "PostgreSQL, NoSQL, Database Design, JavaScript, Unsupervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Waveguides, Laplace Transform, Electronic Devices, Stability, Power Electronics, Filters",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microcontrollers, OSI Model, VHDL, Antenna Theory, Xilinx ISE/Vivado",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Antenna Theory, Electronic Devices, Signals and Systems, Simulink",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Model Evaluation, Docker, Messaging Queues, Statistical Analysis, PostgreSQL, Performance Optimization, Reinforcement Learning (RL), Scripting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "MATLAB, Diodes, Electronic Devices, Control System Design, Sensors, Digital Electronics, Mathematics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "C++, Database Design, RESTful APIs, Agile, Linux",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Waveguides, Bode Plots, Logic Gates, Laplace Transform, Simulink, Op-Amps, Mathematics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transmission Lines, Digital Signal Processing (DSP), Circuit Analysis, SPICE, VLSI Design, Amplifiers",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "React, Debugging, Load Balancing, Problem Solving, SQL, Supervised Learning, Feature Engineering",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Sensors, Embedded Systems, Instrumentation, Noise Analysis, ASIC Design, Digital Signal Processing (DSP)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Overfitting, DynamoDB, Computer Vision, Database Design, React, Matplotlib, TensorFlow, Scalability",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "MATLAB, Filters, Semiconductor Physics, Stability, Diodes, FPGA",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control System Design, Stability, Feedback Systems, Xilinx ISE/Vivado, Signals and Systems, Cadence Virtuoso",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Amplifiers, Power Electronics, Xilinx ISE/Vivado, Diodes, Digital Signal Processing (DSP)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "FPGA, Microcontrollers, Fourier Transform, Z-Transform, VHDL, Microprocessors, Laplace Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Embedded Systems, Microprocessors, Electronic Devices, FPGA, Stability, Microcontrollers",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "DynamoDB, S3, Lambda, Matplotlib, Caching, Feature Engineering",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Pandas, Performance Optimization, Kubernetes, Big O Notation, Cloud Computing, Debugging, Model Evaluation",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "API Development, Natural Language Processing (NLP), Node.js, Classification, Feature Engineering",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CMOS, Feedback Systems, Diodes, Xilinx ISE/Vivado",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Azure Machine Learning, Node.js, Algorithms, SQL, Scripting, Caching, Regression",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "AWS, Docker, Security, NoSQL, Python, Reinforcement Learning (RL), Git",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Filters, Transistors (BJT, MOSFET), Circuit Analysis, SPICE, Xilinx ISE/Vivado, Logic Gates",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Fourier Transform, Signals and Systems, Diodes, FPGA",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transmission Lines, Laplace Transform, Cadence Virtuoso, Transistors (BJT, MOSFET)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "EDA, Algorithms, SQL, CI/CD, Neural Networks, Networking",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Signal Processing (DSP), Xilinx ISE/Vivado, FPGA, OSI Model, ASIC Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CMOS, Fourier Transform, Filters, Logic Gates, Electronic Devices, Control Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Messaging Queues, Linux, Data Cleaning, Overfitting, Neural Networks, Security",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cadence Virtuoso, Stability, Electronic Devices, Mathematics, FPGA, Laplace Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Modulation, Simulink, Filters, Microcontrollers, ASIC Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CNNs, Feature Engineering, Statistical Analysis, SQL, Regression, Git",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transistors (BJT, MOSFET), Control System Design, Waveguides, OSI Model, Stability, Diodes, Bode Plots, VHDL",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Jira, Google Cloud AI Platform, Data Preprocessing, Caching",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "S3, DynamoDB, Jupyter Notebook, Keras, Big O Notation, API Development, Concurrency, Neural Networks",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Modulation, Sensors, Analog Circuits, Feedback Systems, Mathematics, Boolean Algebra, CMOS, Transmission Lines",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Seaborn, Python, Concurrency, Problem Solving, NoSQL, S3",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Messaging Queues, Data Preprocessing, Git, Feature Engineering, NoSQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Them anyone question party. Skilled in classical music, event planning, and stage performance.",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Diodes, Cadence Virtuoso, Waveguides, Digital Signal Processing (DSP), CMOS, MATLAB, Verilog",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Python, SQL, Unit Testing, Caching",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Numpy, Multithreading, Lambda, Neural Networks, RESTful APIs, EDA, Concurrency",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Mathematics, FPGA, Digital Electronics, VHDL, SPICE, Cadence Virtuoso, Microcontrollers",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Embedded Systems, Waveguides, Microcontrollers, MATLAB, Control Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Supervised Learning, CNNs, Pandas, Cross-validation, API Development, Python, Azure Machine Learning, Unsupervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Numpy, Git, Git, Linux, Messaging Queues, Networking, CNNs, Load Balancing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "SQL, Load Balancing, Test-Driven Development (TDD), CNNs, RNNs, AWS Sagemaker",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "NoSQL, Debugging, SQL, Git, Load Balancing, EC2",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Scripting, Reinforcement Learning (RL), S3, Linux",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "EDA, SQL, Node.js, Keras, Computer Vision, Google Cloud AI Platform",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Database Design, Data Preprocessing, Python, SQL, Big O Notation",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "AWS Sagemaker, Keras, EC2, Performance Optimization, Problem Solving",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Pandas, Messaging Queues, Feature Engineering, Natural Language Processing (NLP), Problem Solving, Numpy, Neural Networks",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control System Design, FPGA, Feedback Systems, Modulation, OSI Model, Digital Electronics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Statistical Analysis, Underfitting, TensorFlow, Performance Optimization",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "React, EDA, Neural Networks, Data Structures, Supervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Antenna Theory, Instrumentation, Simulink, Filters, Modulation, CMOS",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Security, Neural Networks, Pandas, RNNs, Scalability, Keras, JavaScript, Jira",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Azure Machine Learning, CNNs, Big O Notation, AWS Sagemaker",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CNNs, RNNs, AWS, Regression, High Availability, Reinforcement Learning (RL), PostgreSQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "MySQL, Kubernetes, System Design, Load Balancing, SQL, Troubleshooting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Regression, Big O Notation, PostgreSQL, JavaScript, NoSQL, S3, CI/CD, Debugging",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cadence Virtuoso, Communication Systems, Xilinx ISE/Vivado, Signals and Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Waveguides, MATLAB, Xilinx ISE/Vivado, Digital Electronics, Semiconductor Physics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "SQL, Jira, Matplotlib, Linux, Messaging Queues",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Multithreading, React, Troubleshooting, Unsupervised Learning, Caching, Scalability",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Data Cleaning, EDA, NoSQL, EC2, Google Cloud AI Platform",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Xilinx ISE/Vivado, Verilog, Semiconductor Physics, MATLAB, ASIC Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Overfitting, Jira, Numpy, Linux, Multithreading, Underfitting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "VHDL, CMOS, Control System Design, MATLAB, Power Electronics, Amplifiers",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Electronics, Feedback Systems, Diodes, Cadence Virtuoso, Communication Systems, MATLAB, Xilinx ISE/Vivado, FPGA",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Bode Plots, Instrumentation, MATLAB, Signals and Systems, Control System Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "SQL, Matplotlib, Scikit-learn, C++, Cross-validation",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cross-validation, S3, Messaging Queues, SQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Analog Circuits, Noise Analysis, OSI Model, Op-Amps, Logic Gates",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Troubleshooting, Scikit-learn, S3, Python, MySQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Docker, Caching, Big O Notation, Scikit-learn",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Sensors, Boolean Algebra, FPGA, Electronic Devices, SPICE, Z-Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Modulation, Circuit Analysis, Control Systems, ASIC Design, VHDL",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "AWS Sagemaker, S3, Python, Keras, API Development, Jupyter Notebook, Overfitting, PostgreSQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Modulation, Instrumentation, Transmission Lines, Sensors, OSI Model, Analog Circuits, Communication Systems, Filters",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Communication Systems, Fourier Transform, VLSI Design, Analog Circuits",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "RNNs, MySQL, API Development, Git, Model Evaluation, Performance Optimization",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "PostgreSQL, Algorithms, Database Design, Performance Optimization, High Availability, CNNs, Seaborn, Pandas",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Data Preprocessing, Google Cloud AI Platform, Python, Java, API Development, Statistical Analysis, Deep Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CI/CD, High Availability, S3, Cloud Computing, DynamoDB, Git, Security",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Laplace Transform, SPICE, Sensors, Waveguides, Semiconductor Physics, Boolean Algebra, Xilinx ISE/Vivado, FPGA",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "ASIC Design, OSI Model, Diodes, Stability, SPICE, Mathematics, Circuit Analysis",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control System Design, Boolean Algebra, Logic Gates, FPGA, Laplace Transform, Z-Transform, Analog Circuits",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cross-validation, Scikit-learn, Overfitting, System Design",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Database Design, Git, Neural Networks, Jira",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Simulink, Antenna Theory, Digital Signal Processing (DSP), Fourier Transform, Laplace Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Logic Gates, Sensors, Simulink, Diodes, Mathematics, Embedded Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Circuit Analysis, Embedded Systems, Power Electronics, Boolean Algebra, Communication Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Java, Node.js, C++, Deep Learning, Seaborn, Debugging",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Analog Circuits, VHDL, Embedded Systems, Cadence Virtuoso, Control System Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Debugging, Numpy, RNNs, C++, PyTorch",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Kubernetes, Scikit-learn, AWS Sagemaker, Test-Driven Development (TDD), DynamoDB, Load Balancing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Deep Learning, Networking, JavaScript, RNNs, RESTful APIs",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "System Design, MySQL, Concurrency, Natural Language Processing (NLP), High Availability, Scikit-learn, Linux, Underfitting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CI/CD, Messaging Queues, Supervised Learning, Computer Vision, Python, Seaborn, Overfitting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Docker, Neural Networks, Linux, Google Cloud AI Platform, Data Cleaning, EC2, PyTorch, Node.js",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Agile, Computer Vision, Algorithms, Unsupervised Learning, Scalability, Performance Optimization, Jira, Problem Solving",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "EC2, System Design, RESTful APIs, JavaScript, Regression",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Machine Learning, System Design, C++, Database Design, Regression, Overfitting, Jira",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Circuit Analysis, Digital Signal Processing (DSP), Transmission Lines, Control Systems, Instrumentation, Digital Electronics, Laplace Transform, SPICE",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Computer Vision, MySQL, JavaScript, System Design, Git, Unsupervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Reinforcement Learning (RL), DynamoDB, Overfitting, High Availability, Debugging, SQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cadence Virtuoso, Antenna Theory, Z-Transform, Waveguides, Communication Systems, SPICE, FPGA, Transistors (BJT, MOSFET)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control System Design, Communication Systems, Simulink, Circuit Analysis",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Bode Plots, Electronic Devices, Signals and Systems, Fourier Transform, Transmission Lines, Verilog, Communication Systems, Semiconductor Physics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cross-validation, Python, Algorithms, AWS Sagemaker, CNNs, Jira, Cloud Computing, System Design",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Machine Learning, Jupyter Notebook, Overfitting, Problem Solving, CNNs",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Docker, Database Design, Linux, Unsupervised Learning, Overfitting, CI/CD",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Laplace Transform, Control Systems, Circuit Analysis, Microcontrollers",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Amplifiers, Digital Signal Processing (DSP), Electronic Devices, Transmission Lines",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Reinforcement Learning (RL), NoSQL, Natural Language Processing (NLP), Java, Classification, Underfitting, Feature Engineering",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microprocessors, Digital Electronics, Communication Systems, Embedded Systems, Control System Design, Logic Gates, Op-Amps",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "SPICE, Circuit Analysis, Modulation, Verilog",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Analog Circuits, Transistors (BJT, MOSFET), Transmission Lines, Control Systems, Fourier Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Stability, Simulink, Diodes, VHDL, Cadence Virtuoso, Control System Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Unit Testing, System Design, Load Balancing, Scalability, Multithreading, Java, Supervised Learning, Test-Driven Development (TDD)",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "API Development, Python, Azure Machine Learning, Computer Vision, Feature Engineering",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control Systems, Microprocessors, Digital Signal Processing (DSP), Mathematics, Transmission Lines, Circuit Analysis",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Logic Gates, Microcontrollers, Signals and Systems, Analog Circuits, Embedded Systems, Modulation",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Antenna Theory, Cadence Virtuoso, Microcontrollers, Semiconductor Physics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "SQL, Reinforcement Learning (RL), Git, Scalability, Caching, Matplotlib, Performance Optimization",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Matplotlib, Multithreading, Linux, High Availability",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Jira, Concurrency, Classification, Computer Vision",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Security, Model Evaluation, Multithreading, Google Cloud AI Platform, React, DynamoDB",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Multithreading, Data Structures, SQL, Security, Deep Learning, Docker, CNNs",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "MATLAB, Laplace Transform, Boolean Algebra, Mathematics, Control System Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Stability, Semiconductor Physics, Transmission Lines, Laplace Transform, Logic Gates",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Logic Gates, Embedded Systems, Digital Electronics, Verilog",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Analog Circuits, Noise Analysis, Sensors, Control Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Z-Transform, VHDL, FPGA, Communication Systems, Mathematics, Sensors, Noise Analysis",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Computer Vision, Underfitting, JavaScript, Java, Jupyter Notebook, Kubernetes, Lambda",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "EDA, Node.js, Algorithms, Machine Learning, API Development",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Filters, Diodes, Boolean Algebra, Z-Transform, CMOS, FPGA",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CNNs, Scalability, Numpy, API Development, Big O Notation",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "FPGA, Control Systems, Logic Gates, Simulink, Transistors (BJT, MOSFET)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Computer Vision, Machine Learning, Load Balancing, Docker, S3, EDA",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "NoSQL, Concurrency, Keras, Regression, Supervised Learning, Data Structures, RNNs, Problem Solving",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Lambda, Cloud Computing, Test-Driven Development (TDD), Git, Scripting, AWS, Messaging Queues, Data Cleaning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "API Development, Concurrency, Regression, System Design, Keras",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transmission Lines, Signals and Systems, Modulation, Control System Design, Instrumentation",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microcontrollers, Bode Plots, Communication Systems, Circuit Analysis, Stability, Control System Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "CMOS, Power Electronics, Sensors, Z-Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control System Design, Instrumentation, Communication Systems, Z-Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Security, Algorithms, Machine Learning, Database Design, S3, Test-Driven Development (TDD), Cloud Computing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Troubleshooting, Big O Notation, Kubernetes, Natural Language Processing (NLP), Jira",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "PyTorch, MySQL, Deep Learning, NoSQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Mathematics, Fourier Transform, Sensors, Control Systems, Control System Design, Diodes",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Noise Analysis, Z-Transform, FPGA, Simulink",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Algorithms, Scikit-learn, Statistical Analysis, Lambda, Jupyter Notebook",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Instrumentation, Filters, Boolean Algebra, Noise Analysis, Communication Systems, Mathematics, Laplace Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Laplace Transform, Noise Analysis, Op-Amps, Digital Electronics, Transistors (BJT, MOSFET), Boolean Algebra, OSI Model, ASIC Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Instrumentation, Microcontrollers, Transistors (BJT, MOSFET), Circuit Analysis",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Boolean Algebra, Electronic Devices, VHDL, Mathematics, VLSI Design, Simulink, Antenna Theory",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Python, AWS Sagemaker, Performance Optimization, Regression, Agile, PyTorch",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microcontrollers, Instrumentation, Digital Signal Processing (DSP), Amplifiers, Circuit Analysis, Mathematics, Microprocessors",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transmission Lines, Analog Circuits, ASIC Design, Diodes",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Node.js, Machine Learning, Docker, Agile, Deep Learning, S3, Statistical Analysis, MySQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Signal Processing (DSP), OSI Model, Communication Systems, Cadence Virtuoso",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Scalability, CNNs, Caching, Multithreading, Cross-validation, Regression, SQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "ASIC Design, Circuit Analysis, Laplace Transform, Diodes, Digital Signal Processing (DSP), Transistors (BJT, MOSFET)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Semiconductor Physics, Diodes, Fourier Transform, Microcontrollers, Analog Circuits, Control Systems, VHDL, Signals and Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "EC2, Docker, CNNs, Pandas, Unsupervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "RNNs, Natural Language Processing (NLP), Agile, Scripting, Keras, Neural Networks, Overfitting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "ASIC Design, Op-Amps, Amplifiers, Logic Gates, OSI Model, Control System Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Microcontrollers, VHDL, FPGA, Signals and Systems, Stability, Cadence Virtuoso, Instrumentation, Xilinx ISE/Vivado",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Seaborn, PostgreSQL, SQL, Classification, Statistical Analysis, Jira",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "SPICE, ASIC Design, Stability, Control Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Computer Vision, Seaborn, Reinforcement Learning (RL), Regression, Azure Machine Learning, Troubleshooting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "OSI Model, Electronic Devices, Xilinx ISE/Vivado, Digital Signal Processing (DSP), Waveguides",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "PyTorch, Caching, MySQL, Load Balancing, Overfitting, EDA, RNNs",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "SQL, RESTful APIs, Node.js, High Availability",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Algorithms, Statistical Analysis, Natural Language Processing (NLP), System Design",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Keras, PostgreSQL, Neural Networks, NoSQL, Messaging Queues, Unit Testing, Cloud Computing, AWS Sagemaker",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "React, Java, Scikit-learn, Unsupervised Learning, Jira",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Feedback Systems, FPGA, Cadence Virtuoso, Microcontrollers, Boolean Algebra, Z-Transform, Xilinx ISE/Vivado, Fourier Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Networking, Kubernetes, Algorithms, Keras, Database Design, Multithreading",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "FPGA, Antenna Theory, Stability, MATLAB, Transistors (BJT, MOSFET), Control System Design, Noise Analysis, Power Electronics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cadence Virtuoso, Z-Transform, Stability, Simulink, Diodes, Boolean Algebra, ASIC Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Networking, Performance Optimization, Deep Learning, Node.js",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Lambda, Azure Machine Learning, RESTful APIs, NoSQL, EC2",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Logic Gates, Amplifiers, Mathematics, Communication Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Boolean Algebra, VLSI Design, Mathematics, Diodes, Fourier Transform, Instrumentation, Electronic Devices",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control System Design, Communication Systems, Microprocessors, Waveguides, Logic Gates, Digital Signal Processing (DSP), Embedded Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Seaborn, AWS Sagemaker, Agile, CI/CD, Git, Node.js, Reinforcement Learning (RL)",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Filters, Sensors, Microcontrollers, Circuit Analysis, Electronic Devices, Microprocessors",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Modulation, VHDL, Electronic Devices, Power Electronics, Sensors",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Amplifiers, Stability, Fourier Transform, Bode Plots, VLSI Design, ASIC Design, Communication Systems, SPICE",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Jira, Data Cleaning, Caching, EDA, Linux",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Xilinx ISE/Vivado, Instrumentation, Feedback Systems, Sensors, Verilog, Cadence Virtuoso, Diodes",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Stability, Digital Electronics, CMOS, Embedded Systems, Semiconductor Physics, Power Electronics, Transmission Lines, Instrumentation",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transistors (BJT, MOSFET), Z-Transform, Digital Electronics, Modulation, Mathematics, VLSI Design, Amplifiers",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "API Development, Scalability, Performance Optimization, Algorithms, EDA, Scripting, React, Unsupervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Feedback Systems, Analog Circuits, Verilog, Logic Gates, Power Electronics, Op-Amps, Semiconductor Physics, Noise Analysis",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Z-Transform, Xilinx ISE/Vivado, Diodes, Sensors, Transistors (BJT, MOSFET)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Signals and Systems, OSI Model, Logic Gates, Z-Transform",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "System Design, DynamoDB, Troubleshooting, React, S3, Numpy, Docker, Algorithms",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Seaborn, Debugging, Underfitting, Regression, PostgreSQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "SQL, Debugging, Kubernetes, Node.js, Supervised Learning, Underfitting, Pandas",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Semiconductor Physics, Microprocessors, VLSI Design, Signals and Systems, Op-Amps, Communication Systems, Electronic Devices",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "OSI Model, Semiconductor Physics, Xilinx ISE/Vivado, Digital Electronics, Control Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Unsupervised Learning, AWS Sagemaker, DynamoDB, Reinforcement Learning (RL)",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Antenna Theory, Z-Transform, Digital Electronics, Logic Gates, OSI Model, Transistors (BJT, MOSFET)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Circuit Analysis, Control System Design, Signals and Systems, Boolean Algebra, Semiconductor Physics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Fly commercial nation job room. Professional chef with expertise in Italian cuisine and kitchen management.",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Jira, Statistical Analysis, System Design, SQL, Test-Driven Development (TDD)",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Reinforcement Learning (RL), CI/CD, Cross-validation, Lambda, Scalability, SQL",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Electronic Devices, Antenna Theory, VHDL, Control System Design, Boolean Algebra, Sensors, Cadence Virtuoso, OSI Model",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Diodes, Instrumentation, Signals and Systems, Control Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Scalability, Agile, Kubernetes, Java, Underfitting, AWS Sagemaker",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Fourier Transform, Diodes, Digital Electronics, Power Electronics, Simulink",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Antenna Theory, FPGA, CMOS, Digital Electronics, Control System Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transistors (BJT, MOSFET), Analog Circuits, Simulink, Diodes",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transmission Lines, SPICE, Sensors, Fourier Transform, Embedded Systems, MATLAB, Feedback Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Sensors, Transistors (BJT, MOSFET), Mathematics, ASIC Design, Communication Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Noise Analysis, Cadence Virtuoso, Boolean Algebra, Embedded Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Signals and Systems, Cadence Virtuoso, Control System Design, Digital Signal Processing (DSP), Modulation, Z-Transform, OSI Model, Control Systems",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Database Design, EC2, CI/CD, JavaScript",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Kubernetes, Agile, Unit Testing, Data Preprocessing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Data Structures, Seaborn, Computer Vision, Agile",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Filters, ASIC Design, Signals and Systems, Antenna Theory, Digital Electronics, Analog Circuits",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Power Electronics, Analog Circuits, Boolean Algebra, Op-Amps, OSI Model",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "AWS, Debugging, Python, High Availability",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Diodes, Logic Gates, Control System Design, Z-Transform, Microprocessors, Antenna Theory",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "API Development, System Design, Git, Matplotlib, RNNs",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "VHDL, Fourier Transform, Analog Circuits, Logic Gates, Filters, Mathematics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "FPGA, Modulation, Logic Gates, Control Systems, Circuit Analysis, Noise Analysis, Sensors, Mathematics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "OSI Model, Digital Electronics, Control System Design, Op-Amps",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Unit Testing, Classification, Docker, Scikit-learn, PyTorch, SQL, Natural Language Processing (NLP), Data Cleaning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "MySQL, EDA, Seaborn, Scripting, Networking, Supervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Messaging Queues, Cloud Computing, Machine Learning, Networking",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Scalability, Supervised Learning, PyTorch, Caching, Troubleshooting, Algorithms, EC2, Natural Language Processing (NLP)",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Laplace Transform, Bode Plots, Z-Transform, Antenna Theory, Electronic Devices, Mathematics, Verilog",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "PyTorch, RNNs, Data Structures, Jupyter Notebook, Messaging Queues, Node.js",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Semiconductor Physics, Xilinx ISE/Vivado, Electronic Devices, Z-Transform, Filters",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Scalability, Database Design, Troubleshooting, Data Cleaning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Xilinx ISE/Vivado, Semiconductor Physics, Circuit Analysis, Embedded Systems, Filters, Control System Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "EDA, Pandas, Reinforcement Learning (RL), Java, High Availability, Scalability, Computer Vision, Overfitting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Digital Electronics, Electronic Devices, Communication Systems, ASIC Design, Modulation, Op-Amps, Boolean Algebra",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "OSI Model, VLSI Design, Circuit Analysis, Power Electronics, CMOS",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Verilog, Op-Amps, Antenna Theory, Microprocessors",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Numpy, Big O Notation, Agile, Multithreading, Linux, CI/CD, Machine Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Laplace Transform, Microprocessors, Analog Circuits, Embedded Systems, Bode Plots, Instrumentation, Semiconductor Physics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Communication Systems, SPICE, OSI Model, Transistors (BJT, MOSFET), Embedded Systems, Z-Transform, CMOS, Modulation",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Agile, CI/CD, Pandas, Deep Learning, TensorFlow, Computer Vision",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Electronic Devices, Diodes, Transmission Lines, Digital Signal Processing (DSP), Op-Amps, Logic Gates",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Database Design, AWS Sagemaker, Google Cloud AI Platform, CI/CD, Reinforcement Learning (RL), Feature Engineering, Scikit-learn",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "MATLAB, Semiconductor Physics, Power Electronics, Modulation",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Verilog, Op-Amps, Simulink, Antenna Theory, Embedded Systems, OSI Model, Signals and Systems, Boolean Algebra",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Op-Amps, Laplace Transform, Embedded Systems, Amplifiers, Digital Electronics, Digital Signal Processing (DSP)",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Modulation, CMOS, Power Electronics, Sensors",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Keras, S3, Java, Concurrency, Scripting",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "AWS Sagemaker, Caching, CNNs, Networking, RESTful APIs",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Transistors (BJT, MOSFET), MATLAB, Z-Transform, Waveguides, Noise Analysis, Stability, Amplifiers",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Scripting, Numpy, Agile, Pandas, Load Balancing, Regression, Model Evaluation, Unit Testing",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Numpy, Git, Natural Language Processing (NLP), Test-Driven Development (TDD), Matplotlib",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Filters, FPGA, Fourier Transform, Control System Design",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "API Development, Seaborn, Messaging Queues, Data Preprocessing, EDA, Caching, System Design, Supervised Learning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Control Systems, Filters, SPICE, Power Electronics, Digital Electronics, Sensors",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Communication Systems, Fourier Transform, Digital Signal Processing (DSP), Mathematics, Digital Electronics",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Networking, Google Cloud AI Platform, Reinforcement Learning (RL), TensorFlow, Keras, S3, Data Cleaning",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "NoSQL, System Design, Messaging Queues, Matplotlib, React, JavaScript, Big O Notation",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Filters, Communication Systems, Transmission Lines, Modulation, ASIC Design, MATLAB",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Amplifiers, VLSI Design, Microprocessors, Boolean Algebra, Diodes",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Caching, React, Reinforcement Learning (RL), Load Balancing, Big O Notation, Multithreading",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cadence Virtuoso, Transmission Lines, Verilog, VLSI Design, Xilinx ISE/Vivado, Control System Design, Laplace Transform, Diodes",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Cloud Computing, Node.js, Statistical Analysis, Reinforcement Learning (RL), System Design, Seaborn, Underfitting, C++",
+    "label": 0
+  },
+    {
+    "goal": "GATE ECE",
+    "resume_text": "B.Tech in Electronics and Communication Engineering from IIT Delhi with 8.5 CGPA. Qualified GATE ECE with 950 score. Completed projects on digital signal processing and wireless communication. Proficient in MATLAB and C programming.",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "M.Tech in VLSI Design from IIT Bombay. GATE score 920. Worked on FPGA implementation of algorithms. Experience with Verilog and VHDL.",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "B.Tech in ECE from NIT Trichy, CGPA 8.8. Preparing for GATE ECE, scored 85% in mock tests. Interned at a company in embedded systems.",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Electronics Engineering graduate from COEP Pune. GATE qualified with 880. Participated in national-level technical fests and won awards in electronics projects.",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "B.E. in Electronics from Anna University, Chennai. Currently preparing for GATE ECE, ranked in top 10% in coaching institute tests. Experience with analog circuit design.",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "B.Tech in Electronics and Communication Engineering from IIT Roorkee with 8.7 CGPA. Completed internships at ISRO and Texas Instruments. Worked on IoT and embedded systems projects. Preparing for GATE ECE, scoring above 90% in mock tests.",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "M.Tech in Communication Systems from IIT Kanpur. GATE score 925. Published research papers on 5G technology. Teaching assistant for signal processing courses.",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "B.E. in Electronics from BITS Pilani, CGPA 9.0. Won national-level hackathons in electronics. Active IEEE student chapter member. Aiming for top 100 in GATE ECE.",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "B.Tech in ECE from VIT Vellore, 8.5 CGPA. Completed VLSI design certification from Coursera. Developed a smart home automation system using Arduino and Raspberry Pi.",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "B.Tech in Electronics and Communication from GGSIPU, 76.7% aggregate. Skilled in C, C++, MS SQL, MATLAB. Completed projects on PC-to-PC communication using infrared. Preparing for GATE ECE.",
+    "label": 1
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "B.Tech in Computer Science from IIT Bombay, 8.0 CGPA. Specialized in artificial intelligence and machine learning. No experience in electronics or communication engineering.",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "B.Tech in Mechanical Engineering from NIT Surat, 6.5 CGPA. Focused on thermal and fluid dynamics. No knowledge of electronics or GATE ECE syllabus.",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "B.Com graduate with 2 years of banking experience. Recently enrolled in first year of B.Tech ECE, no GATE preparation.",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "High school graduate with diploma in electrical trades. Works as a technician in a repair shop. Aspires to take GATE but lacks formal engineering education.",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "B.Tech in ECE from a tier-3 college, CGPA 5.5. No internships or projects. Failed several subjects during undergraduate studies.",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "B.Tech in Instrumentation Engineering from Jadavpur University, 6.8 CGPA. Focused on biomedical instrumentation. No GATE ECE preparation.",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "B.Tech in ECE, dropped out after third year due to personal reasons. Works as a freelance programmer. No formal degree or GATE preparation.",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "B.Tech in Electrical Engineering from NIT Warangal. Preparing for GATE EE, not ECE. No focus on ECE topics.",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "Software industry professional with no GATE plans. B.Tech in CSE from XYZ University.",
+    "label": 0
+  },
+  {
+    "goal": "GATE ECE",
+    "resume_text": "B.Tech ECE student with poor academic record, CGPA 5.0. No interest in GATE or higher studies.",
+    "label": 0
+  }
+]

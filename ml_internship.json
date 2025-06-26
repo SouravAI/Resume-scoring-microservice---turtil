@@ -1,0 +1,5102 @@
+[
+  {
+    "goal": "ML Internship",
+    "resume_text": "Messaging Queues, Verilog, Control System Design, SQL, FPGA, Xilinx ISE/Vivado",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cross-validation, Overfitting, Regression, Pandas, AWS Sagemaker, SQL, Computer Vision, Deep Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Computer Vision, Cross-validation, Unsupervised Learning, Reinforcement Learning (RL), Matplotlib, Statistical Analysis, Overfitting, Data Cleaning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "High Availability, C++, Noise Analysis, Transmission Lines, Big O Notation",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "FPGA, Analog Circuits, EC2, Simulink, Verilog, Multithreading",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Algorithms, Problem Solving, Laplace Transform, Debugging, MySQL, Mathematics, Docker",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "MATLAB, React, Embedded Systems, Docker, Fourier Transform, Networking",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Node.js, VLSI Design, Scalability, S3, Cadence Virtuoso",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "PyTorch, Feature Engineering, Underfitting, Statistical Analysis, AWS Sagemaker, Keras, Google Cloud AI Platform, Python",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Cleaning, Unsupervised Learning, SQL, Keras, Underfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Feedback Systems, Load Balancing, Stability, Jira, Security, Noise Analysis",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Numpy, Azure Machine Learning, Seaborn, Overfitting, Data Cleaning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Natural Language Processing (NLP), Regression, Git, Data Preprocessing, Underfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "EDA, Regression, Numpy, Neural Networks, Feature Engineering, Computer Vision",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Caching, React, Power Electronics, Unit Testing, Algorithms, SQL, ASIC Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Signals and Systems, AWS, Test-Driven Development (TDD), Digital Electronics, VLSI Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Supervised Learning, EDA, Statistical Analysis, Classification, Data Preprocessing, Seaborn, Computer Vision, Google Cloud AI Platform",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Transmission Lines, CI/CD, Linux, Antenna Theory, Performance Optimization, Z-Transform, Java, Troubleshooting",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Communication Systems, Modulation, VHDL, Z-Transform, Instrumentation, Stability",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Semiconductor Physics, Test-Driven Development (TDD), SQL, ASIC Design, Docker, Unit Testing, Embedded Systems, Jira",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "RNNs, EDA, Deep Learning, Underfitting, Machine Learning, Supervised Learning, Keras, Classification",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, SQL, Jupyter Notebook, Azure Machine Learning, Reinforcement Learning (RL), Git",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Feature Engineering, Overfitting, Neural Networks, Reinforcement Learning (RL), Unsupervised Learning, Statistical Analysis",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Seaborn, Regression, SQL, Reinforcement Learning (RL), Keras, Azure Machine Learning, Machine Learning, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Microcontrollers, DynamoDB, Test-Driven Development (TDD), Troubleshooting",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Messaging Queues, Data Structures, ASIC Design, EC2",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Natural Language Processing (NLP), Overfitting, Azure Machine Learning, Python",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Pandas, Feature Engineering, Underfitting, Deep Learning, CNNs, Seaborn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "TensorFlow, Scikit-learn, Jupyter Notebook, Overfitting, CNNs, Feature Engineering, Computer Vision",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Unsupervised Learning, Python, Underfitting, Machine Learning, Reinforcement Learning (RL), Git",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Statistical Analysis, Neural Networks, Keras, Jupyter Notebook",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Laplace Transform, PostgreSQL, Electronic Devices, Docker, Messaging Queues, Semiconductor Physics, High Availability",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "MATLAB, Feedback Systems, VHDL, Filters, Cadence Virtuoso",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cross-validation, Pandas, Unsupervised Learning, Data Preprocessing, Deep Learning, Natural Language Processing (NLP)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS Sagemaker, Google Cloud AI Platform, Keras, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "PyTorch, Feature Engineering, Regression, Git",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CMOS, Scalability, Load Balancing, Scripting, Messaging Queues, Transmission Lines, EC2",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Laplace Transform, Embedded Systems, API Development, Big O Notation, VHDL, Bode Plots, Amplifiers",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Overfitting, Jupyter Notebook, PyTorch, Pandas, Cross-validation, Unsupervised Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "OSI Model, DynamoDB, Concurrency, Problem Solving, Xilinx ISE/Vivado, Digital Electronics, System Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Regression, Computer Vision, TensorFlow, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Overfitting, Natural Language Processing (NLP), Seaborn, Matplotlib, Git, Jupyter Notebook, Neural Networks",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Z-Transform, Xilinx ISE/Vivado, RESTful APIs, EC2, VHDL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS Sagemaker, CNNs, Underfitting, TensorFlow, Scikit-learn, RNNs, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Microcontrollers, Java, Multithreading, React",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "MATLAB, Xilinx ISE/Vivado, System Design, CI/CD, PostgreSQL, Python",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Keras, Seaborn, Data Cleaning, CNNs, Machine Learning, Model Evaluation, Computer Vision, Natural Language Processing (NLP)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Overfitting, Computer Vision, CNNs, AWS Sagemaker, Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "NoSQL, Transmission Lines, Control Systems, Concurrency, Filters",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Numpy, Unsupervised Learning, Overfitting, Natural Language Processing (NLP), Neural Networks",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cross-validation, Overfitting, Scikit-learn, EDA, CNNs, Data Preprocessing, PyTorch, Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Unsupervised Learning, CNNs, SQL, Scikit-learn, Google Cloud AI Platform, Machine Learning, Natural Language Processing (NLP)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Sensors, Analog Circuits, S3, DynamoDB, Communication Systems, Simulink, Boolean Algebra, Laplace Transform",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Deep Learning, Data Cleaning, Data Preprocessing, Git, Azure Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Reinforcement Learning (RL), Python, Azure Machine Learning, Supervised Learning, Deep Learning, Overfitting, Numpy",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Overfitting, Azure Machine Learning, TensorFlow, Google Cloud AI Platform, Data Preprocessing",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Classification, Statistical Analysis, Supervised Learning, CNNs, Python",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Filters, Caching, Linux, Jira, Logic Gates, Antenna Theory",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Microcontrollers, Java, Algorithms, Stability, Transmission Lines, SPICE, Git, Agile",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "API Development, Debugging, Control Systems, Java, Waveguides",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "PyTorch, Deep Learning, Google Cloud AI Platform, EDA, Data Preprocessing, Seaborn, Reinforcement Learning (RL), Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Machine Learning, Computer Vision, Python, PyTorch, Reinforcement Learning (RL)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Diodes, S3, Power Electronics, React",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Cleaning, Deep Learning, Statistical Analysis, SQL",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Security, Embedded Systems, MySQL, VHDL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Overfitting, Feature Engineering, Seaborn, PyTorch, SQL, Git, Statistical Analysis",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS Sagemaker, Python, Computer Vision, Cross-validation",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Model Evaluation, Natural Language Processing (NLP), Unsupervised Learning, Git",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Control Systems, Test-Driven Development (TDD), Microprocessors, Java, OSI Model, Linux, Agile",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Classification, Supervised Learning, Underfitting, Jupyter Notebook, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Deep Learning, Google Cloud AI Platform, TensorFlow, Cross-validation, Classification, Matplotlib",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Model Evaluation, Classification, Machine Learning, Matplotlib, Keras",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Computer Vision, Cross-validation, Machine Learning, Underfitting, Feature Engineering, EDA",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Keras, Machine Learning, Unsupervised Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Data Preprocessing, EDA, Neural Networks, Regression, Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Matplotlib, Statistical Analysis, SQL, Regression, Unsupervised Learning, Reinforcement Learning (RL), Neural Networks",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Reinforcement Learning (RL), Model Evaluation, Computer Vision, Python, Pandas, RNNs, Classification, EDA",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CNNs, Overfitting, SQL, Data Preprocessing, Model Evaluation, Feature Engineering, Google Cloud AI Platform",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Classification, Cross-validation, Computer Vision, Seaborn, SQL, Regression",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Power Electronics, JavaScript, Amplifiers, Instrumentation, Electronic Devices, Agile",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Keras, Seaborn, Classification, Supervised Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Cleaning, Deep Learning, Git, Statistical Analysis, Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Python, Machine Learning, Regression, Reinforcement Learning (RL), Jupyter Notebook, Deep Learning, Data Cleaning, Numpy",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Caching, Op-Amps, FPGA, Simulink, Verilog, Messaging Queues, Stability, Control Systems",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Overfitting, Numpy, RNNs, Regression, Model Evaluation, Data Preprocessing, EDA",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Kubernetes, Debugging, Control System Design, Messaging Queues, Diodes, CI/CD",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Agile, Control Systems, Scalability, Xilinx ISE/Vivado, Unit Testing, Z-Transform, Caching, Circuit Analysis",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Scalability, Circuit Analysis, Semiconductor Physics, MySQL, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cloud Computing, Xilinx ISE/Vivado, Caching, Analog Circuits, DynamoDB, Instrumentation, Op-Amps, Control Systems",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Model Evaluation, Underfitting, Feature Engineering, Azure Machine Learning, Numpy",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SQL, Numpy, Google Cloud AI Platform, TensorFlow, Deep Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Circuit Analysis, Fourier Transform, FPGA, Messaging Queues",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Deep Learning, Model Evaluation, Supervised Learning, Azure Machine Learning, RNNs, CNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Statistical Analysis, Regression, TensorFlow, Deep Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Feature Engineering, Deep Learning, Natural Language Processing (NLP), Matplotlib, TensorFlow, Keras",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Logic Gates, Java, Power Electronics, Multithreading",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SQL, Data Preprocessing, Reinforcement Learning (RL), Deep Learning, Cross-validation, Scikit-learn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Embedded Systems, NoSQL, React, RESTful APIs",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Microprocessors, Control System Design, NoSQL, Electronic Devices, C++, MATLAB",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Reinforcement Learning (RL), Pandas, Unsupervised Learning, Numpy, Scikit-learn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Messaging Queues, Electronic Devices, Signals and Systems, Cadence Virtuoso, Networking, Stability, Data Structures, Amplifiers",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Instrumentation, VHDL, C++, Op-Amps, SQL, SPICE",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Circuit Analysis, Feedback Systems, Digital Electronics, Unit Testing, Instrumentation, Waveguides",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Natural Language Processing (NLP), AWS Sagemaker, Regression, Data Preprocessing, Unsupervised Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Database Design, Unit Testing, Performance Optimization, Power Electronics, CMOS, Big O Notation, Troubleshooting, MySQL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Structures, Problem Solving, Modulation, VHDL, C++",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Overfitting, EDA, AWS Sagemaker, Unsupervised Learning, Scikit-learn, Matplotlib",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Machine Learning, Underfitting, Natural Language Processing (NLP), Classification",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Python, React, Communication Systems, Circuit Analysis, Control System Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "RESTful APIs, Database Design, Test-Driven Development (TDD), Git, FPGA, Data Structures, AWS, Unit Testing",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Python, Caching, MATLAB, Sensors",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "DynamoDB, MySQL, Microprocessors, Signals and Systems, Z-Transform, AWS, Problem Solving, Transmission Lines",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Unsupervised Learning, Scikit-learn, SQL, Classification",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Scikit-learn, Neural Networks, Regression, Cross-validation, EDA, CNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Troubleshooting, Cloud Computing, Embedded Systems, VHDL, Z-Transform, Node.js, Feedback Systems, SPICE",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Matplotlib, Seaborn, Machine Learning, Deep Learning, RNNs, EDA, AWS Sagemaker",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Machine Learning, Scikit-learn, Data Preprocessing, RNNs, Regression",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SQL, Problem Solving, Load Balancing, Git, Mathematics, API Development",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, RNNs, Reinforcement Learning (RL), Classification, CNNs, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Neural Networks, Machine Learning, Pandas, EDA, Natural Language Processing (NLP), Regression",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Seaborn, Regression, Data Preprocessing, EDA",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cloud Computing, SPICE, Database Design, Docker, Sensors, Jira",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Deep Learning, Keras, CNNs, Seaborn, Python, AWS Sagemaker",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Scikit-learn, Cross-validation, Reinforcement Learning (RL), Unsupervised Learning, AWS Sagemaker, Neural Networks",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Natural Language Processing (NLP), TensorFlow, Overfitting, Azure Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Pandas, Data Preprocessing, Natural Language Processing (NLP), Underfitting, TensorFlow, Jupyter Notebook, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Messaging Queues, Digital Electronics, FPGA, AWS, Embedded Systems, Simulink, Java",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Overfitting, Git, Keras, Deep Learning, TensorFlow, Reinforcement Learning (RL)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Pandas, AWS Sagemaker, Regression, Azure Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Preprocessing, Pandas, Data Cleaning, Keras, Natural Language Processing (NLP), Matplotlib, Statistical Analysis",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Kubernetes, CI/CD, Node.js, Amplifiers, Circuit Analysis",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "PyTorch, TensorFlow, Matplotlib, Keras, CNNs, SQL",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Linux, Cloud Computing, Noise Analysis, Waveguides, Instrumentation, Control Systems, Mathematics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Verilog, Database Design, RESTful APIs, Antenna Theory, Mathematics, VLSI Design, Signals and Systems",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS Sagemaker, Cross-validation, Natural Language Processing (NLP), Git, Regression",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Classification, Statistical Analysis, Regression, Numpy, Jupyter Notebook, Computer Vision",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Xilinx ISE/Vivado, Control System Design, Signals and Systems, Troubleshooting, Power Electronics, Laplace Transform, Node.js",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Scikit-learn, Neural Networks, Keras, Feature Engineering, Python, Seaborn, Numpy, Reinforcement Learning (RL)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "EC2, Instrumentation, Xilinx ISE/Vivado, Noise Analysis, Problem Solving, React, C++, NoSQL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "React, High Availability, Digital Signal Processing (DSP), Scalability",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Scalability, JavaScript, Concurrency, Microprocessors, C++, Linux, Problem Solving, Signals and Systems",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CNNs, Supervised Learning, Statistical Analysis, Python",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Pandas, Underfitting, Neural Networks, Model Evaluation, Keras, Matplotlib",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Networking, Microcontrollers, Microprocessors, API Development, MATLAB, CI/CD, MySQL, S3",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SQL, Docker, OSI Model, VHDL, Messaging Queues",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CNNs, RNNs, Google Cloud AI Platform, Model Evaluation, Matplotlib",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Mathematics, Unit Testing, FPGA, RESTful APIs",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Transmission Lines, FPGA, Z-Transform, NoSQL, React, Digital Electronics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Mathematics, Transistors (BJT, MOSFET), Power Electronics, Diodes",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Modulation, High Availability, RESTful APIs, Cloud Computing, Diodes, Feedback Systems, Java, Load Balancing",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Keras, Data Cleaning, Neural Networks, Regression, CNNs, EDA, Data Preprocessing",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "MySQL, Cloud Computing, Digital Electronics, High Availability, Python",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Verilog, Security, High Availability, Filters, Modulation",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Classification, CNNs, SQL, Overfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Computer Vision, Numpy, RNNs, Scikit-learn, SQL",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Mathematics, Agile, NoSQL, Linux",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Feature Engineering, Underfitting, Jupyter Notebook, Numpy, Data Preprocessing, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "DynamoDB, Big O Notation, Agile, Power Electronics, Performance Optimization, SQL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Hundred car crime suddenly upon across. Background in accounting, financial analysis, and tax preparation.",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cadence Virtuoso, NoSQL, Semiconductor Physics, Data Structures, API Development",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jira, Power Electronics, Agile, High Availability, Caching, Java, Node.js, CI/CD",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Logic Gates, API Development, Feedback Systems, Digital Signal Processing (DSP), MATLAB, Cadence Virtuoso",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "C++, Verilog, Electronic Devices, S3, Cadence Virtuoso",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Linux, Cadence Virtuoso, Signals and Systems, Diodes",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CNNs, Google Cloud AI Platform, EDA, Scikit-learn, Data Preprocessing, Git, Python, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Azure Machine Learning, Overfitting, Neural Networks, Statistical Analysis, Scikit-learn, RNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "ASIC Design, Caching, Docker, Bode Plots, MATLAB, SPICE, Database Design, Networking",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Deep Learning, EDA, Computer Vision, Scikit-learn, Supervised Learning, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SQL, Data Preprocessing, Jupyter Notebook, EDA, Unsupervised Learning, Data Cleaning, TensorFlow",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "PostgreSQL, Power Electronics, Problem Solving, Test-Driven Development (TDD), VHDL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Microcontrollers, Communication Systems, Fourier Transform, Linux, Messaging Queues, React, ASIC Design, Power Electronics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Linux, Digital Electronics, PostgreSQL, Caching, FPGA, Power Electronics, Multithreading, Node.js",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Op-Amps, Cadence Virtuoso, Power Electronics, Scripting, VLSI Design, Networking, NoSQL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Docker, Python, Networking, Signals and Systems, Concurrency",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Pandas, Scikit-learn, Google Cloud AI Platform, Unsupervised Learning, Reinforcement Learning (RL), Neural Networks, Underfitting, Natural Language Processing (NLP)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Embedded Systems, Digital Electronics, CMOS, Mathematics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "API Development, PostgreSQL, Feedback Systems, SQL, RESTful APIs, Op-Amps, Algorithms, Instrumentation",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Simulink, Modulation, Node.js, Microprocessors, MATLAB, Electronic Devices, Database Design, Messaging Queues",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Python, AWS, Big O Notation, Docker",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jira, Antenna Theory, CI/CD, Circuit Analysis, Power Electronics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Instrumentation, VLSI Design, Docker, SQL, Node.js, API Development, Data Structures, Problem Solving",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Cross-validation, Classification, Azure Machine Learning, Unsupervised Learning, Regression, Data Cleaning, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SPICE, Digital Electronics, Lambda, Diodes, Load Balancing, Multithreading",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "C++, RESTful APIs, OSI Model, Cloud Computing, VLSI Design, Control System Design, Transmission Lines",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Seaborn, RNNs, Numpy, Overfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Cleaning, Cross-validation, RNNs, Deep Learning, SQL",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS Sagemaker, TensorFlow, Neural Networks, Data Cleaning, Unsupervised Learning, Computer Vision",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Machine Learning, Azure Machine Learning, Natural Language Processing (NLP), Computer Vision, Supervised Learning, Deep Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Feedback Systems, Algorithms, VHDL, High Availability",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Azure Machine Learning, Pandas, Natural Language Processing (NLP), Data Preprocessing",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Model Evaluation, Statistical Analysis, AWS Sagemaker, Jupyter Notebook",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Performance ever off these artist administration production. Experience in retail store management, inventory control, and customer service.",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SQL, Feedback Systems, Z-Transform, Control Systems",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Troubleshooting, API Development, Digital Signal Processing (DSP), Kubernetes, Agile",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "API Development, Communication Systems, Multithreading, Concurrency, SQL, High Availability",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Python, Reinforcement Learning (RL), CNNs, Supervised Learning, RNNs, SQL",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Communication Systems, Troubleshooting, Filters, Bode Plots",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Regression, Google Cloud AI Platform, Seaborn, Model Evaluation, Underfitting, Data Preprocessing, AWS Sagemaker, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS, Transmission Lines, Test-Driven Development (TDD), Multithreading, VLSI Design, Big O Notation",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CNNs, RNNs, Numpy, Overfitting, Supervised Learning, Scikit-learn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Reinforcement Learning (RL), Natural Language Processing (NLP), Feature Engineering, Google Cloud AI Platform, Machine Learning, Numpy, Supervised Learning, Keras",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Microcontrollers, S3, Verilog, Data Structures, Electronic Devices, Fourier Transform, VLSI Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Classification, Statistical Analysis, Unsupervised Learning, Matplotlib",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Pandas, Keras, Google Cloud AI Platform, CNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Feedback Systems, EC2, Java, Circuit Analysis, Xilinx ISE/Vivado, Z-Transform, Lambda",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Lambda, Electronic Devices, Big O Notation, Logic Gates, Mathematics, Node.js",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Logic Gates, Amplifiers, Algorithms, Java, High Availability, Git, RESTful APIs",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Lambda, AWS, Verilog, S3, Node.js, ASIC Design, Linux, Modulation",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS, Microcontrollers, Embedded Systems, EC2, FPGA, Scalability, VLSI Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Numpy, Jupyter Notebook, Matplotlib, Natural Language Processing (NLP), RNNs, Unsupervised Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS Sagemaker, RNNs, Unsupervised Learning, Pandas, Feature Engineering, Numpy, Seaborn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Control System Design, Sensors, Messaging Queues, SQL, ASIC Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Neural Networks, Model Evaluation, Machine Learning, Keras, Supervised Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Agile, Laplace Transform, Concurrency, Fourier Transform, Control Systems, Performance Optimization, Problem Solving, API Development",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Linux, Circuit Analysis, Op-Amps, Diodes, JavaScript, Filters, Messaging Queues, CMOS",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Debugging, Multithreading, Caching, Performance Optimization",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Deep Learning, PyTorch, Supervised Learning, SQL, Scikit-learn, EDA",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Google Cloud AI Platform, Natural Language Processing (NLP), Cross-validation, Supervised Learning, Deep Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SPICE, Performance Optimization, Java, Microcontrollers, Caching, PostgreSQL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SQL, Big O Notation, ASIC Design, RESTful APIs, Lambda, Fourier Transform, Microprocessors",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Preprocessing, Cross-validation, Python, Statistical Analysis, Overfitting, Matplotlib",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Power Electronics, Xilinx ISE/Vivado, Cloud Computing, Java, Git, Scripting",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Deep Learning, Python, Overfitting, Neural Networks, TensorFlow, AWS Sagemaker",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Microprocessors, Semiconductor Physics, Performance Optimization, Git, VHDL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Matplotlib, Underfitting, PyTorch, Classification, Computer Vision, RNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CNNs, Natural Language Processing (NLP), Data Cleaning, Statistical Analysis, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Preprocessing, Google Cloud AI Platform, Azure Machine Learning, Natural Language Processing (NLP), CNNs, Scikit-learn, Pandas",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "MySQL, Digital Electronics, Scripting, Embedded Systems, S3, Control System Design, Networking",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Embedded Systems, SPICE, Transistors (BJT, MOSFET), Load Balancing",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Unit Testing, Node.js, System Design, Semiconductor Physics, Control Systems, Big O Notation, Networking",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Statistical Analysis, Neural Networks, EDA, Deep Learning, Numpy",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Simulink, Node.js, Circuit Analysis, Signals and Systems, Load Balancing, Problem Solving, NoSQL, Semiconductor Physics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jira, Python, SPICE, Feedback Systems, MATLAB, Power Electronics, NoSQL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Analog Circuits, Docker, Instrumentation, RESTful APIs, Xilinx ISE/Vivado, Test-Driven Development (TDD), Lambda, AWS",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jira, CI/CD, Messaging Queues, Circuit Analysis",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Feedback Systems, OSI Model, Op-Amps, Communication Systems, Linux",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Java, Electronic Devices, Waveguides, Communication Systems, Performance Optimization, AWS, System Design, Algorithms",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Google Cloud AI Platform, CNNs, EDA, Natural Language Processing (NLP), Cross-validation, Classification, TensorFlow, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Pandas, Numpy, Machine Learning, Model Evaluation, EDA",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Op-Amps, Antenna Theory, JavaScript, Unit Testing, System Design, Agile, Microprocessors",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "RESTful APIs, S3, AWS, Load Balancing",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "JavaScript, Z-Transform, Modulation, Power Electronics, Microcontrollers, DynamoDB",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Networking, Agile, Fourier Transform, FPGA",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Control Systems, Python, Node.js, Amplifiers, API Development, Xilinx ISE/Vivado, PostgreSQL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Load Balancing, Mathematics, Transmission Lines, MATLAB, Control Systems, Waveguides",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Feature Engineering, PyTorch, Statistical Analysis, Seaborn, Git",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Microcontrollers, Microprocessors, Concurrency, DynamoDB, Signals and Systems, CI/CD, S3",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "TensorFlow, EDA, Data Cleaning, Reinforcement Learning (RL), Google Cloud AI Platform, Cross-validation, Natural Language Processing (NLP)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Git, Regression, Jupyter Notebook, SQL, Data Cleaning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Pandas, Seaborn, Underfitting, AWS Sagemaker, EDA, Python, Regression, TensorFlow",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Deep Learning, SQL, Natural Language Processing (NLP), Classification",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Reinforcement Learning (RL), Neural Networks, Azure Machine Learning, Computer Vision, Overfitting, Seaborn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Logic Gates, Embedded Systems, Stability, Scalability, Diodes, Agile",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Lambda, Waveguides, Linux, Analog Circuits",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Unsupervised Learning, Classification, Seaborn, Git, Supervised Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Machine Learning, TensorFlow, Matplotlib, Data Preprocessing, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SQL, Feature Engineering, Deep Learning, Keras, Supervised Learning, Reinforcement Learning (RL), TensorFlow, Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SQL, Seaborn, Cross-validation, Classification, Data Cleaning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Matplotlib, Pandas, Azure Machine Learning, Computer Vision, Classification",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jupyter Notebook, SQL, Regression, Azure Machine Learning, Google Cloud AI Platform, Underfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Unit Testing, Circuit Analysis, FPGA, Simulink, Transistors (BJT, MOSFET), Agile",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Numpy, CNNs, RNNs, Classification, Computer Vision, Matplotlib, Unsupervised Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "TensorFlow, Cross-validation, Statistical Analysis, Google Cloud AI Platform, RNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "EDA, Statistical Analysis, Keras, SQL, Google Cloud AI Platform, Classification, Reinforcement Learning (RL)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SQL, Google Cloud AI Platform, EDA, Natural Language Processing (NLP), Classification, Pandas, Seaborn, Azure Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Xilinx ISE/Vivado, Analog Circuits, CMOS, ASIC Design, PostgreSQL, System Design, Load Balancing, Mathematics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Structures, Debugging, Bode Plots, Noise Analysis, Logic Gates, DynamoDB, Performance Optimization",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Machine Learning, Pandas, Feature Engineering, Statistical Analysis, Jupyter Notebook, TensorFlow, Numpy",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Computer Vision, Supervised Learning, Numpy, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Circuit Analysis, VLSI Design, Transistors (BJT, MOSFET), Antenna Theory, Lambda, Microcontrollers",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS Sagemaker, CNNs, EDA, Classification, Scikit-learn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Unsupervised Learning, Model Evaluation, Supervised Learning, Reinforcement Learning (RL), Data Cleaning, Pandas, Underfitting, Seaborn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "ASIC Design, Diodes, Z-Transform, Digital Signal Processing (DSP), Caching, FPGA",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Neural Networks, Git, Keras, Unsupervised Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Keras, CNNs, Model Evaluation, EDA, Underfitting, Matplotlib",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Keras, Computer Vision, Jupyter Notebook, Deep Learning, Supervised Learning, TensorFlow, Data Preprocessing, SQL",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Xilinx ISE/Vivado, MySQL, Electronic Devices, Troubleshooting, Messaging Queues, Unit Testing",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Multithreading, Filters, Transistors (BJT, MOSFET), Embedded Systems, Bode Plots, Noise Analysis, Antenna Theory, Networking",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Computer Vision, Underfitting, Statistical Analysis, Cross-validation, Data Cleaning, Git, Machine Learning, SQL",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Deep Learning, Feature Engineering, Model Evaluation, TensorFlow, Numpy",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Circuit Analysis, Logic Gates, EC2, Security, Java, CMOS, Communication Systems, Embedded Systems",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Supervised Learning, Google Cloud AI Platform, RNNs, Azure Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Digital Electronics, Concurrency, VHDL, Waveguides, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "RNNs, Model Evaluation, Statistical Analysis, Git, Supervised Learning, Neural Networks, Python, EDA",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CNNs, Reinforcement Learning (RL), Unsupervised Learning, Supervised Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Machine Learning, EDA, Statistical Analysis, Supervised Learning, Reinforcement Learning (RL), Azure Machine Learning, CNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Seaborn, Feature Engineering, Jupyter Notebook, Reinforcement Learning (RL), Scikit-learn, TensorFlow",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jupyter Notebook, Model Evaluation, Statistical Analysis, Data Preprocessing, Classification, Computer Vision, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Test-Driven Development (TDD), AWS, Python, Networking",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Classification, Overfitting, Model Evaluation, Statistical Analysis, Neural Networks, Unsupervised Learning, Jupyter Notebook, Pandas",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Cleaning, Regression, PyTorch, Numpy, Seaborn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Filters, NoSQL, MATLAB, Antenna Theory, VLSI Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Classification, Neural Networks, Deep Learning, EDA",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Pandas, Neural Networks, TensorFlow, Model Evaluation, RNNs, Google Cloud AI Platform, Natural Language Processing (NLP), Data Cleaning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Preprocessing, Model Evaluation, Natural Language Processing (NLP), Unsupervised Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CNNs, Underfitting, EDA, Neural Networks, RNNs, Seaborn, AWS Sagemaker",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Z-Transform, Test-Driven Development (TDD), Big O Notation, Networking",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Scalability, Concurrency, Filters, Diodes",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "EC2, Node.js, Git, NoSQL, Waveguides, Logic Gates, Stability",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Preprocessing, RNNs, Cross-validation, Model Evaluation, Matplotlib",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CMOS, Scalability, Big O Notation, Feedback Systems",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Git, Xilinx ISE/Vivado, Node.js, RESTful APIs, Transmission Lines, Digital Signal Processing (DSP), Python",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Scikit-learn, Unsupervised Learning, Git, PyTorch, Reinforcement Learning (RL), Python, Jupyter Notebook, AWS Sagemaker",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "C++, Power Electronics, Transmission Lines, React, Feedback Systems",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CMOS, Semiconductor Physics, Transmission Lines, CI/CD",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Feedback Systems, Database Design, CI/CD, Docker, Semiconductor Physics, Simulink",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Pandas, Classification, Git, Scikit-learn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Bode Plots, Linux, Microcontrollers, SPICE, Semiconductor Physics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Machine Learning, Pandas, Regression, TensorFlow, Underfitting, Data Preprocessing, Neural Networks, Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Analog Circuits, Boolean Algebra, Amplifiers, EC2, Problem Solving, Waveguides, Mathematics, Sensors",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Azure Machine Learning, Underfitting, RNNs, Model Evaluation, Statistical Analysis",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Security, Messaging Queues, Diodes, Networking",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Transmission Lines, Communication Systems, Xilinx ISE/Vivado, Control System Design, Signals and Systems, Instrumentation, Laplace Transform",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SQL, Circuit Analysis, Control System Design, SPICE, Microcontrollers, Signals and Systems, Xilinx ISE/Vivado",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CNNs, Unsupervised Learning, Statistical Analysis, TensorFlow, Regression, Natural Language Processing (NLP), Computer Vision",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Keras, Underfitting, EDA, Regression, Machine Learning, Python",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Communication Systems, Diodes, Verilog, Python, Filters, Scripting, API Development, Antenna Theory",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Kid increase break ten few security reduce ability. Managed agricultural farm operations and crop planning.",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Verilog, AWS, Transistors (BJT, MOSFET), Scalability, Caching",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SQL, Keras, Data Preprocessing, Python, Supervised Learning, EDA",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Regression, Cross-validation, Computer Vision, Git, RNNs, Numpy, Model Evaluation, Natural Language Processing (NLP)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Signals and Systems, NoSQL, Circuit Analysis, Messaging Queues, MATLAB",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "API Development, Python, Agile, Java, Control Systems, Microprocessors",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Microcontrollers, Problem Solving, Z-Transform, Lambda, Antenna Theory, Data Structures, CI/CD, Instrumentation",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Feature Engineering, Cross-validation, Keras, Deep Learning, EDA, Statistical Analysis",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jupyter Notebook, Computer Vision, Neural Networks, Classification, Numpy, Deep Learning, Google Cloud AI Platform, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Database Design, Amplifiers, Sensors, Jira, VHDL, SQL, Algorithms",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Simulink, Waveguides, Verilog, S3, Transmission Lines",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Kubernetes, CMOS, Logic Gates, Scripting",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Load Balancing, Scalability, Performance Optimization, Docker",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Amplifiers, S3, Filters, Control Systems, Antenna Theory, Networking",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Kubernetes, MySQL, Modulation, JavaScript, Sensors, Cadence Virtuoso, Diodes",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Feature Engineering, Numpy, Pandas, Model Evaluation, Azure Machine Learning, Keras, CNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "EDA, Reinforcement Learning (RL), Supervised Learning, Statistical Analysis, TensorFlow, Natural Language Processing (NLP), Computer Vision, Data Cleaning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS Sagemaker, Pandas, PyTorch, Keras, Git",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Networking, AWS, VHDL, Messaging Queues, Simulink, Waveguides",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Instrumentation, ASIC Design, Big O Notation, S3, Microprocessors, Load Balancing",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "High Availability, Unit Testing, API Development, Python, Load Balancing, Sensors, Stability",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Matplotlib, Deep Learning, Python, Seaborn, Regression, TensorFlow, Azure Machine Learning, AWS Sagemaker",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Antenna Theory, Algorithms, Networking, OSI Model, Cadence Virtuoso, Git",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "VLSI Design, Linux, Big O Notation, Algorithms, SPICE, MySQL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Keras, CNNs, Classification, Data Cleaning, Python, Regression, Jupyter Notebook",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Keras, Regression, Natural Language Processing (NLP), Data Preprocessing, Cross-validation",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Messaging Queues, Stability, React, Kubernetes, Jira, EC2, ASIC Design, Laplace Transform",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Networking, Python, Multithreading, Problem Solving, Troubleshooting, Stability",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Overfitting, Data Preprocessing, Neural Networks, TensorFlow",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "DynamoDB, Database Design, Debugging, Sensors",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "DynamoDB, Data Structures, CI/CD, Analog Circuits",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "EC2, VHDL, Caching, Digital Signal Processing (DSP), Verilog, SQL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Pandas, Statistical Analysis, Classification, Neural Networks, Azure Machine Learning, Data Preprocessing, AWS Sagemaker, Keras",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Communication Systems, Java, Multithreading, Caching, Test-Driven Development (TDD)",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "RNNs, Reinforcement Learning (RL), Classification, Azure Machine Learning, Overfitting, Jupyter Notebook",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Natural Language Processing (NLP), Statistical Analysis, Machine Learning, Computer Vision, Reinforcement Learning (RL), Underfitting, Numpy",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Natural Language Processing (NLP), Python, Cross-validation, Computer Vision, Jupyter Notebook, Reinforcement Learning (RL)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Communication Systems, Electronic Devices, Multithreading, Mathematics, SPICE, Xilinx ISE/Vivado, Stability, JavaScript",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Power Electronics, High Availability, API Development, Troubleshooting, Digital Signal Processing (DSP), Feedback Systems, Multithreading",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "System Design, Python, Networking, Test-Driven Development (TDD), Control System Design, Feedback Systems, Embedded Systems",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Feedback Systems, Bode Plots, DynamoDB, Verilog, CMOS, Microcontrollers, AWS",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cadence Virtuoso, Logic Gates, JavaScript, API Development, Transmission Lines, Filters",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Reinforcement Learning (RL), Underfitting, CNNs, Deep Learning, Natural Language Processing (NLP), Computer Vision, Supervised Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Digital Electronics, Control Systems, Algorithms, JavaScript, Feedback Systems, Op-Amps",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Natural Language Processing (NLP), Unsupervised Learning, Git, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Keras, Machine Learning, Numpy, Data Cleaning, Deep Learning, Cross-validation, Jupyter Notebook",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Troubleshooting, Unit Testing, Microprocessors, Security, MATLAB, API Development, Z-Transform, Stability",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Bode Plots, Problem Solving, Transistors (BJT, MOSFET), Digital Signal Processing (DSP)",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Seaborn, Cross-validation, Scikit-learn, Computer Vision, Neural Networks, Data Cleaning, Feature Engineering, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Numpy, Python, AWS Sagemaker, Jupyter Notebook, TensorFlow, Pandas",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Electronic Devices, Linux, AWS, CI/CD, Microcontrollers, Database Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Numpy, Classification, Data Preprocessing, Supervised Learning, Cross-validation, Reinforcement Learning (RL)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Regression, Classification, Computer Vision, Scikit-learn, Feature Engineering, Deep Learning, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Deep Learning, Neural Networks, Numpy, CNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS Sagemaker, Azure Machine Learning, Deep Learning, Neural Networks, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Size he simply answer nice development learn. Managed agricultural farm operations and crop planning.",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Unsupervised Learning, Computer Vision, Neural Networks, Overfitting, Natural Language Processing (NLP), Regression, Keras, Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Unsupervised Learning, Python, AWS Sagemaker, Keras, EDA, Underfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cross-validation, Model Evaluation, Keras, Reinforcement Learning (RL), Seaborn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Numpy, Matplotlib, Supervised Learning, Keras, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Microcontrollers, Sensors, PostgreSQL, Test-Driven Development (TDD)",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Supervised Learning, Machine Learning, Classification, Azure Machine Learning, TensorFlow, Numpy, Git, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Deep Learning, EDA, Seaborn, AWS Sagemaker, Reinforcement Learning (RL), Neural Networks",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Keras, Matplotlib, Deep Learning, Model Evaluation, Feature Engineering, Pandas, Natural Language Processing (NLP)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SQL, Seaborn, RNNs, Overfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CMOS, Communication Systems, Bode Plots, Transistors (BJT, MOSFET), Analog Circuits, AWS, Modulation",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "PyTorch, Google Cloud AI Platform, Machine Learning, Git",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Op-Amps, RESTful APIs, Agile, System Design, ASIC Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Git, EDA, SQL, Scikit-learn, Matplotlib, Keras, AWS Sagemaker",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Numpy, Google Cloud AI Platform, Data Cleaning, Git, Overfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Keras, Git, Overfitting, Cross-validation, Jupyter Notebook, Natural Language Processing (NLP)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jupyter Notebook, Pandas, Machine Learning, SQL",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Seaborn, RNNs, Deep Learning, Computer Vision, Python, Neural Networks, Data Cleaning, Matplotlib",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Computer Vision, Model Evaluation, Data Cleaning, Natural Language Processing (NLP)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CNNs, Data Cleaning, Reinforcement Learning (RL), TensorFlow, Numpy, Regression, Scikit-learn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Linux, Digital Electronics, Algorithms, Java, Analog Circuits, MySQL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Troubleshooting, Z-Transform, API Development, Electronic Devices, Sensors, NoSQL, Unit Testing, High Availability",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Overfitting, Neural Networks, Underfitting, Data Cleaning, Classification",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Natural Language Processing (NLP), Jupyter Notebook, Pandas, Matplotlib, Scikit-learn, Deep Learning, Azure Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Agile, Amplifiers, Unit Testing, MySQL, VLSI Design, System Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CNNs, Reinforcement Learning (RL), Numpy, Cross-validation, PyTorch, Data Cleaning, Natural Language Processing (NLP)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jupyter Notebook, Deep Learning, Computer Vision, Neural Networks, Supervised Learning, Model Evaluation, Pandas",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "RNNs, Google Cloud AI Platform, EDA, Overfitting, Supervised Learning, Regression, Underfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Kubernetes, API Development, Agile, Cloud Computing, Feedback Systems, Transistors (BJT, MOSFET)",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Statistical Analysis, RNNs, Model Evaluation, Unsupervised Learning, SQL, Overfitting, Data Cleaning, CNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cloud Computing, Python, Jira, Digital Electronics, Filters, Simulink, Bode Plots, Unit Testing",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Scikit-learn, RNNs, Natural Language Processing (NLP), Cross-validation, Python, Data Cleaning, Azure Machine Learning, EDA",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Neural Networks, Jupyter Notebook, Overfitting, Matplotlib, RNNs, Scikit-learn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS, EC2, Op-Amps, MATLAB",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Bode Plots, OSI Model, Cadence Virtuoso, CI/CD, Stability",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cross-validation, Unsupervised Learning, Python, Computer Vision, Data Preprocessing, CNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Stability, C++, Troubleshooting, Debugging, Waveguides, Feedback Systems",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Numpy, Natural Language Processing (NLP), PyTorch, RNNs, CNNs, Keras",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "EC2, Microprocessors, OSI Model, Digital Signal Processing (DSP), Big O Notation, Electronic Devices, JavaScript",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Supervised Learning, Numpy, Keras, Classification",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Modulation, Op-Amps, Logic Gates, Load Balancing",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Verilog, Digital Electronics, Semiconductor Physics, Modulation",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Messaging Queues, Git, Networking, Multithreading",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Filters, Communication Systems, Data Structures, DynamoDB, Bode Plots, Z-Transform",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CNNs, Underfitting, Statistical Analysis, Google Cloud AI Platform, Data Cleaning, EDA, Neural Networks",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Computer Vision, Neural Networks, Azure Machine Learning, Machine Learning, RNNs, SQL, Deep Learning, Google Cloud AI Platform",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Overfitting, Git, SQL, TensorFlow, Seaborn, Statistical Analysis",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "ASIC Design, Laplace Transform, Circuit Analysis, Jira",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "EDA, Computer Vision, Natural Language Processing (NLP), Classification, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Azure Machine Learning, Statistical Analysis, Matplotlib, Computer Vision",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Problem Solving, Agile, CI/CD, OSI Model",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CI/CD, SQL, Analog Circuits, Concurrency, Microprocessors, C++, SPICE, OSI Model",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Digital Electronics, Caching, Control System Design, Circuit Analysis, Laplace Transform, Performance Optimization, FPGA, Noise Analysis",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Deep Learning, Azure Machine Learning, SQL, Supervised Learning, Classification",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Networking, Concurrency, Logic Gates, Lambda, Diodes",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Natural Language Processing (NLP), PyTorch, Data Cleaning, Matplotlib, Azure Machine Learning, Python, Supervised Learning, Cross-validation",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Reinforcement Learning (RL), AWS Sagemaker, Numpy, Unsupervised Learning, SQL, Classification, Underfitting, Neural Networks",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Transistors (BJT, MOSFET), Problem Solving, Analog Circuits, Algorithms",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "RNNs, Data Preprocessing, AWS Sagemaker, Machine Learning, SQL",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Azure Machine Learning, Natural Language Processing (NLP), CNNs, Supervised Learning, Overfitting, Pandas, Classification",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Modulation, Lambda, Data Structures, Algorithms, AWS, Python, Control System Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Scikit-learn, Computer Vision, TensorFlow, Jupyter Notebook, Underfitting, Azure Machine Learning, Keras, CNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Node.js, Troubleshooting, Scalability, Agile, Boolean Algebra, Problem Solving",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Waveguides, Scalability, DynamoDB, Lambda, Circuit Analysis, Messaging Queues",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Verilog, Concurrency, Analog Circuits, Cadence Virtuoso, MySQL, Op-Amps, Circuit Analysis, System Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Git, Computer Vision, Data Cleaning, Scikit-learn, Reinforcement Learning (RL), Underfitting, SQL",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Regression, Model Evaluation, TensorFlow, Git",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Seaborn, Deep Learning, Google Cloud AI Platform, Regression, Natural Language Processing (NLP), EDA",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "RESTful APIs, API Development, MATLAB, Data Structures",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Neural Networks, Cross-validation, Feature Engineering, Data Preprocessing, EDA, SQL, Machine Learning, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Laplace Transform, Cadence Virtuoso, JavaScript, Test-Driven Development (TDD), Instrumentation",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Verilog, Troubleshooting, Logic Gates, High Availability, Sensors",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Laplace Transform, Amplifiers, React, Diodes",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Important at her involve method system attorney wonder. Skilled in classical music, event planning, and stage performance.",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Computer Vision, Azure Machine Learning, Classification, TensorFlow, CNNs, SQL",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Signals and Systems, CI/CD, EC2, ASIC Design, VLSI Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "FPGA, Networking, C++, Antenna Theory, CI/CD, Op-Amps, Sensors, Digital Electronics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Cleaning, Seaborn, Regression, AWS Sagemaker, Keras, Natural Language Processing (NLP), Reinforcement Learning (RL), Neural Networks",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Microprocessors, Embedded Systems, Data Structures, JavaScript, Power Electronics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Logic Gates, Debugging, EC2, Modulation, Semiconductor Physics, Java",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jira, Problem Solving, Microcontrollers, ASIC Design, EC2",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "DynamoDB, Multithreading, Simulink, Logic Gates",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Xilinx ISE/Vivado, Caching, Stability, VLSI Design, AWS, DynamoDB, Messaging Queues, SPICE",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Big O Notation, Concurrency, Microprocessors, Waveguides, RESTful APIs",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Control Systems, Node.js, Amplifiers, Logic Gates, Boolean Algebra, Test-Driven Development (TDD), JavaScript",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Statistical Analysis, AWS Sagemaker, TensorFlow, PyTorch, Unsupervised Learning, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Matplotlib, SQL, Model Evaluation, Data Preprocessing, Azure Machine Learning, Deep Learning, Google Cloud AI Platform",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CI/CD, Antenna Theory, Problem Solving, Noise Analysis, SQL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SPICE, Microcontrollers, Signals and Systems, Instrumentation, FPGA, S3, Agile",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Machine Learning, Azure Machine Learning, Cross-validation, Neural Networks, Seaborn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Numpy, TensorFlow, Azure Machine Learning, Natural Language Processing (NLP), Git, Computer Vision",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Instrumentation, Stability, SPICE, Microcontrollers",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Azure Machine Learning, Seaborn, Regression, Statistical Analysis, Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Google Cloud AI Platform, Neural Networks, Azure Machine Learning, Keras, Underfitting, Machine Learning, Regression",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Classification, Azure Machine Learning, Numpy, SQL, Neural Networks, CNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Digital Electronics, Node.js, API Development, JavaScript",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Numpy, Scikit-learn, TensorFlow, Deep Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Lambda, Cadence Virtuoso, High Availability, DynamoDB, ASIC Design, Load Balancing, Docker",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "EDA, Scikit-learn, Seaborn, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "TensorFlow, Deep Learning, Classification, Underfitting, Feature Engineering, Natural Language Processing (NLP), Data Cleaning, Overfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS Sagemaker, Keras, Regression, Numpy, Data Preprocessing, Classification, Data Cleaning, Git",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Stability, Node.js, Simulink, Unit Testing, Analog Circuits, System Design, Feedback Systems",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Python, Classification, Git, Keras",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Matplotlib, Classification, TensorFlow, PyTorch, Regression",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Model Evaluation, Scikit-learn, TensorFlow, Natural Language Processing (NLP), Numpy",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Diodes, Semiconductor Physics, Data Structures, Analog Circuits, Control Systems, Simulink, Transistors (BJT, MOSFET), Antenna Theory",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Troubleshooting, ASIC Design, Cloud Computing, System Design, Data Structures, Problem Solving, MATLAB, Filters",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Pandas, Scikit-learn, Statistical Analysis, Cross-validation, AWS Sagemaker, Jupyter Notebook, Python, Classification",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Feature Engineering, Classification, CNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Matplotlib, Statistical Analysis, AWS Sagemaker, Regression, Unsupervised Learning, Neural Networks, Google Cloud AI Platform",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Performance Optimization, Python, Mathematics, FPGA, Transmission Lines, Signals and Systems, Algorithms",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Networking, DynamoDB, Security, Microcontrollers, Agile, Analog Circuits, Digital Electronics, Power Electronics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Digital Electronics, API Development, Big O Notation, ASIC Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CI/CD, Multithreading, Microcontrollers, Z-Transform, Python",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Regression, Matplotlib, Google Cloud AI Platform, EDA, Seaborn, Underfitting, Natural Language Processing (NLP)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Classification, Jupyter Notebook, Model Evaluation, Data Preprocessing, Git",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cross-validation, Regression, Python, Reinforcement Learning (RL), CNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Structures, Bode Plots, Jira, Instrumentation, React, Semiconductor Physics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Instrumentation, JavaScript, Networking, Transistors (BJT, MOSFET), Semiconductor Physics, MySQL, Python, React",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cross-validation, PyTorch, RNNs, Seaborn, Python, Supervised Learning, Overfitting, Regression",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Computer Vision, Google Cloud AI Platform, Pandas, Deep Learning, Numpy, Keras, Reinforcement Learning (RL)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Multithreading, Transistors (BJT, MOSFET), Verilog, VHDL, Cloud Computing, Communication Systems, Problem Solving",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Numpy, Statistical Analysis, Google Cloud AI Platform, Azure Machine Learning, Pandas, Underfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Numpy, Scikit-learn, Supervised Learning, Python, Unsupervised Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Docker, Networking, Digital Signal Processing (DSP), Analog Circuits, Bode Plots",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Networking, Electronic Devices, CMOS, Digital Electronics, Test-Driven Development (TDD), Python, Linux, Lambda",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "TensorFlow, Regression, Azure Machine Learning, Machine Learning, AWS Sagemaker, Numpy, Reinforcement Learning (RL), Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Google Cloud AI Platform, Azure Machine Learning, Statistical Analysis, Regression",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Cleaning, Matplotlib, Unsupervised Learning, Classification, Deep Learning, RNNs, Scikit-learn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Digital Electronics, Database Design, Scalability, Multithreading, Transmission Lines, Algorithms, Troubleshooting",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "EC2, RESTful APIs, Transistors (BJT, MOSFET), Fourier Transform",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Semiconductor Physics, EC2, Verilog, Noise Analysis",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS, Agile, Signals and Systems, C++, Microcontrollers, SPICE",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Node.js, Digital Electronics, SPICE, Multithreading",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Computer Vision, Classification, Python, Azure Machine Learning, Numpy, Machine Learning, Deep Learning, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "API Development, Linux, Jira, Embedded Systems, CI/CD, Verilog, Debugging",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "RNNs, Azure Machine Learning, CNNs, Underfitting, Model Evaluation, Machine Learning, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Pandas, Numpy, Feature Engineering, Machine Learning, Statistical Analysis",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Waveguides, Microprocessors, Performance Optimization, Agile, Control System Design, Git, Multithreading, OSI Model",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "VLSI Design, Scalability, Op-Amps, MATLAB, Control System Design, Java, Boolean Algebra, Multithreading",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Diodes, Z-Transform, Debugging, Agile, Lambda, Problem Solving, Boolean Algebra, AWS",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Circuit Analysis, Logic Gates, Agile, AWS, Test-Driven Development (TDD)",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Xilinx ISE/Vivado, VLSI Design, Big O Notation, Scripting",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Performance Optimization, Jira, Troubleshooting, Security, Docker",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Signals and Systems, Git, Transistors (BJT, MOSFET), S3, Troubleshooting, SQL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Semiconductor Physics, MySQL, Caching, Algorithms, Embedded Systems, AWS, Microcontrollers",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Boolean Algebra, Verilog, Logic Gates, Concurrency, Amplifiers, Caching",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "DynamoDB, Caching, Lambda, ASIC Design, Verilog, Java",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Google Cloud AI Platform, Machine Learning, Keras, Data Preprocessing, Unsupervised Learning, CNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jira, Power Electronics, FPGA, RESTful APIs, AWS, Electronic Devices, Fourier Transform, SPICE",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Pandas, Google Cloud AI Platform, Feature Engineering, EDA, Seaborn, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Computer Vision, Supervised Learning, Reinforcement Learning (RL), Git, EDA",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Deep Learning, Statistical Analysis, Numpy, RNNs, EDA, Seaborn, Keras",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Reinforcement Learning (RL), PyTorch, Jupyter Notebook, SQL, Neural Networks",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Test-Driven Development (TDD), Java, Jira, Node.js",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Op-Amps, Messaging Queues, Caching, Control Systems, Waveguides, Python, High Availability, API Development",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Unit Testing, RESTful APIs, Mathematics, Transistors (BJT, MOSFET), Microprocessors",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "FPGA, Antenna Theory, Power Electronics, Data Structures, Digital Signal Processing (DSP), Verilog",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jupyter Notebook, Machine Learning, Classification, Google Cloud AI Platform, Natural Language Processing (NLP), Data Preprocessing, AWS Sagemaker, Data Cleaning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Java, Boolean Algebra, Microcontrollers, MySQL, Cloud Computing, VLSI Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Feedback Systems, React, C++, Python, Unit Testing",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cross-validation, Reinforcement Learning (RL), Deep Learning, Google Cloud AI Platform, Pandas, Neural Networks, EDA, Computer Vision",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "EDA, TensorFlow, Classification, SQL",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CNNs, Python, Keras, Neural Networks, Supervised Learning, Numpy, Pandas",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Model Evaluation, Underfitting, EDA, Regression, Cross-validation",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Matplotlib, TensorFlow, Scikit-learn, Regression, Seaborn, Keras, Feature Engineering, Unsupervised Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Test-Driven Development (TDD), Scalability, Multithreading, Big O Notation, Unit Testing, Circuit Analysis, Amplifiers",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Unsupervised Learning, Keras, Azure Machine Learning, Underfitting, Jupyter Notebook, AWS Sagemaker, Seaborn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Unsupervised Learning, AWS Sagemaker, Jupyter Notebook, Overfitting, Git, CNNs, RNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Waveguides, Problem Solving, C++, FPGA, Embedded Systems, Noise Analysis",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Electronic Devices, Modulation, VHDL, Node.js, ASIC Design, Unit Testing, Laplace Transform",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Model Evaluation, Unsupervised Learning, Data Preprocessing, Statistical Analysis",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Microcontrollers, Test-Driven Development (TDD), OSI Model, Noise Analysis, C++, Transistors (BJT, MOSFET), Transmission Lines",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Troubleshooting, Database Design, RESTful APIs, C++, Power Electronics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Supervised Learning, EDA, Git, Classification, AWS Sagemaker, Numpy",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CMOS, Security, Laplace Transform, Cadence Virtuoso, Signals and Systems",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Git, SQL, Machine Learning, Cross-validation, Classification",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Test-Driven Development (TDD), Feedback Systems, High Availability, Messaging Queues, Scalability, OSI Model, Cadence Virtuoso, VLSI Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Supervised Learning, Python, TensorFlow, Feature Engineering, AWS Sagemaker, Regression, Scikit-learn, Classification",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Pandas, SQL, Git, Matplotlib, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CNNs, Numpy, Neural Networks, Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS Sagemaker, Deep Learning, Cross-validation, Natural Language Processing (NLP), Unsupervised Learning, PyTorch, Data Cleaning, Data Preprocessing",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Filters, Performance Optimization, Lambda, CI/CD, Control System Design, OSI Model, Circuit Analysis",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Structures, Troubleshooting, Fourier Transform, Digital Signal Processing (DSP), Security, Electronic Devices, Circuit Analysis",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Pandas, Regression, Feature Engineering, Supervised Learning, Git, SQL, Keras, Matplotlib",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Keras, Google Cloud AI Platform, Git, Supervised Learning, EDA, TensorFlow, Scikit-learn, Unsupervised Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jupyter Notebook, Keras, Git, Regression, Feature Engineering, SQL",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cross-validation, Data Cleaning, Underfitting, Data Preprocessing, RNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SQL, Cross-validation, Numpy, Google Cloud AI Platform, Deep Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Unsupervised Learning, CNNs, Git, Feature Engineering, Overfitting, SQL",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "JavaScript, Laplace Transform, Electronic Devices, NoSQL, Cloud Computing, VHDL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Signals and Systems, Jira, Bode Plots, VHDL, Algorithms, Kubernetes, Analog Circuits",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Node.js, Jira, Python, Stability, Microcontrollers, Big O Notation",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Multithreading, CI/CD, C++, Analog Circuits, Python",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Test-Driven Development (TDD), VHDL, Transmission Lines, Modulation, Diodes, Messaging Queues, Verilog",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Scikit-learn, Jupyter Notebook, Model Evaluation, Unsupervised Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "DynamoDB, Feedback Systems, Data Structures, Test-Driven Development (TDD), Power Electronics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Waveguides, Communication Systems, Circuit Analysis, Control System Design, Analog Circuits, Unit Testing, Database Design, VHDL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Big O Notation, Python, Instrumentation, AWS, Algorithms",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Neural Networks, Scikit-learn, Pandas, Jupyter Notebook, Statistical Analysis, Overfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Natural Language Processing (NLP), Scikit-learn, Classification, AWS Sagemaker",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Regression, Reinforcement Learning (RL), EDA, Pandas",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Deep Learning, Cross-validation, Pandas, Neural Networks, Seaborn, PyTorch, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CI/CD, Bode Plots, FPGA, VHDL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Scikit-learn, Overfitting, Reinforcement Learning (RL), EDA",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Test-Driven Development (TDD), Embedded Systems, Python, Antenna Theory",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jupyter Notebook, Supervised Learning, SQL, Deep Learning, RNNs, Statistical Analysis, Reinforcement Learning (RL), Seaborn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Jupyter Notebook, Data Cleaning, Natural Language Processing (NLP), Cross-validation, Feature Engineering, Reinforcement Learning (RL)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Matplotlib, Underfitting, Computer Vision, Natural Language Processing (NLP), Deep Learning, Classification",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "RNNs, Underfitting, Overfitting, Regression, TensorFlow",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Numpy, Deep Learning, Computer Vision, Google Cloud AI Platform, Machine Learning, Underfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "VLSI Design, Python, VHDL, NoSQL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Stability, CI/CD, Load Balancing, Database Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Node.js, Fourier Transform, Cadence Virtuoso, OSI Model, Debugging, Circuit Analysis",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Regression, Computer Vision, Seaborn, SQL, Natural Language Processing (NLP), Unsupervised Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Problem Solving, System Design, Database Design, React, Z-Transform",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CNNs, RNNs, Natural Language Processing (NLP), Regression",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Performance Optimization, ASIC Design, SQL, Transistors (BJT, MOSFET), VLSI Design, Agile",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "PyTorch, Statistical Analysis, Scikit-learn, Classification",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Natural Language Processing (NLP), PyTorch, RNNs, Classification, Machine Learning, Neural Networks, Regression",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Feature Engineering, TensorFlow, Underfitting, Google Cloud AI Platform, Cross-validation, Azure Machine Learning, Computer Vision, Deep Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Scikit-learn, RNNs, Jupyter Notebook, Git, Google Cloud AI Platform",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Algorithms, Linux, Diodes, Electronic Devices, CI/CD, DynamoDB, Unit Testing",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Numpy, AWS Sagemaker, Underfitting, Scikit-learn, Cross-validation, Natural Language Processing (NLP), Supervised Learning, Computer Vision",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CI/CD, React, FPGA, Database Design, Diodes, Op-Amps, CMOS, ASIC Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Numpy, Keras, EDA, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jira, Big O Notation, Microprocessors, Filters, Analog Circuits, Fourier Transform",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Algorithms, Digital Electronics, Jira, Logic Gates",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Digital Signal Processing (DSP), Feedback Systems, Mathematics, Laplace Transform, Power Electronics, AWS",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "RNNs, Model Evaluation, Matplotlib, Cross-validation, PyTorch, Reinforcement Learning (RL)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Preprocessing, Model Evaluation, Machine Learning, Unsupervised Learning, Feature Engineering, CNNs, Computer Vision",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Antenna Theory, Verilog, Java, Troubleshooting, Agile, Amplifiers",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jupyter Notebook, EDA, Classification, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Problem Solving, React, FPGA, Python, CMOS, Communication Systems, VLSI Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Embedded Systems, Cadence Virtuoso, Waveguides, Boolean Algebra, Amplifiers, VLSI Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS, Circuit Analysis, Load Balancing, RESTful APIs, Control System Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "EDA, Matplotlib, RNNs, Numpy",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Experience two past task piece. Skilled in classical music, event planning, and stage performance.",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Digital Signal Processing (DSP), CI/CD, Kubernetes, Lambda, Semiconductor Physics, FPGA, Git, Circuit Analysis",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Supervised Learning, Seaborn, Feature Engineering, Google Cloud AI Platform",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Computer Vision, Overfitting, Reinforcement Learning (RL), Data Preprocessing, Cross-validation, Deep Learning, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Modulation, Simulink, RESTful APIs, Git, Transistors (BJT, MOSFET)",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Microcontrollers, SQL, Agile, API Development, Node.js, High Availability, Circuit Analysis",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Structures, RESTful APIs, PostgreSQL, Control Systems",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, EDA, TensorFlow, Python, Unsupervised Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Keras, Numpy, TensorFlow, Statistical Analysis, Model Evaluation, Matplotlib, Overfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, AWS Sagemaker, Cross-validation, Model Evaluation, Matplotlib",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "System Design, Big O Notation, Communication Systems, Circuit Analysis",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS, VLSI Design, Problem Solving, Electronic Devices, SQL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Keras, Statistical Analysis, Data Cleaning, Google Cloud AI Platform, Classification",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "MySQL, Python, Logic Gates, Cloud Computing, CI/CD",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Supervised Learning, Deep Learning, Cross-validation, AWS Sagemaker",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Feedback Systems, Cadence Virtuoso, Problem Solving, API Development",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jupyter Notebook, Data Cleaning, Regression, Overfitting, Reinforcement Learning (RL), AWS Sagemaker, CNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Stability, Kubernetes, MySQL, Power Electronics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SQL, Classification, Pandas, Seaborn, Feature Engineering, PyTorch, Git",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Matplotlib, Jupyter Notebook, Pandas, Reinforcement Learning (RL), EDA, Keras",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Reinforcement Learning (RL), Pandas, AWS Sagemaker, Underfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Antenna Theory, VHDL, Sensors, Data Structures, Op-Amps, Scripting",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Antenna Theory, Performance Optimization, Transistors (BJT, MOSFET), Sensors, Filters, Verilog, API Development",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Transmission Lines, MATLAB, Waveguides, Database Design, Algorithms, Mathematics, Power Electronics, Jira",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Noise Analysis, MySQL, PostgreSQL, Cadence Virtuoso, Waveguides, CI/CD, VLSI Design, Algorithms",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Git, React, Cloud Computing, FPGA",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Jupyter Notebook, EDA, Deep Learning, Cross-validation, Reinforcement Learning (RL), PyTorch, Statistical Analysis",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Kubernetes, ASIC Design, MATLAB, JavaScript, Antenna Theory",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "EDA, Matplotlib, RNNs, Azure Machine Learning, TensorFlow, Cross-validation, Deep Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Model Evaluation, Machine Learning, Classification, Azure Machine Learning, Jupyter Notebook",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Seaborn, Jupyter Notebook, Feature Engineering, Azure Machine Learning, CNNs, Classification, Natural Language Processing (NLP)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "EDA, Machine Learning, TensorFlow, CNNs, Unsupervised Learning, Git, Matplotlib",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Git, Scikit-learn, Data Cleaning, Natural Language Processing (NLP), Unsupervised Learning, Neural Networks, CNNs, Seaborn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Fourier Transform, FPGA, Performance Optimization, Logic Gates, VHDL, Cadence Virtuoso",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Transmission Lines, Semiconductor Physics, System Design, High Availability, Scalability",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Fourier Transform, JavaScript, System Design, Modulation, VLSI Design, Op-Amps",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Computer Vision, CNNs, Matplotlib, SQL, Jupyter Notebook",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Node.js, AWS, Embedded Systems, Boolean Algebra",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Filters, VLSI Design, Waveguides, Power Electronics, Microcontrollers",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Preprocessing, Google Cloud AI Platform, Seaborn, Reinforcement Learning (RL), Keras, Overfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Computer Vision, Pandas, Azure Machine Learning, EDA, Deep Learning, SQL",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Unsupervised Learning, Feature Engineering, Git, Data Cleaning, Deep Learning, Keras, Numpy, Data Preprocessing",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Analog Circuits, Java, Sensors, Modulation, SQL, Amplifiers",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Regression, Cross-validation, Underfitting, Model Evaluation, Neural Networks, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Database Design, Sensors, Docker, Amplifiers, Caching",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Someone bring sense crime serve both phone safe. Worked as a civil engineer using AutoCAD and project management tools.",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Big O Notation, Diodes, Troubleshooting, API Development, Modulation, C++, Power Electronics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "MySQL, JavaScript, Mathematics, Analog Circuits, Digital Electronics, Bode Plots, Load Balancing, DynamoDB",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Amplifiers, SQL, Digital Electronics, ASIC Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cloud Computing, API Development, Multithreading, EC2",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Git, Control System Design, SQL, Data Structures, Z-Transform, Feedback Systems, Lambda, VHDL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Overfitting, CNNs, RNNs, Natural Language Processing (NLP), Machine Learning, Statistical Analysis, Reinforcement Learning (RL)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "RNNs, Regression, Deep Learning, Jupyter Notebook, Cross-validation, SQL, Data Preprocessing",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cadence Virtuoso, ASIC Design, Troubleshooting, Antenna Theory",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CNNs, Unsupervised Learning, Classification, RNNs, Seaborn, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Keras, Scikit-learn, Regression, Statistical Analysis, PyTorch, EDA, Cross-validation, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cross-validation, Classification, Keras, Seaborn, Jupyter Notebook, Unsupervised Learning, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "RESTful APIs, MySQL, Multithreading, Circuit Analysis, FPGA, Boolean Algebra, Amplifiers",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Networking, NoSQL, Transistors (BJT, MOSFET), RESTful APIs, Cadence Virtuoso",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "JavaScript, Boolean Algebra, MATLAB, Database Design, Java",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Machine Learning, PyTorch, Azure Machine Learning, Model Evaluation, Regression, RNNs, AWS Sagemaker, Numpy",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Computer Vision, Underfitting, Regression, Feature Engineering, Overfitting, Azure Machine Learning, Classification, Data Preprocessing",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Regression, Deep Learning, Data Cleaning, Google Cloud AI Platform, PyTorch, Overfitting, Natural Language Processing (NLP), Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Feature Engineering, Data Preprocessing, Supervised Learning, Deep Learning, EDA, RNNs, Git",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Seaborn, Scikit-learn, TensorFlow, Statistical Analysis, Cross-validation, SQL, Feature Engineering, Computer Vision",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "RESTful APIs, Signals and Systems, Test-Driven Development (TDD), Verilog",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Neural Networks, Overfitting, Google Cloud AI Platform, Classification, Supervised Learning, Machine Learning, Cross-validation",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Structures, Modulation, MySQL, High Availability",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS Sagemaker, PyTorch, Jupyter Notebook, Computer Vision",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Git, PyTorch, Overfitting, EDA, Data Preprocessing",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Jupyter Notebook, Regression, EDA",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Overfitting, SQL, Numpy, Supervised Learning, AWS Sagemaker, Machine Learning, CNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Sensors, Problem Solving, Algorithms, Antenna Theory, System Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cross-validation, Statistical Analysis, Unsupervised Learning, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CI/CD, Agile, Caching, Messaging Queues",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Embedded Systems, Test-Driven Development (TDD), Modulation, Bode Plots",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "EDA, Azure Machine Learning, Overfitting, Statistical Analysis",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Deep Learning, PyTorch, Git, Scikit-learn, Pandas",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Security, Microprocessors, SPICE, Scalability, Verilog, Caching, Fourier Transform, Circuit Analysis",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Semiconductor Physics, Circuit Analysis, PostgreSQL, Scripting, Modulation, Noise Analysis, Caching",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Python, Algorithms, Docker, VLSI Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Unsupervised Learning, Deep Learning, Keras, RNNs, CNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cross-validation, Classification, Jupyter Notebook, Numpy, Data Cleaning, PyTorch, Deep Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Transmission Lines, Modulation, Scalability, Instrumentation, Mathematics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "OSI Model, Load Balancing, Z-Transform, SQL, Problem Solving",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Instrumentation, Troubleshooting, Feedback Systems, Analog Circuits, Embedded Systems",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Electronic Devices, Cadence Virtuoso, Docker, Problem Solving",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Machine Learning, Azure Machine Learning, AWS Sagemaker, Feature Engineering, TensorFlow, Data Preprocessing, Underfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cloud Computing, Laplace Transform, OSI Model, Node.js, Scripting, Database Design, Digital Electronics, Boolean Algebra",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "EDA, Matplotlib, Statistical Analysis, Neural Networks, Classification, Underfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Feedback Systems, Stability, Multithreading, Big O Notation",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Logic Gates, Linux, Caching, CMOS, Fourier Transform, Mathematics, Networking, Diodes",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Digital Signal Processing (DSP), System Design, Kubernetes, SPICE",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "TensorFlow, CNNs, Statistical Analysis, RNNs, Regression",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Stability, Verilog, Jira, Diodes, Waveguides",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Git, PyTorch, Keras, Deep Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Git, Z-Transform, Performance Optimization, Digital Signal Processing (DSP), Debugging, Troubleshooting, Simulink, Stability",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS, NoSQL, Messaging Queues, Cadence Virtuoso, Antenna Theory, Performance Optimization, Unit Testing",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "EC2, FPGA, Control Systems, Debugging, MATLAB, Antenna Theory, Fourier Transform",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Matplotlib, Statistical Analysis, SQL, Classification, Feature Engineering, Data Cleaning, AWS Sagemaker",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Unsupervised Learning, AWS Sagemaker, Natural Language Processing (NLP), Scikit-learn, Jupyter Notebook, Reinforcement Learning (RL), Matplotlib, Overfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Z-Transform, CMOS, Semiconductor Physics, PostgreSQL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Big O Notation, C++, Laplace Transform, Embedded Systems, Load Balancing, Java, Microcontrollers, Git",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "TensorFlow, Jupyter Notebook, Data Cleaning, Unsupervised Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "VLSI Design, Semiconductor Physics, Scripting, Fourier Transform, Control Systems, NoSQL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Verilog, Messaging Queues, VHDL, Boolean Algebra, Debugging, Stability, Java",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "TensorFlow, Pandas, Classification, Overfitting, Git",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Python, Computer Vision, Machine Learning, Pandas, Feature Engineering, Seaborn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Laplace Transform, Semiconductor Physics, Microprocessors, Agile, Networking",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Preprocessing, Statistical Analysis, Seaborn, Reinforcement Learning (RL), Google Cloud AI Platform, Machine Learning, Numpy, EDA",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Transistors (BJT, MOSFET), MATLAB, Boolean Algebra, Antenna Theory, C++",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Analog Circuits, Scalability, VHDL, Docker, Kubernetes, SPICE",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Keras, TensorFlow, CNNs, Classification, PyTorch, EDA, Seaborn, Natural Language Processing (NLP)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "C++, Microcontrollers, Data Structures, Lambda, High Availability, Power Electronics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Kubernetes, Networking, Concurrency, VHDL, Jira, Test-Driven Development (TDD), Control System Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Scikit-learn, Statistical Analysis, Reinforcement Learning (RL), Computer Vision, TensorFlow",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "PyTorch, EDA, Git, Underfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Computer Vision, Numpy, Jupyter Notebook, Feature Engineering, Statistical Analysis, Deep Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Performance Optimization, Bode Plots, C++, Python, CI/CD, MySQL, Load Balancing, Feedback Systems",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Signals and Systems, Instrumentation, ASIC Design, Op-Amps",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "ASIC Design, FPGA, Cadence Virtuoso, Agile, OSI Model",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Machine Learning, Jupyter Notebook, Git, Reinforcement Learning (RL), Feature Engineering, Data Cleaning, Pandas, Keras",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Git, ASIC Design, Test-Driven Development (TDD), Communication Systems, Transmission Lines",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Natural Language Processing (NLP), Neural Networks, Matplotlib, RNNs, Model Evaluation, Underfitting, Data Preprocessing",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Keras, Git, RNNs, PyTorch, Unsupervised Learning, Reinforcement Learning (RL)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Natural Language Processing (NLP), Regression, Seaborn, Computer Vision",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Antenna Theory, Circuit Analysis, Stability, Concurrency, Messaging Queues, Semiconductor Physics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Concurrency, Analog Circuits, DynamoDB, Noise Analysis, Messaging Queues, Node.js",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Diodes, Feedback Systems, Troubleshooting, NoSQL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CMOS, Docker, Linux, Modulation, MySQL, Signals and Systems, Boolean Algebra",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Diodes, Performance Optimization, Algorithms, Lambda, Troubleshooting",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Neural Networks, Overfitting, Azure Machine Learning, Reinforcement Learning (RL), Git, Underfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Antenna Theory, CMOS, PostgreSQL, Concurrency, C++, Big O Notation, System Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Digital Signal Processing (DSP), Scripting, Java, Instrumentation, Control Systems",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Pandas, Seaborn, Model Evaluation, Python",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Model Evaluation, EDA, Google Cloud AI Platform, Classification",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Overfitting, Deep Learning, Supervised Learning, TensorFlow, Model Evaluation, Matplotlib, Reinforcement Learning (RL), Underfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Feature Engineering, Statistical Analysis, Unsupervised Learning, Pandas, AWS Sagemaker",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Keras, Underfitting, Numpy, Seaborn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Transmission Lines, Digital Electronics, Agile, CMOS, SQL, Multithreading",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Logic Gates, Performance Optimization, Filters, Xilinx ISE/Vivado, Lambda",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Machine Learning, Unsupervised Learning, Git, Cross-validation, Data Cleaning, Model Evaluation, Data Preprocessing, Azure Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Regression, Python, Cross-validation, RNNs, Keras",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Preprocessing, Deep Learning, Data Cleaning, Neural Networks, Supervised Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Neural Networks, Azure Machine Learning, Data Preprocessing, Model Evaluation, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Git, Verilog, S3, Caching, Power Electronics, Simulink, Amplifiers",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Filters, Python, Mathematics, S3, NoSQL, Security",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Z-Transform, React, Electronic Devices, High Availability, Control System Design, Instrumentation, FPGA, Algorithms",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Node.js, Unit Testing, PostgreSQL, Scalability, DynamoDB",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Antenna Theory, Signals and Systems, Multithreading, API Development, VLSI Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "TensorFlow, Seaborn, Scikit-learn, AWS Sagemaker, Model Evaluation, Reinforcement Learning (RL), PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Control System Design, Simulink, Op-Amps, DynamoDB, Laplace Transform, Noise Analysis, Communication Systems",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Azure Machine Learning, Classification, Deep Learning, Reinforcement Learning (RL), RNNs, Numpy, Seaborn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "NoSQL, Simulink, Microprocessors, API Development, Concurrency, ASIC Design, Docker",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Supervised Learning, Azure Machine Learning, Feature Engineering, Git, Computer Vision",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Modulation, Z-Transform, ASIC Design, Digital Signal Processing (DSP), MATLAB",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Deep Learning, RNNs, Machine Learning, Unsupervised Learning, TensorFlow, PyTorch, Overfitting, Numpy",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Neural Networks, Numpy, Underfitting, Deep Learning, Azure Machine Learning, Statistical Analysis, TensorFlow, Unsupervised Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "EDA, Regression, Overfitting, SQL, Google Cloud AI Platform, Natural Language Processing (NLP), Computer Vision, Jupyter Notebook",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Transistors (BJT, MOSFET), Test-Driven Development (TDD), Bode Plots, Security",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Regression, Statistical Analysis, Keras, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Microprocessors, Filters, Multithreading, Electronic Devices, FPGA, Control System Design, S3, MySQL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Embedded Systems, Debugging, Docker, RESTful APIs, Diodes, Cadence Virtuoso, Fourier Transform",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Classification, Underfitting, Feature Engineering, SQL, Data Cleaning, Git, Neural Networks, Keras",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "PostgreSQL, Cadence Virtuoso, Circuit Analysis, Instrumentation, Control Systems, Embedded Systems, Noise Analysis, Algorithms",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Amplifiers, Debugging, Big O Notation, Problem Solving, Security, Kubernetes, CI/CD",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SQL, Underfitting, EDA, Seaborn, Data Cleaning, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Reinforcement Learning (RL), Matplotlib, Git, Seaborn, Keras",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SPICE, API Development, React, Docker, Problem Solving, Lambda",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Networking, Git, Control Systems, Power Electronics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "S3, Sensors, Test-Driven Development (TDD), Java",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Digital Electronics, Test-Driven Development (TDD), Messaging Queues, Semiconductor Physics, Microprocessors",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "MATLAB, Circuit Analysis, Docker, Caching",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jira, Unit Testing, Noise Analysis, Analog Circuits",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Op-Amps, Scalability, PostgreSQL, Troubleshooting, CMOS",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Statistical Analysis, Numpy, Underfitting, Data Preprocessing, Pandas, CNNs, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Git, Neural Networks, Regression, EDA, CNNs, AWS Sagemaker, SQL, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Z-Transform, Messaging Queues, Scalability, Waveguides",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Seaborn, Git, Underfitting, Machine Learning, Azure Machine Learning, Unsupervised Learning, Data Cleaning, Reinforcement Learning (RL)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Instrumentation, Control System Design, High Availability, Communication Systems, Simulink, Circuit Analysis, Analog Circuits, ASIC Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Politics very crime face. Teacher of English literature, creative writing, and poetry analysis.",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "TensorFlow, SQL, Cross-validation, Supervised Learning, Google Cloud AI Platform, PyTorch, Unsupervised Learning, Computer Vision",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Pandas, Scikit-learn, Underfitting, PyTorch, Model Evaluation, Python, Data Preprocessing",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Statistical Analysis, Cross-validation, Underfitting, Reinforcement Learning (RL), PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "JavaScript, ASIC Design, Scripting, Cloud Computing, Microprocessors, Debugging",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "RESTful APIs, Instrumentation, Semiconductor Physics, Scalability, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Sensors, Linux, Semiconductor Physics, FPGA",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Multithreading, Digital Signal Processing (DSP), Power Electronics, DynamoDB, Electronic Devices, Waveguides, Fourier Transform",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Python, Classification, Statistical Analysis, SQL, Neural Networks",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Unsupervised Learning, Feature Engineering, Model Evaluation, Classification",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Scikit-learn, PyTorch, Feature Engineering, RNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Regression, Model Evaluation, SQL, Matplotlib, Data Cleaning, AWS Sagemaker, Deep Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jupyter Notebook, Python, Data Cleaning, Machine Learning, Feature Engineering, Data Preprocessing",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Machine Learning, EDA, Model Evaluation, Computer Vision",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Unsupervised Learning, Azure Machine Learning, RNNs, Numpy, Reinforcement Learning (RL), Scikit-learn, Regression",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Git, Concurrency, Kubernetes, Boolean Algebra, Test-Driven Development (TDD)",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Pandas, Deep Learning, Data Cleaning, AWS Sagemaker, RNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Keras, Cross-validation, Deep Learning, Model Evaluation, Pandas, SQL",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Reinforcement Learning (RL), Underfitting, Jupyter Notebook, Cross-validation, Machine Learning, Deep Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jupyter Notebook, Data Cleaning, Scikit-learn, Deep Learning, SQL, Overfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Diodes, Boolean Algebra, Security, Algorithms, Java, Jira",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Natural Language Processing (NLP), Underfitting, Scikit-learn, TensorFlow",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Power Electronics, Data Structures, Modulation, Multithreading, Microprocessors",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jupyter Notebook, AWS Sagemaker, Reinforcement Learning (RL), SQL, Classification",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Git, Model Evaluation, Scikit-learn, Numpy, Matplotlib",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Unit Testing, Problem Solving, Noise Analysis, Kubernetes, Boolean Algebra, Laplace Transform",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Regression, Reinforcement Learning (RL), PyTorch, Keras, Statistical Analysis, Underfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Verilog, Control System Design, VLSI Design, Git, Multithreading, Bode Plots",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Big O Notation, Unit Testing, VHDL, Bode Plots, Algorithms, Transmission Lines",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Analog Circuits, Cloud Computing, Embedded Systems, Power Electronics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Matplotlib, Numpy, Pandas, Cross-validation",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Big O Notation, SPICE, Z-Transform, Test-Driven Development (TDD), Antenna Theory, Logic Gates, Messaging Queues",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "S3, Xilinx ISE/Vivado, Mathematics, Laplace Transform, System Design, Concurrency, Troubleshooting, Control Systems",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Supervised Learning, SQL, RNNs, Classification, Matplotlib, Seaborn, EDA, Jupyter Notebook",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CNNs, Classification, Statistical Analysis, TensorFlow, Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Scikit-learn, Keras, Jupyter Notebook, Underfitting, Numpy, Supervised Learning, Classification",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Filters, Data Structures, Test-Driven Development (TDD), Xilinx ISE/Vivado, SPICE, Control Systems",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "FPGA, Agile, ASIC Design, Circuit Analysis, JavaScript, Analog Circuits, API Development, CI/CD",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Op-Amps, Unit Testing, Performance Optimization, Sensors",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "RNNs, Google Cloud AI Platform, Keras, AWS Sagemaker, Pandas",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "MATLAB, Debugging, Noise Analysis, Microcontrollers, Op-Amps",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS, Fourier Transform, Python, System Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "DynamoDB, Power Electronics, Embedded Systems, Docker, EC2, Linux",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CMOS, Sensors, Debugging, Circuit Analysis, Database Design, Messaging Queues, Filters",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Microcontrollers, Networking, Feedback Systems, Embedded Systems, Agile, Logic Gates",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Because hand result. Teacher of English literature, creative writing, and poetry analysis.",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Communication Systems, Modulation, Node.js, Digital Signal Processing (DSP), Scalability, Transmission Lines, Debugging, Xilinx ISE/Vivado",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Agile, Data Structures, Transmission Lines, Analog Circuits, Transistors (BJT, MOSFET), Verilog",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Logic Gates, Boolean Algebra, Sensors, ASIC Design, High Availability",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SQL, Statistical Analysis, AWS Sagemaker, RNNs, Natural Language Processing (NLP), Keras, Overfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Neural Networks, Overfitting, Machine Learning, Underfitting, Reinforcement Learning (RL), Natural Language Processing (NLP)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "RNNs, Regression, Reinforcement Learning (RL), Model Evaluation, Scikit-learn, Azure Machine Learning, Cross-validation, Jupyter Notebook",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Google Cloud AI Platform, Overfitting, Unsupervised Learning, Data Preprocessing, Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Neural Networks, Keras, Deep Learning, Numpy, SQL, Supervised Learning, TensorFlow",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Filters, CI/CD, Concurrency, Git, Cloud Computing, Big O Notation",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Google Cloud AI Platform, Numpy, Data Cleaning, Scikit-learn, Python",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Lambda, Diodes, Antenna Theory, Bode Plots, Data Structures, Linux, Verilog, ASIC Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jupyter Notebook, Deep Learning, Keras, EDA, Azure Machine Learning, Google Cloud AI Platform",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Cleaning, Underfitting, Feature Engineering, Seaborn, Scikit-learn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Google Cloud AI Platform, Python, Feature Engineering, Supervised Learning, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Stability, RESTful APIs, Kubernetes, Op-Amps, Waveguides",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Neural Networks, Model Evaluation, Data Preprocessing, Cross-validation, Natural Language Processing (NLP), Statistical Analysis, Underfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Google Cloud AI Platform, SQL, Statistical Analysis, Underfitting, TensorFlow, Natural Language Processing (NLP), Classification, Reinforcement Learning (RL)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jupyter Notebook, Deep Learning, Regression, Keras, Cross-validation, Data Cleaning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Numpy, Git, Feature Engineering, Scikit-learn, Statistical Analysis, Azure Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Fourier Transform, Feedback Systems, Scripting, Docker, Circuit Analysis, Node.js, Troubleshooting",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Few into suffer human need. Basic MS Office, no programming experience, interested in sales.",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Azure Machine Learning, SQL, EDA, Regression, AWS Sagemaker",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Natural Language Processing (NLP), Cross-validation, Jupyter Notebook, RNNs, Model Evaluation, Deep Learning, Matplotlib",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Natural Language Processing (NLP), CNNs, Neural Networks, AWS Sagemaker, Machine Learning, Regression",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SQL, RNNs, Overfitting, Machine Learning, Model Evaluation, Classification",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Regression, RNNs, Reinforcement Learning (RL), Google Cloud AI Platform, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Neural Networks, Feature Engineering, AWS Sagemaker, Git, Unsupervised Learning, Classification, Python",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Verilog, VLSI Design, Test-Driven Development (TDD), S3, Op-Amps, RESTful APIs",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Sensors, Fourier Transform, Noise Analysis, Concurrency, Microcontrollers",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Control Systems, EC2, Diodes, Kubernetes",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Control System Design, Laplace Transform, Java, Mathematics, SQL, DynamoDB, Simulink",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Natural Language Processing (NLP), Underfitting, TensorFlow, Classification, SQL, Neural Networks, Google Cloud AI Platform, Data Cleaning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Model Evaluation, Supervised Learning, Feature Engineering, Numpy, Machine Learning, PyTorch, Seaborn, Neural Networks",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Caching, Cadence Virtuoso, Python, Scripting, Test-Driven Development (TDD)",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Xilinx ISE/Vivado, Digital Signal Processing (DSP), Waveguides, Scripting, Semiconductor Physics, Database Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Logic Gates, Control Systems, Troubleshooting, DynamoDB, Simulink",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "NoSQL, Diodes, Z-Transform, Verilog, VHDL, ASIC Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Numpy, Deep Learning, PyTorch, Data Preprocessing, Python, TensorFlow, Pandas, Underfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Seaborn, Neural Networks, Deep Learning, CNNs, Data Preprocessing",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Regression, Data Preprocessing, Matplotlib, RNNs, Keras",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Unsupervised Learning, SQL, Statistical Analysis, Seaborn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Azure Machine Learning, Scikit-learn, Keras, Regression, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Reinforcement Learning (RL), Data Preprocessing, Machine Learning, Classification, Computer Vision, Deep Learning, Matplotlib, Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Unsupervised Learning, CNNs, Neural Networks, Azure Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Cleaning, Google Cloud AI Platform, Seaborn, Scikit-learn, Neural Networks, Azure Machine Learning, Cross-validation, Keras",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cross-validation, Pandas, Classification, Model Evaluation, Azure Machine Learning, Matplotlib, AWS Sagemaker, Seaborn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CMOS, Filters, Microcontrollers, MATLAB, VHDL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Analog Circuits, CMOS, High Availability, Antenna Theory, Agile, React",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Data Structures, Test-Driven Development (TDD), Bode Plots, MATLAB",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "EDA, Reinforcement Learning (RL), Pandas, Keras, Git, Deep Learning, Natural Language Processing (NLP)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Deep Learning, Seaborn, Model Evaluation, Scikit-learn, Matplotlib, Feature Engineering, Keras",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cross-validation, Seaborn, Regression, Machine Learning, CNNs, Underfitting, Matplotlib",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Natural Language Processing (NLP), AWS Sagemaker, Git, Seaborn, Scikit-learn, Matplotlib, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Verilog, Node.js, Problem Solving, Kubernetes, Git, Unit Testing",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "RNNs, Unsupervised Learning, Data Cleaning, PyTorch",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Python, Deep Learning, RNNs, Google Cloud AI Platform",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Reinforcement Learning (RL), Scikit-learn, Git, Deep Learning, Pandas, Computer Vision, Jupyter Notebook",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Machine Learning, TensorFlow, Matplotlib, Statistical Analysis, Google Cloud AI Platform, Classification, Neural Networks",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Troubleshooting, MySQL, Algorithms, VHDL, CMOS, Debugging, Analog Circuits, System Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Node.js, Antenna Theory, JavaScript, Z-Transform, Multithreading, Docker, Transistors (BJT, MOSFET)",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Overfitting, Google Cloud AI Platform, Python, Scikit-learn, RNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Google Cloud AI Platform, Matplotlib, Machine Learning, Data Cleaning, Keras, Deep Learning, Model Evaluation",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Scikit-learn, Python, TensorFlow, Google Cloud AI Platform, Deep Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Machine Learning, SQL, AWS Sagemaker, Overfitting, Neural Networks, Regression",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Modulation, Control Systems, MATLAB, Debugging",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "PyTorch, Data Preprocessing, TensorFlow, Neural Networks, Deep Learning, RNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Lambda, EC2, Messaging Queues, PostgreSQL, React, C++",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Neural Networks, Data Cleaning, Scikit-learn, PyTorch, Statistical Analysis",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Supervised Learning, Underfitting, Neural Networks, Matplotlib, Git, CNNs, Keras, Statistical Analysis",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Lambda, Test-Driven Development (TDD), Control System Design, Simulink, Linux",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Python, Control Systems, Transistors (BJT, MOSFET), JavaScript",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "EC2, Git, Instrumentation, Jira, Node.js, Linux, Unit Testing, System Design",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Big O Notation, SQL, VLSI Design, Feedback Systems",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Seaborn, PyTorch, TensorFlow, Google Cloud AI Platform, Feature Engineering, Statistical Analysis, Scikit-learn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Database Design, Load Balancing, Diodes, Mathematics, Digital Signal Processing (DSP)",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Machine Learning, Supervised Learning, Regression, Cross-validation, Statistical Analysis, Numpy",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Docker, Xilinx ISE/Vivado, Modulation, Java, Microcontrollers, Digital Electronics, EC2, CMOS",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "EC2, Algorithms, Op-Amps, SPICE",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "RNNs, CNNs, Overfitting, SQL, TensorFlow, Natural Language Processing (NLP), Seaborn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Python, Scikit-learn, Overfitting, Underfitting, Data Preprocessing",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Digital Electronics, Signals and Systems, Algorithms, Cadence Virtuoso, MATLAB, Lambda",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Python, Scikit-learn, Overfitting, Natural Language Processing (NLP), Jupyter Notebook, Model Evaluation, SQL",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Matplotlib, AWS Sagemaker, Overfitting, RNNs, Numpy, Pandas, Underfitting, EDA",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Bode Plots, Performance Optimization, Lambda, Instrumentation, Cadence Virtuoso, Test-Driven Development (TDD), API Development",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "ASIC Design, MySQL, Security, Fourier Transform, Xilinx ISE/Vivado",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Machine Learning, Seaborn, Numpy, Unsupervised Learning, Azure Machine Learning, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cross-validation, Statistical Analysis, Computer Vision, Underfitting, Keras, Data Preprocessing, PyTorch, Feature Engineering",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Docker, S3, Database Design, Digital Electronics, Test-Driven Development (TDD), Power Electronics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Node.js, Power Electronics, Circuit Analysis, Unit Testing, Docker, Sensors, Test-Driven Development (TDD), Microprocessors",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cross-validation, TensorFlow, PyTorch, Python",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Stability, VHDL, Bode Plots, Troubleshooting",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Transmission Lines, Modulation, Data Structures, ASIC Design, Instrumentation",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "SPICE, Verilog, Simulink, Transmission Lines, Data Structures, SQL, AWS",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Keras, Computer Vision, Seaborn, Matplotlib",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Digital Electronics, Messaging Queues, Microprocessors, Bode Plots, Problem Solving, VHDL, OSI Model, Cadence Virtuoso",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CNNs, Git, Neural Networks, Reinforcement Learning (RL), Overfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Reinforcement Learning (RL), Underfitting, Python, Git, Pandas",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "PyTorch, Jupyter Notebook, Azure Machine Learning, EDA, Matplotlib",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Model Evaluation, EDA, Deep Learning, Matplotlib, Git, Python, Cross-validation",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Feedback Systems, Electronic Devices, Op-Amps, Problem Solving, Xilinx ISE/Vivado",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Model Evaluation, Google Cloud AI Platform, Reinforcement Learning (RL), Azure Machine Learning, Seaborn",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "PostgreSQL, Performance Optimization, Jira, Fourier Transform, Communication Systems, Instrumentation",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "C++, Digital Signal Processing (DSP), Security, Data Structures, Transistors (BJT, MOSFET), EC2, Feedback Systems, Filters",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cross-validation, Model Evaluation, Statistical Analysis, Git, Data Preprocessing, Numpy, Deep Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Jupyter Notebook, Deep Learning, AWS Sagemaker, Reinforcement Learning (RL), PyTorch, Data Cleaning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Networking, Amplifiers, Sensors, API Development, Scalability, Debugging, Xilinx ISE/Vivado",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Microprocessors, Problem Solving, AWS, Simulink, Electronic Devices, Transistors (BJT, MOSFET)",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "RNNs, Jupyter Notebook, Numpy, Matplotlib, Regression, Google Cloud AI Platform, Feature Engineering, Computer Vision",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Keras, Classification, Overfitting, Regression, AWS Sagemaker",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Algorithms, Debugging, PostgreSQL, Mathematics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Natural Language Processing (NLP), Python, Deep Learning, EDA, Unsupervised Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Z-Transform, Scalability, API Development, Docker, Logic Gates, Antenna Theory, Analog Circuits, Electronic Devices",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "PyTorch, SQL, CNNs, Cross-validation, Google Cloud AI Platform",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Seaborn, SQL, Underfitting, Data Preprocessing, Overfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "EC2, S3, Git, Node.js, Problem Solving, Communication Systems, Boolean Algebra, JavaScript",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "TensorFlow, Data Preprocessing, Unsupervised Learning, Neural Networks, Supervised Learning, PyTorch, Numpy, Natural Language Processing (NLP)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Kubernetes, CMOS, ASIC Design, Troubleshooting, Networking, VHDL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "MATLAB, Control Systems, CI/CD, Concurrency, Security, Power Electronics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Signals and Systems, Verilog, Control Systems, MATLAB, Amplifiers, Feedback Systems, Unit Testing",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Machine Learning, SQL, Pandas, TensorFlow, PyTorch, Seaborn, Azure Machine Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Underfitting, Keras, Supervised Learning, Scikit-learn, Machine Learning, EDA",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Supervised Learning, Pandas, Classification, Cross-validation, RNNs, Unsupervised Learning, Overfitting, Git",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Messaging Queues, EC2, Networking, MySQL, MATLAB, Security, Xilinx ISE/Vivado",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Fourier Transform, Instrumentation, Performance Optimization, React, Test-Driven Development (TDD), VHDL, MATLAB, NoSQL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS, VHDL, Multithreading, Networking, Troubleshooting",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Verilog, Scripting, Scalability, Big O Notation, Stability",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Semiconductor Physics, Security, Messaging Queues, C++, Filters, Verilog, Problem Solving",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "DynamoDB, Python, Jira, Op-Amps",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Networking, Noise Analysis, Transistors (BJT, MOSFET), Big O Notation, Kubernetes, Circuit Analysis, Lambda",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Regression, SQL, Unsupervised Learning, Pandas",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "CI/CD, Semiconductor Physics, Waveguides, Networking, PostgreSQL, Agile, Control Systems, Boolean Algebra",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Security, Scalability, Electronic Devices, Diodes",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Lambda, VLSI Design, Fourier Transform, Security",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Transistors (BJT, MOSFET), Debugging, Cloud Computing, Linux, Load Balancing",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Regression, CNNs, Classification, Data Preprocessing",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Stability, Feedback Systems, Database Design, Electronic Devices",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Verilog, Lambda, Linux, Caching, Sensors, Embedded Systems, PostgreSQL, Digital Electronics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Machine Learning, Deep Learning, Cross-validation, Feature Engineering, Python",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Boolean Algebra, SQL, Sensors, VHDL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Docker, Control System Design, Node.js, Microcontrollers, Communication Systems, Concurrency, NoSQL, Jira",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Signals and Systems, Big O Notation, Modulation, VHDL, Digital Electronics, SQL",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Big O Notation, Mathematics, Diodes, Boolean Algebra, AWS, Sensors, SPICE",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Regression, Classification, Reinforcement Learning (RL), Python",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Supervised Learning, Regression, Unsupervised Learning, Computer Vision, Numpy, Data Cleaning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Circuit Analysis, Transistors (BJT, MOSFET), Database Design, Communication Systems, Concurrency",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "High Availability, Signals and Systems, Microcontrollers, Transistors (BJT, MOSFET)",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "PostgreSQL, Z-Transform, JavaScript, OSI Model, Scalability, Python",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "MySQL, Op-Amps, FPGA, Debugging, Antenna Theory, MATLAB, Instrumentation",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS Sagemaker, SQL, Seaborn, Regression, Pandas, Reinforcement Learning (RL)",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Git, CMOS, Signals and Systems, Concurrency, S3, Digital Electronics",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "TensorFlow, PyTorch, Unsupervised Learning, Jupyter Notebook, SQL",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Unsupervised Learning, Feature Engineering, Python, PyTorch, Azure Machine Learning, Machine Learning, Numpy",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Google Cloud AI Platform, TensorFlow, Classification, RNNs, Git, Data Cleaning, Deep Learning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Mathematics, Embedded Systems, PostgreSQL, Node.js",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Node.js, Logic Gates, Performance Optimization, Mathematics, Modulation, Concurrency, Multithreading, Big O Notation",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Logic Gates, Python, Laplace Transform, Performance Optimization, Instrumentation, Communication Systems, OSI Model, Node.js",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Scripting, RESTful APIs, Fourier Transform, Performance Optimization, Electronic Devices, Debugging, Sensors",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "JavaScript, Waveguides, Feedback Systems, Power Electronics, DynamoDB, Xilinx ISE/Vivado, Communication Systems, React",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Digital Electronics, Data Structures, VLSI Design, CI/CD, RESTful APIs, Stability",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Matplotlib, Computer Vision, TensorFlow, Regression, Statistical Analysis, Azure Machine Learning, Model Evaluation, EDA",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Supervised Learning, Numpy, AWS Sagemaker, Data Cleaning",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cadence Virtuoso, Microcontrollers, Messaging Queues, SPICE, Agile, PostgreSQL, Xilinx ISE/Vivado, Noise Analysis",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Lambda, Stability, Instrumentation, EC2, Logic Gates, SPICE, VLSI Design, FPGA",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "AWS Sagemaker, Cross-validation, Seaborn, Neural Networks, TensorFlow, Data Cleaning, Underfitting, RNNs",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Cross-validation, Git, CNNs, Data Preprocessing, Keras, Python, Overfitting",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Undergraduate student in Computer Science at MIT with a 3.8 GPA. Completed a capstone project on sentiment analysis using Python and scikit-learn. Interned at a startup as a data science intern, developing predictive models. Proficient in Python, R, and TensorFlow.",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Recent graduate with a Master's in Data Science from Stanford University. Thesis focused on deep learning for natural language processing. Experienced with AWS for ML model deployment. Strong background in statistics and probability.",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Computer Engineering student at UC Berkeley with experience in building recommendation systems using collaborative filtering. Worked on a computer vision research project using PyTorch. Participated in hackathons, winning awards for ML projects.",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Mathematics student at Harvard University, self-taught in Python and machine learning. Developed a predictive model for stock prices using time series analysis. Eager to apply theoretical knowledge in a practical ML setting.",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Software Engineering student at Carnegie Mellon University with a focus on AI. Interned at a tech company, contributing to an ML-based anomaly detection system. Skilled in Java, Python, and AWS cloud computing.",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Electrical Engineering student at Caltech with a minor in Computer Science. Worked on a reinforcement learning project for robotics. Proficient in C++, Python, and MATLAB, with experience in data visualization.",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Bioinformatics student at University of Toronto, applying machine learning to genomic data. Developed models for disease prediction using supervised learning. Strong foundation in biology and data analysis.",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Physics student at Oxford University with a passion for data science. Completed a summer internship at a research lab, using machine learning to analyze experimental data. Skilled in Python, NumPy, and Pandas.",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Statistics major at University of Chicago with coursework in machine learning and data mining. Led a team project on customer segmentation using clustering algorithms. Experienced with R and SQL.",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Computer Science student at ETH Zurich with a focus on AI. Participated in a project on generative adversarial networks (GANs). Proficient in Python, TensorFlow, and deep learning frameworks.",
+    "label": 1
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Marketing major with experience in digital advertising and social media management. Skilled in SEO and content strategy. No background in programming or data science.",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "High school teacher with 10 years of experience in mathematics and science education. Strong in curriculum development and student assessment. No technical skills or programming experience.",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Finance professional with expertise in investment banking and financial modeling. Proficient in Excel and financial analysis. No experience with machine learning or data science.",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Nursing graduate with clinical experience in patient care and medical procedures. Strong interpersonal and communication skills. No technical background or programming knowledge.",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Law student with interests in intellectual property and corporate law. Experienced in legal research and writing. No skills in data analysis or machine learning.",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Graphic designer with proficiency in Adobe Creative Suite. Experienced in branding and UI/UX design. No programming or data science experience.",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Accountant with expertise in taxation and financial reporting. Certified Public Accountant (CPA). No technical skills relevant to machine learning.",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Human Resources specialist with experience in recruitment and employee relations. Skilled in organizational development. No background in technology or data science.",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Journalism student with experience in writing and editing for online publications. Basic knowledge of HTML and CSS. No machine learning or data analysis skills.",
+    "label": 0
+  },
+  {
+    "goal": "ML Internship",
+    "resume_text": "Mechanical engineering student with experience in CAD software and product design. Familiar with simulation tools like ANSYS. No programming or ML experience.",
+    "label": 0
+  }
+]

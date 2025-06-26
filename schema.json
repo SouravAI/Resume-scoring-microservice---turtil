@@ -1,0 +1,83 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Resume Scoring API Schema",
+  "description": "JSON schema for the Resume Scoring Service API endpoints",
+  "type": "object",
+  "properties": {
+    "score_request": {
+      "type": "object",
+      "description": "Request schema for the /score endpoint",
+      "required": ["student_id", "goal", "resume_text"],
+      "properties": {
+        "student_id": {
+          "type": "string",
+          "description": "Unique identifier for the student",
+          "example": "123"
+        },
+        "goal": {
+          "type": "string",
+          "description": "Career goal to score the resume against",
+          "enum": ["Amazon SDE", "ML Internship", "GATE ECE"],
+          "example": "Amazon SDE"
+        },
+        "resume_text": {
+          "type": "string",
+          "description": "Text content of the resume",
+          "example": "Proficient in Java, Python, Data Structures, and Algorithms"
+        }
+      }
+    },
+    "score_response": {
+      "type": "object",
+      "description": "Response schema for the /score endpoint",
+      "required": ["score", "is_pass", "matched_skills", "missing_skills", "missing_skills_grouped", "suggested_learning_path"],
+      "properties": {
+        "score": {
+          "type": "number",
+          "description": "Resume suitability score (0.0 to 1.0)",
+          "minimum": 0.0,
+          "maximum": 1.0,
+          "example": 0.85
+        },
+        "is_pass": {
+          "type": "boolean",
+          "description": "Whether the resume meets the minimum score threshold (0.5)",
+          "example": true
+        },
+        "matched_skills": {
+          "type": "array",
+          "description": "Skills found in the resume",
+          "items": { "type": "string" },
+          "example": ["Java", "Python", "Data Structures", "Algorithms"]
+        },
+        "missing_skills": {
+          "type": "array",
+          "description": "Skills not found in the resume, capped at 15",
+          "items": { "type": "string" },
+          "example": ["System Design", "AWS"]
+        },
+        "missing_skills_grouped": {
+          "type": "object",
+          "description": "Missing skills grouped by category",
+          "additionalProperties": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "example": {
+            "Core CS": ["Big O Notation"],
+            "Backend & Infra": ["System Design", "SQL"]
+          }
+        },
+        "suggested_learning_path": {
+          "type": "array",
+          "description": "Learning recommendations for missing skills",
+          "items": { "type": "string" },
+          "example": [
+            "Sketch scalable systems like Twitter feed or Amazon checkout to understand real-world design",
+            "Practice joins and subqueries on LeetCode or HackerRank"
+          ]
+        }
+      }
+    }
+  }
+}

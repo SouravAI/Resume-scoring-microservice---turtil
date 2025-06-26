@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "minimum_score_to_pass": 0.5,
+  "log_score_details": true,
+  "model_goals_supported": ["Amazon SDE", "ML Internship", "GATE ECE"],
+  "default_goal_model": "Amazon SDE"
+}

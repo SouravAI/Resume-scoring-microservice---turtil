@@ -1,0 +1,847 @@
+{
+  "Machine Learning": [
+    "ML",
+    "Statistical Learning",
+    "Predictive Modeling",
+    "Data Mining",
+    "Pattern Recognition",
+    "AI",
+    "Artificial Intelligence",
+    "ML Algorithms",
+    "ML Models"
+  ],
+  "Java": [
+    "Java Programming",
+    "Java Development",
+    "JVM Languages",
+    "Java SE",
+    "Java EE",
+    "Java Language",
+    "Java Coding",
+    "Java Software Development"
+  ],
+  "Digital Electronics": [
+    "Digital Logic",
+    "Logic Design",
+    "Combinational Circuits",
+    "Sequential Circuits",
+    "Digital Systems",
+    "Digital Circuit Design",
+    "Logic Circuits",
+    "Digital Systems Design"
+  ],
+  "Data Structures": [
+    "DS",
+    "Data Organization",
+    "Abstract Data Types",
+    "ADT",
+    "Data Structure Implementation",
+    "Data Structure Algorithms"
+  ],
+  "Algorithms": [
+    "Algos",
+    "Algorithm Design",
+    "Computational Methods",
+    "Algorithm Development",
+    "Algorithm Analysis",
+    "Computational Algorithms"
+  ],
+  "Python": [
+    "Python Programming",
+    "Py",
+    "Python Development",
+    "Python 3",
+    "Python Scripting",
+    "Python Coding",
+    "Python Software Development",
+    "Python Language"
+  ],
+  "System Design": [
+    "Software Architecture",
+    "System Architecture",
+    "Scalable System Design",
+    "Distributed System Design"
+  ],
+  "Distributed Systems": [
+    "Distributed Computing",
+    "Distributed Architectures",
+    "Distributed Algorithms"
+  ],
+  "AWS": [
+    "Amazon Web Services",
+    "Cloud Computing with AWS",
+    "AWS Cloud",
+    "AWS Services"
+  ],
+  "C++": [
+    "C++ Programming",
+    "C++ Development",
+    "C Plus Plus",
+    "CPP"
+  ],
+  "SQL": [
+    "Structured Query Language",
+    "Database Querying",
+    "SQL Databases",
+    "SQL Language"
+  ],
+  "Object-Oriented Programming (OOP)": [
+    "OOP",
+    "OOP Concepts",
+    "Object-Oriented Design",
+    "OOP Principles"
+  ],
+  "Problem Solving": [
+    "Analytical Thinking",
+    "Critical Thinking",
+    "Logical Reasoning",
+    "Problem-Solving Skills"
+  ],
+  "Cloud Computing": [
+    "Cloud Services",
+    "Cloud Infrastructure",
+    "Cloud Platforms",
+    "Cloud Technology"
+  ],
+  "RESTful APIs": [
+    "REST APIs",
+    "Web Services",
+    "API Development",
+    "RESTful Services"
+  ],
+  "Git": [
+    "Version Control",
+    "Git Version Control",
+    "Source Code Management",
+    "Git SCM"
+  ],
+  "Linux": [
+    "Linux Operating System",
+    "Unix",
+    "Linux Commands",
+    "Linux OS"
+  ],
+  "CI/CD": [
+    "Continuous Integration",
+    "Continuous Deployment",
+    "DevOps Practices",
+    "CI/CD Pipelines"
+  ],
+  "Docker": [
+    "Containerization",
+    "Docker Containers",
+    "Container Orchestration",
+    "Docker Platform"
+  ],
+  "Kubernetes": [
+    "K8s",
+    "Kubernetes Orchestration",
+    "Container Management",
+    "Kubernetes Clusters"
+  ],
+  "Unit Testing": [
+    "Software Testing",
+    "Test-Driven Development",
+    "TDD",
+    "Unit Tests"
+  ],
+  "Multithreading": [
+    "Concurrent Programming",
+    "Parallel Processing",
+    "Thread Management",
+    "Multithreaded Programming"
+  ],
+  "Scalability": [
+    "System Scalability",
+    "Scalable Architecture",
+    "Performance Scaling",
+    "Scalability Techniques"
+  ],
+  "Performance Optimization": [
+    "Code Optimization",
+    "System Performance",
+    "Efficiency Improvement",
+    "Optimization Techniques"
+  ],
+  "Agile": [
+    "Agile Methodology",
+    "Scrum",
+    "Kanban",
+    "Agile Development",
+    "Agile Practices"
+  ],
+  "Troubleshooting": [
+    "Debugging",
+    "Problem Diagnosis",
+    "Issue Resolution",
+    "Troubleshooting Skills"
+  ],
+  "Debugging": [
+    "Code Debugging",
+    "Error Fixing",
+    "Bug Fixing",
+    "Debugging Techniques"
+  ],
+  "Messaging Queues": [
+    "Message Brokers",
+    "Queue Systems",
+    "Asynchronous Messaging",
+    "Message Queueing"
+  ],
+  "API Development": [
+    "Web API Development",
+    "REST API Development",
+    "API Design",
+    "API Creation"
+  ],
+  "JavaScript": [
+    "JS",
+    "JavaScript Programming",
+    "JavaScript Development",
+    "JavaScript Language"
+  ],
+  "React": [
+    "React.js",
+    "React Framework",
+    "Front-end Development with React",
+    "React Library"
+  ],
+  "Node.js": [
+    "Node",
+    "NodeJS",
+    "Server-side JavaScript",
+    "Node.js Development"
+  ],
+  "PostgreSQL": [
+    "Postgres",
+    "PostgreSQL Database",
+    "SQL Database",
+    "PostgreSQL RDBMS"
+  ],
+  "MySQL": [
+    "MySQL Database",
+    "Relational Database",
+    "SQL",
+    "MySQL RDBMS"
+  ],
+  "DynamoDB": [
+    "AWS DynamoDB",
+    "NoSQL Database",
+    "Key-Value Store",
+    "DynamoDB Service"
+  ],
+  "S3": [
+    "Amazon S3",
+    "Simple Storage Service",
+    "Cloud Storage",
+    "S3 Buckets"
+  ],
+  "EC2": [
+    "Amazon EC2",
+    "Elastic Compute Cloud",
+    "Virtual Machines",
+    "EC2 Instances"
+  ],
+  "Lambda": [
+    "AWS Lambda",
+    "Serverless Computing",
+    "Function as a Service",
+    "Lambda Functions"
+  ],
+  "Networking": [
+    "Computer Networks",
+    "Network Protocols",
+    "TCP/IP",
+    "Networking Fundamentals"
+  ],
+  "Security": [
+    "Cybersecurity",
+    "Information Security",
+    "Network Security",
+    "Security Practices"
+  ],
+  "Concurrency": [
+    "Concurrent Programming",
+    "Parallel Computing",
+    "Thread Safety",
+    "Concurrency Control"
+  ],
+  "High Availability": [
+    "HA",
+    "System Reliability",
+    "Fault Tolerance",
+    "High Availability Systems"
+  ],
+  "Load Balancing": [
+    "Load Distribution",
+    "Traffic Management",
+    "Scalability",
+    "Load Balancers"
+  ],
+  "Caching": [
+    "Cache Management",
+    "Data Caching",
+    "Performance Optimization",
+    "Caching Techniques"
+  ],
+  "Big O Notation": [
+    "Time Complexity",
+    "Space Complexity",
+    "Algorithm Efficiency",
+    "Big O Analysis"
+  ],
+  "Database Design": [
+    "DB Design",
+    "Schema Design",
+    "Data Modeling",
+    "Database Architecture"
+  ],
+  "Scripting": [
+    "Shell Scripting",
+    "Automation Scripting",
+    "Bash Scripting",
+    "Scripting Languages"
+  ],
+  "Jira": [
+    "Jira Software",
+    "Project Management Tool",
+    "Issue Tracking",
+    "Jira Platform"
+  ],
+  "Test-Driven Development (TDD)": [
+    "TDD",
+    "Test-First Development",
+    "Unit Testing",
+    "TDD Practices"
+  ],
+  "Pandas": [
+    "Pandas Library",
+    "Data Manipulation with Pandas",
+    "Python Data Analysis",
+    "Pandas DataFrames"
+  ],
+  "Numpy": [
+    "NumPy Library",
+    "Numerical Computing with Python",
+    "Array Operations",
+    "NumPy Arrays"
+  ],
+  "Scikit-learn": [
+    "Sklearn",
+    "Machine Learning Library",
+    "ML with Python",
+    "Scikit-learn Library"
+  ],
+  "Linear Regression": [
+    "Regression Analysis",
+    "Linear Models",
+    "Supervised Learning",
+    "Linear Regression Models"
+  ],
+  "KNN": [
+    "K-Nearest Neighbors",
+    "Instance-Based Learning",
+    "Classification Algorithm",
+    "KNN Algorithm"
+  ],
+  "Data Cleaning": [
+    "Data Preprocessing",
+    "Data Wrangling",
+    "Data Preparation",
+    "Cleaning Data"
+  ],
+  "EDA (Exploratory Data Analysis)": [
+    "Exploratory Analysis",
+    "Data Exploration",
+    "Statistical Analysis",
+    "EDA Techniques"
+  ],
+  "Supervised Learning": [
+    "Supervised ML",
+    "Labelled Data Learning",
+    "Classification and Regression",
+    "Supervised Algorithms"
+  ],
+  "Unsupervised Learning": [
+    "Unsupervised ML",
+    "Clustering",
+    "Dimensionality Reduction",
+    "Unsupervised Algorithms"
+  ],
+  "TensorFlow": [
+    "TF",
+    "TensorFlow Framework",
+    "Deep Learning Library",
+    "TensorFlow API"
+  ],
+  "PyTorch": [
+    "Torch",
+    "PyTorch Library",
+    "Deep Learning with PyTorch",
+    "PyTorch Framework"
+  ],
+  "Keras": [
+    "Keras API",
+    "High-Level Neural Networks API",
+    "Deep Learning with Keras",
+    "Keras Library"
+  ],
+  "Deep Learning": [
+    "DL",
+    "Deep Neural Networks",
+    "Advanced ML",
+    "Deep Learning Techniques"
+  ],
+  "Neural Networks": [
+    "NN",
+    "Artificial Neural Networks",
+    "ANN",
+    "Neural Net Models"
+  ],
+  "Convolutional Neural Networks (CNNs)": [
+    "CNN",
+    "ConvNets",
+    "Image Recognition Networks",
+    "Convolutional Networks"
+  ],
+  "Recurrent Neural Networks (RNNs)": [
+    "RNN",
+    "Sequence Models",
+    "Time Series Networks",
+    "Recurrent Networks"
+  ],
+  "Decision Trees": [
+    "DT",
+    "Classification Trees",
+    "Regression Trees",
+    "Decision Tree Algorithms"
+  ],
+  "Support Vector Machines (SVM)": [
+    "SVM",
+    "Support Vector Classification",
+    "Kernel Methods",
+    "SVM Models"
+  ],
+  "Clustering (K-Means, Hierarchical)": [
+    "K-Means Clustering",
+    "Hierarchical Clustering",
+    "Unsupervised Clustering",
+    "Clustering Algorithms"
+  ],
+  "Classification": [
+    "Classification Algorithms",
+    "Supervised Classification",
+    "Categorization",
+    "Classification Models"
+  ],
+  "Regression": [
+    "Regression Analysis",
+    "Predictive Modeling",
+    "Supervised Regression",
+    "Regression Models"
+  ],
+  "Feature Engineering": [
+    "Feature Selection",
+    "Feature Extraction",
+    "Data Engineering",
+    "Feature Creation"
+  ],
+  "Model Evaluation": [
+    "Model Assessment",
+    "Performance Metrics",
+    "Validation Techniques",
+    "Model Testing"
+  ],
+  "Data Preprocessing": [
+    "Data Cleaning",
+    "Data Transformation",
+    "Data Normalization",
+    "Preprocessing Techniques"
+  ],
+  "Overfitting": [
+    "Model Overfitting",
+    "High Variance",
+    "Generalization Error",
+    "Overfitting Prevention"
+  ],
+  "Underfitting": [
+    "Model Underfitting",
+    "High Bias",
+    "Poor Fit",
+    "Underfitting Issues"
+  ],
+  "Cross-validation": [
+    "CV",
+    "K-Fold Cross-Validation",
+    "Model Validation",
+    "Cross-Validation Techniques"
+  ],
+  "Natural Language Processing (NLP)": [
+    "NLP",
+    "Text Processing",
+    "Language Models",
+    "NLP Techniques"
+  ],
+  "Computer Vision": [
+    "CV",
+    "Image Processing",
+    "Visual Recognition",
+    "Computer Vision Techniques"
+  ],
+  "Matplotlib": [
+    "Matplotlib Library",
+    "Data Visualization with Python",
+    "Plotting in Python",
+    "Matplotlib Plots"
+  ],
+  "Seaborn": [
+    "Seaborn Library",
+    "Statistical Data Visualization",
+    "Advanced Plotting",
+    "Seaborn Plots"
+  ],
+  "Jupyter Notebook": [
+    "Jupyter",
+    "IPython Notebook",
+    "Interactive Computing",
+    "Jupyter Environment"
+  ],
+  "Statistical Analysis": [
+    "Stats Analysis",
+    "Data Statistics",
+    "Quantitative Analysis",
+    "Statistical Methods"
+  ],
+  "Hyperparameter Tuning": [
+    "Model Tuning",
+    "Parameter Optimization",
+    "Hyperparameter Search",
+    "Tuning Techniques"
+  ],
+  "Reinforcement Learning (RL)": [
+    "RL",
+    "Agent-Based Learning",
+    "Reward-Based Learning",
+    "RL Algorithms"
+  ],
+  "AWS Sagemaker": [
+    "Sagemaker",
+    "Amazon Sagemaker",
+    "ML on AWS",
+    "Sagemaker Platform"
+  ],
+  "Google Cloud AI Platform": [
+    "GCP AI",
+    "Google AI Platform",
+    "Cloud ML",
+    "Google Cloud Machine Learning"
+  ],
+  "Azure Machine Learning": [
+    "Azure ML",
+    "Microsoft Azure ML",
+    "Cloud-Based ML",
+    "Azure ML Service"
+  ],
+  "Model Deployment": [
+    "Deploying Models",
+    "Productionizing ML Models",
+    "ML Ops",
+    "Model Serving"
+  ],
+  "Data Pipeline": [
+    "Data Workflow",
+    "ETL Pipeline",
+    "Data Processing Pipeline",
+    "Pipeline Development"
+  ],
+  "Signals and Systems": [
+    "Signal Processing",
+    "System Analysis",
+    "Linear Systems",
+    "Signals & Systems"
+  ],
+  "Control Systems": [
+    "Feedback Systems",
+    "Automatic Control",
+    "Control Theory",
+    "Control Engineering"
+  ],
+  "Analog Circuits": [
+    "Analog Electronics",
+    "Analog Design",
+    "Circuit Design",
+    "Analog Circuitry"
+  ],
+  "Communication Systems": [
+    "Comm Systems",
+    "Telecommunication",
+    "Wireless Communication",
+    "Communication Engineering"
+  ],
+  "Electromagnetics": [
+    "EMT",
+    "Electromagnetic Theory",
+    "EM Fields",
+    "Electromagnetism"
+  ],
+  "Network Theory": [
+    "Circuit Theory",
+    "Network Analysis",
+    "Electrical Networks",
+    "Network Theorems"
+  ],
+  "Microprocessors": [
+    "Microcontroller",
+    "Embedded Systems",
+    "Processor Architecture",
+    "Microprocessor Systems"
+  ],
+  "Mathematics (Engineering Mathematics)": [
+    "Engg Math",
+    "Applied Mathematics",
+    "Mathematical Methods",
+    "Engineering Maths"
+  ],
+  "Electronic Devices": [
+    "Semiconductor Devices",
+    "Electronic Components",
+    "Device Physics",
+    "Electronics Devices"
+  ],
+  "VLSI Design": [
+    "Very Large Scale Integration",
+    "Chip Design",
+    "Integrated Circuit Design",
+    "VLSI Technology"
+  ],
+  "Embedded Systems": [
+    "Embedded Programming",
+    "Microcontroller Systems",
+    "Real-Time Systems",
+    "Embedded Software"
+  ],
+  "Digital Signal Processing (DSP)": [
+    "DSP",
+    "Signal Processing",
+    "Digital Filters",
+    "DSP Techniques"
+  ],
+  "Op-Amps": [
+    "Operational Amplifiers",
+    "Amplifier Circuits",
+    "Analog Amplifiers",
+    "Op-Amp Circuits"
+  ],
+  "Diodes": [
+    "Semiconductor Diodes",
+    "Rectifiers",
+    "PN Junction",
+    "Diode Circuits"
+  ],
+  "Transistors (BJT, MOSFET)": [
+    "Bipolar Junction Transistors",
+    "Field-Effect Transistors",
+    "Transistor Circuits",
+    "BJT and MOSFET"
+  ],
+  "Amplifiers": [
+    "Electronic Amplifiers",
+    "Signal Amplification",
+    "Amplifier Design",
+    "Amplifier Types"
+  ],
+  "Filters (Analog, Digital)": [
+    "Analog Filters",
+    "Digital Filters",
+    "Signal Filtering",
+    "Filter Design"
+  ],
+  "Modulation (AM, FM, PM, PCM, QAM)": [
+    "Amplitude Modulation",
+    "Frequency Modulation",
+    "Phase Modulation",
+    "Pulse Code Modulation",
+    "Quadrature Amplitude Modulation",
+    "Modulation Techniques"
+  ],
+  "Antenna Theory": [
+    "Antenna Design",
+    "Radio Wave Propagation",
+    "Antenna Systems",
+    "Antenna Fundamentals"
+  ],
+  "Waveguides": [
+    "Waveguide Structures",
+    "Microwave Engineering",
+    "Guided Waves",
+    "Waveguide Theory"
+  ],
+  "Transmission Lines": [
+    "TL",
+    "Transmission Line Theory",
+    "Impedance Matching",
+    "Transmission Line Analysis"
+  ],
+  "Verilog": [
+    "Verilog HDL",
+    "Hardware Description Language",
+    "Digital Design with Verilog",
+    "Verilog Programming"
+  ],
+  "VHDL": [
+    "VHDL Language",
+    "Hardware Description",
+    "FPGA Programming",
+    "VHDL Design"
+  ],
+  "FPGA (Field-Programmable Gate Array)": [
+    "FPGA Design",
+    "Programmable Logic Devices",
+    "Reconfigurable Hardware",
+    "FPGA Technology"
+  ],
+  "ASIC Design": [
+    "Application-Specific Integrated Circuit",
+    "Custom IC Design",
+    "Semiconductor Design",
+    "ASIC Development"
+  ],
+  "Microcontrollers (e.g., Arduino, PIC)": [
+    "Arduino Programming",
+    "PIC Microcontrollers",
+    "Embedded Microcontrollers",
+    "Microcontroller Systems"
+  ],
+  "Semiconductor Physics": [
+    "Solid-State Physics",
+    "Semiconductor Theory",
+    "Device Physics",
+    "Semiconductor Materials"
+  ],
+  "Power Electronics": [
+    "Power Conversion",
+    "Power Supplies",
+    "Inverters and Converters",
+    "Power Electronic Devices"
+  ],
+  "Instrumentation": [
+    "Measurement Systems",
+    "Sensors and Transducers",
+    "Industrial Instrumentation",
+    "Instrumentation Engineering"
+  ],
+  "Sensors": [
+    "Sensor Technology",
+    "Transducers",
+    "Sensing Devices",
+    "Sensor Applications"
+  ],
+  "Circuit Analysis": [
+    "Electrical Circuit Analysis",
+    "Network Analysis",
+    "AC/DC Circuits",
+    "Circuit Theory"
+  ],
+  "Laplace Transform": [
+    "Laplace Transformation",
+    "s-Domain Analysis",
+    "Transform Methods",
+    "Laplace Analysis"
+  ],
+  "Fourier Transform": [
+    "Fourier Analysis",
+    "Frequency Domain Analysis",
+    "Signal Transforms",
+    "Fourier Series"
+  ],
+  "Z-Transform": [
+    "Z Transformation",
+    "Discrete-Time Systems",
+    "Digital Signal Processing",
+    "Z-Plane Analysis"
+  ],
+  "Control System Design": [
+    "Controller Design",
+    "Feedback Control",
+    "System Stability",
+    "Control Design Techniques"
+  ],
+  "Feedback Systems": [
+    "Closed-Loop Systems",
+    "Feedback Control Systems",
+    "Automatic Feedback",
+    "Feedback Loops"
+  ],
+  "Boolean Algebra": [
+    "Logic Algebra",
+    "Switching Algebra",
+    "Digital Logic",
+    "Boolean Logic"
+  ],
+  "Logic Gates": [
+    "Digital Gates",
+    "Logic Circuits",
+    "Gate-Level Design",
+    "Logic Gate Design"
+  ],
+  "CMOS": [
+    "Complementary Metal-Oxide-Semiconductor",
+    "CMOS Technology",
+    "MOSFET Circuits",
+    "CMOS Design"
+  ],
+  "ADC/DAC (Analog-to-Digital/Digital-to-Analog Converters)": [
+    "A/D Converters",
+    "D/A Converters",
+    "Data Converters",
+    "Analog-Digital Conversion"
+  ],
+  "OSI Model": [
+    "Open Systems Interconnection",
+    "Network Layers",
+    "Communication Protocols",
+    "OSI Layers"
+  ],
+  "MATLAB": [
+    "MATLAB Programming",
+    "Numerical Computing with MATLAB",
+    "Simulation with MATLAB",
+    "MATLAB Software"
+  ],
+  "Simulink": [
+    "Simulink Modeling",
+    "Model-Based Design",
+    "System Simulation",
+    "Simulink Environment"
+  ],
+  "SPICE (Circuit Simulation)": [
+    "SPICE Simulation",
+    "Circuit Modeling",
+    "Analog Simulation",
+    "SPICE Tools"
+  ],
+  "Cadence Virtuoso": [
+    "Virtuoso Design Environment",
+    "IC Design with Cadence",
+    "Analog Design Tools",
+    "Cadence Software"
+  ],
+  "Xilinx ISE/Vivado": [
+    "Xilinx Tools",
+    "FPGA Design with Xilinx",
+    "ISE Design Suite",
+    "Vivado Design Suite"
+  ],
+  "IoT": [
+    "Internet of Things",
+    "Connected Devices",
+    "Smart Systems",
+    "IoT Technology"
+  ],
+  "Wireless Communication": [
+    "Wireless Networks",
+    "Mobile Communication",
+    "RF Communication",
+    "Wireless Tech"
+  ]
+}

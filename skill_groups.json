@@ -1,0 +1,32 @@
+{
+  "Amazon SDE": {
+    "Core CS": ["Data Structures", "Algorithms", "Problem Solving", "Big O Notation"],
+    "Backend & Infra": ["System Design", "Database Design", "SQL", "NoSQL", "Caching", "Load Balancing", "Performance Optimization", "API Development"],
+    "Cloud & AWS": ["AWS", "S3", "EC2", "Lambda", "Cloud Computing", "High Availability", "Networking", "Security"],
+    "DevOps & Deployment": ["Docker", "Kubernetes", "CI/CD", "Git", "Linux", "Scripting"],
+    "Frontend": ["React", "JavaScript", "Node.js"],
+    "Testing & Debugging": ["Unit Testing", "TDD", "Debugging", "Troubleshooting"],
+    "Tools & Workflow": ["Agile", "Jira"],
+    "Languages": ["Java", "Python", "C++"],
+    "Software Engineering Practices": ["CI/CD", "Unit Testing", "Agile", "TDD"]
+  },
+  "ML Internship": {
+    "ML Core": ["Machine Learning", "Supervised Learning", "Unsupervised Learning", "Classification", "Regression", "Model Evaluation", "Overfitting", "Underfitting", "Feature Engineering", "Cross-validation"],
+    "Deep Learning": ["Deep Learning", "Neural Networks", "CNNs", "RNNs", "Reinforcement Learning (RL)", "Keras", "TensorFlow", "PyTorch"],
+    "Data Handling": ["Data Cleaning", "EDA", "Data Preprocessing", "Statistical Analysis", "Feature Engineering"],
+    "Python & Libraries": ["Python", "Pandas", "Numpy", "Scikit-learn", "Matplotlib", "Seaborn", "Jupyter Notebook"],
+    "Platforms & Deployment": ["Google Cloud AI Platform", "Azure Machine Learning", "AWS Sagemaker", "Model Deployment", "Data Pipeline"],
+    "NLP & CV": ["Natural Language Processing (NLP)", "Computer Vision"],
+    "Tools & Workflow": ["Git", "SQL"]
+  },
+  "GATE ECE": {
+    "Digital & Logic": ["Digital Electronics", "Boolean Algebra", "Logic Gates", "CMOS", "VLSI Design", "Verilog", "VHDL", "FPGA", "ASIC Design"],
+    "Analog & Devices": ["Analog Circuits", "Electronic Devices", "Op-Amps", "Diodes", "Transistors (BJT, MOSFET)", "Amplifiers", "Filters", "Semiconductor Physics"],
+    "Communication": ["Communication Systems", "Modulation", "Antenna Theory", "Waveguides", "Transmission Lines", "Wireless Communication"],
+    "Control Systems": ["Control Systems", "Feedback Systems", "Control System Design"],
+    "Signal Processing": ["Signals and Systems", "Digital Signal Processing (DSP)", "Fourier Transform", "Laplace Transform", "Z-Transform"],
+    "Micro & Embedded": ["Microprocessors", "Microcontrollers", "Embedded Systems", "Sensors", "Instrumentation", "IoT"],
+    "Math & Simulation": ["Mathematics", "Circuit Analysis", "Power Electronics", "MATLAB", "Simulink", "SPICE", "Cadence Virtuoso", "Xilinx ISE/Vivado"],
+    "Networking & OSI": ["OSI Model"]
+  }
+}
